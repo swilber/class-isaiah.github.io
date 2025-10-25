@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Isaiah Study - Online Classroom</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="classroom-container">
+        <!-- Sidebar Navigation -->
+        <nav class="sidebar">
+            <div class="course-header">
+                <h2>Isaiah Study</h2>
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progressFill"></div>
+                </div>
+                <span class="progress-text" id="progressText">0% Complete</span>
+            </div>
+            
+            <div class="week-nav" id="weekNav">
+                <!-- Week navigation will be populated by JavaScript -->
+            </div>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="content-header">
+                <h1 id="currentWeekTitle">Isaiah Study Guide</h1>
+                <div class="week-controls">
+                    <button id="prevWeek" class="nav-btn" disabled>← Previous</button>
+                    <button id="nextWeek" class="nav-btn">Next →</button>
+                </div>
+            </header>
+
+            <div class="content-wrapper">
+                <div id="content" class="lesson-content">
+                    <div class="loading">Loading study content...</div>
+                </div>
+                
+                <!-- Interactive Elements -->
+                <div class="lesson-actions">
+                    <button id="markComplete" class="action-btn">Mark as Complete</button>
+                    <button id="takeNotes" class="action-btn secondary">Take Notes</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Notes Modal -->
+    <div id="notesModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h3>Lesson Notes</h3>
+            <textarea id="notesText" placeholder="Add your notes here..."></textarea>
+            <button id="saveNotes" class="action-btn">Save Notes</button>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
