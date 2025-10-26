@@ -317,7 +317,8 @@ function generateWeekHTML(week) {
                         <div class="gallery-item">
                             <div class="gallery-image">
                                 <img src="${image.url}" alt="${image.description}" 
-                                     onerror="this.src='https://via.placeholder.com/400x300/3498db/ffffff?text=${encodeURIComponent(image.title)}'">
+                                     onerror="this.src='https://via.placeholder.com/400x300/3498db/ffffff?text=${encodeURIComponent(image.title)}'"
+                                     onclick="openImageModal('${image.url}', '${image.title}', '${image.description}')">
                             </div>
                             <div class="gallery-info">
                                 <h4 class="gallery-title">${image.title}</h4>
@@ -466,3 +467,46 @@ function setupNotesModal() {
         modal.style.display = 'none';
     });
 }
+
+// Image Modal Functions
+function openImageModal(imageUrl, title, description) {
+    const modal = document.getElementById('imageModal');
+    const modalImage = document.getElementById('modalImage');
+    const modalInfo = document.getElementById('modalImageInfo');
+    
+    modalImage.src = imageUrl;
+    modalImage.alt = title;
+    modalInfo.innerHTML = `<h4>${title}</h4><p>${description}</p>`;
+    modal.style.display = 'block';
+}
+
+function closeImageModal() {
+    document.getElementById('imageModal').style.display = 'none';
+}
+
+// Setup image modal event listeners
+document.addEventListener('DOMContentLoaded', function() {
+    const imageModal = document.getElementById('imageModal');
+    const imageClose = document.querySelector('.image-close');
+    
+    // Close on X button
+    if (imageClose) {
+        imageClose.addEventListener('click', closeImageModal);
+    }
+    
+    // Close on background click
+    if (imageModal) {
+        imageModal.addEventListener('click', function(e) {
+            if (e.target === imageModal) {
+                closeImageModal();
+            }
+        });
+    }
+    
+    // Close on escape key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && imageModal.style.display === 'block') {
+            closeImageModal();
+        }
+    });
+});

@@ -1,0 +1,412 @@
+{
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "title": "Introduction to the Book of Isaiah",
+      "images": [
+        {
+          "title": "Great Isaiah Scroll",
+          "description": "High-resolution photograph of the Great Isaiah Scroll (1QIsa^a) from Qumran, showing preserved Hebrew text of Isaiah.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Great_Isaiah_Scroll.jpg",
+          "importance": "This oldest complete copy of Isaiah (c. 125 BC) demonstrates textual reliability, connecting ancient scribal practices to the Dead Sea Scrolls' preservation of the prophet’s words."
+        },
+        {
+          "title": "Assyrian Empire Map 671 BC",
+          "description": "Map of the Assyrian Empire at its peak under Esarhaddon (671 BC), showing Judah, Babylon, and Egypt.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Assyrian_Empire_671_BC.jpg",
+          "importance": "It illustrates the Assyrian dominance during Isaiah’s ministry (740–680 BC), highlighting the geopolitical threats that shaped his prophecies."
+        },
+        {
+          "title": "Hezekiah’s Seal",
+          "description": "Photograph of a bulla (seal impression) of King Hezekiah, inscribed with his name in ancient Hebrew script, from 8th-century BC Judah.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Hezekiah_seal.jpg",
+          "importance": "This artifact confirms Hezekiah’s reign, a key figure in Isaiah’s context, grounding the historical setting of Judah’s kings during Assyrian aggression."
+        },
+        {
+          "title": "Siloam Inscription",
+          "description": "Photograph of the Siloam Inscription, a 8th-century BC Hebrew text detailing Hezekiah’s tunnel in Jerusalem.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Siloam_Inscription_Istanbul_Archaeological_Museum.jpg",
+          "importance": "This inscription provides archaeological evidence of Judah’s infrastructure under Hezekiah, reflecting the historical context of Isaiah’s prophecies."
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "title": "Isaiah 1-6 (Indictment, Vision, and Early Prophecies)",
+      "images": [
+        {
+          "title": "Model of Solomon’s Temple",
+          "description": "A reconstructed model of Solomon’s Temple in Jerusalem, representing the 8th-century BC temple setting.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Model_of_Solomon%27s_Temple.jpg",
+          "importance": "This visualizes the temple where Isaiah’s throne-room vision (ch. 6) occurred, reflecting ancient Judean worship practices during Uzziah’s reign."
+        },
+        {
+          "title": "Map of Judah Under Uzziah",
+          "description": "Map of Judah’s borders under Uzziah (c. 790–739 BC), showing Jerusalem and neighboring regions.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kingdom_of_Judah.svg",
+          "importance": "It shows Judah’s extent during Uzziah’s reign, contextualizing the rebellion and idolatry Isaiah indicted in chapters 1-5."
+        },
+        {
+          "title": "Assyrian Siege Ramp",
+          "description": "Reconstruction of an Assyrian siege ramp, used in attacks on Judean cities like Lachish.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Assyrian_siege_ramp_Lachish.jpg",
+          "importance": "This illustrates Assyrian military tactics in the 8th century BC, highlighting the threats Judah faced during Isaiah’s early prophecies."
+        },
+        {
+          "title": "Ancient Hebrew Altar",
+          "description": "Image of an ancient Israelite altar, used for sacrifices in Judah’s temple worship.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ancient_Israelite_altar.jpg",
+          "importance": "It depicts the religious practices criticized by Isaiah (ch. 1) for hypocrisy, grounding the context of Judah’s spiritual decay."
+        }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "title": "Isaiah 7-12 (Immanuel and the Messianic King)",
+      "images": [
+        {
+          "title": "Syro-Ephraimite War Map",
+          "description": "Map illustrating the Syro-Ephraimite War (734-732 BC), showing Israel and Syria’s alliance against Judah.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Syro-Ephraimite_War_map.png",
+          "importance": "It maps the coalition against Ahaz in Isaiah 7, highlighting the geopolitical crisis that prompted the Immanuel prophecy."
+        },
+        {
+          "title": "Assyrian Relief of Tiglath-Pileser III",
+          "description": "Relief showing Tiglath-Pileser III, the Assyrian king who pressured Judah during Ahaz’s reign.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Tiglath-Pileser_III_relief.jpg",
+          "importance": "This artifact illustrates the Assyrian power Ahaz allied with (Isaiah 7-8), showing the military might Isaiah urged Judah to reject."
+        },
+        {
+          "title": "Davidic Throne Relief",
+          "description": "Ancient Near Eastern relief of a king on a throne, symbolizing the Davidic line in Isaiah 9:6-7.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ancient_Near_Eastern_throne.jpg",
+          "importance": "It reflects the royal imagery of the Messianic king in Isaiah 11, connecting to ancient Judean expectations of a just ruler."
+        },
+        {
+          "title": "Hebrew Inscription of Ahaz",
+          "description": "Bulla with ancient Hebrew inscription linked to King Ahaz, from 8th-century BC Judah.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ahaz_bulla.jpg",
+          "importance": "This artifact confirms Ahaz’s historical role, grounding the context of his faithlessness and Isaiah’s call to trust God."
+        }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "title": "Isaiah 13-20 (Oracles Against the Nations, Part 1)",
+      "images": [
+        {
+          "title": "Babylonian Ziggurat Reconstruction",
+          "description": "Reconstruction of a Babylonian ziggurat, symbolizing the religious hubris of Babylon in Isaiah 13-14.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ziggurat_of_Ur.jpg",
+          "importance": "This depicts Babylonian architecture, illustrating the empire’s pride that Isaiah prophesied against."
+        },
+        {
+          "title": "Moabite Stone (Mesha Stele)",
+          "description": "Photograph of the Mesha Stele, a 9th-century BC Moabite inscription mentioning conflicts with Israel.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mesha_Stele.jpg",
+          "importance": "It provides archaeological context for Moab in Isaiah 15-16, showing regional conflicts with Judah’s neighbors."
+        },
+        {
+          "title": "Philistine Pottery",
+          "description": "Image of Philistine pottery from the 8th century BC, found in excavations near Judah.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Philistine_pottery.jpg",
+          "importance": "This artifact reflects Philistia’s culture in Isaiah 14, grounding the oracle against Judah’s western neighbor."
+        },
+        {
+          "title": "Egyptian Wall Relief",
+          "description": "Relief of Egyptian pharaoh from the 8th century BC, symbolizing Egypt’s role in alliances.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Egyptian_pharaoh_relief.jpg",
+          "importance": "It illustrates Egypt’s prominence in Isaiah 19-20, showing why Judah’s alliance with them was futile."
+        }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "title": "Isaiah 21-27 (Oracles and Little Apocalypse)",
+      "images": [
+        {
+          "title": "Tyre’s Harbor Reconstruction",
+          "description": "Illustration of Tyre’s ancient harbor, a Phoenician trade hub in the 8th century BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Tyre_harbor_reconstruction.jpg",
+          "importance": "This depicts Tyre’s economic power in Isaiah 23, highlighting the oracle against its pride."
+        },
+        {
+          "title": "Edom and Judah Map",
+          "description": "Map showing Edom and Judah territories, with the Dead Sea border, in the 8th century BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Map_of_Edom_and_Judah.png",
+          "importance": "It locates Edom for Isaiah 24’s cosmic judgment, symbolizing Judah’s ancient rival in the ‘little apocalypse’."
+        },
+        {
+          "title": "Mount Zion View",
+          "description": "19th-century colored illustration of Mount Zion, Jerusalem, evoking the banquet site in Isaiah 25.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mount_Zion%2C_Jerusalem%2C_the_Mosque_of_David%2C_colored%2C_1836.jpg",
+          "importance": "This depicts Jerusalem’s sacred hill, central to the Messianic feast vision in Isaiah 25."
+        },
+        {
+          "title": "Babylonian Lion Relief",
+          "description": "Relief of a lion from Babylon’s Ishtar Gate, symbolizing Babylonian power.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Babylonian_lion_Ishtar_Gate.jpg",
+          "importance": "It illustrates Babylon’s grandeur in Isaiah 21, which Isaiah’s oracles predict will fall."
+        }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "title": "Isaiah 28-33 (Woes on Judah and Trust in God)",
+      "images": [
+        {
+          "title": "Assyrian Siege Engine",
+          "description": "Illustration of an Assyrian siege engine used in 8th-century BC campaigns against Judah.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Assyrian_siege_engine.jpg",
+          "importance": "This shows Assyrian military technology in Isaiah 28-31, illustrating the threats Judah faced."
+        },
+        {
+          "title": "Egyptian Chariot Relief",
+          "description": "Relief of an Egyptian chariot, symbolizing Egypt’s military in Isaiah 30-31.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Egyptian_chariot_relief.jpg",
+          "importance": "It depicts Egypt’s power, which Isaiah warned Judah against relying on instead of God."
+        },
+        {
+          "title": "Judean Ivory Carving",
+          "description": "8th-century BC ivory carving from Samaria, reflecting Judean elite culture.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Samaria_ivory_carving.jpg",
+          "importance": "This artifact shows the luxury of Judah’s corrupt leaders in Isaiah 28, criticized for their drunkenness."
+        },
+        {
+          "title": "Sennacherib’s Campaign Map",
+          "description": "Map of Sennacherib’s campaign routes into Judah c. 701 BC, distinct from earlier maps.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Sennacherib_campaign_in_Judah_map.svg",
+          "importance": "It illustrates the specific 701 BC invasion threats in Isaiah 28-33, grounding the woes against alliances."
+        }
+      ]
+    },
+    {
+      "weekNumber": 7,
+      "title": "Isaiah 34-39 (Judgment, Hezekiah’s Crisis, and Exile Foreshadowed)",
+      "images": [
+        {
+          "title": "Lachish Relief Sennacherib",
+          "description": "Assyrian relief panel showing the siege of Lachish with warriors and ramps, 701 BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lachish_reliefs%2C_British_Museum_13.jpg",
+          "importance": "It depicts the 701 BC siege in Isaiah 36-37, providing archaeological evidence of Assyrian tactics against Judah."
+        },
+        {
+          "title": "Hezekiah’s Tunnel",
+          "description": "Photograph of the interior of Hezekiah’s tunnel in Jerusalem, built to secure water during the siege.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hezekiah%27s_Tunnel.jpg",
+          "importance": "This shows Judah’s defensive preparations in Isaiah 36-37, reflecting Hezekiah’s practical faith."
+        },
+        {
+          "title": "Babylonian Chronicle Tablet",
+          "description": "Cuneiform tablet detailing Babylonian conquests, foreshadowing exile in Isaiah 39.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Babylonian_Chronicle.jpg",
+          "importance": "It illustrates Babylonian power, which Isaiah 39 predicts will lead to Judah’s exile."
+        },
+        {
+          "title": "Edomite Pottery",
+          "description": "Image of 8th-century BC Edomite pottery, representing Edom’s culture in Isaiah 34.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Edomite_pottery.jpg",
+          "importance": "This artifact grounds the judgment on Edom, symbolizing cosmic destruction in Isaiah 34."
+        }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "title": "Isaiah 40-45 (Comfort and God’s Sovereignty)",
+      "images": [
+        {
+          "title": "Babylonian Exile Map",
+          "description": "Map showing Judah to Babylon exile routes and Persian expansion under Cyrus, c. 586-539 BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Babylonian_Exile_map.svg",
+          "importance": "It illustrates the exile context for Isaiah 40’s message of comfort, showing the path to restoration."
+        },
+        {
+          "title": "Cyrus Cylinder",
+          "description": "Photograph of the Cyrus Cylinder, a 6th-century BC artifact detailing Cyrus’ conquests and decrees.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Cyrus_Cylinder.jpg",
+          "importance": "This artifact confirms Cyrus’ role in Isaiah 45, illustrating Persian sovereignty over Judah’s return."
+        },
+        {
+          "title": "Babylonian Idol Statue",
+          "description": "Image of a Babylonian deity statue, representing idol worship in Isaiah 44.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Babylonian_idol_statue.jpg",
+          "importance": "It depicts the futility of idols Isaiah contrasts with God’s power in the exile context."
+        },
+        {
+          "title": "Persian Relief of Cyrus",
+          "description": "Relief of a Persian king, possibly Cyrus, from Pasargadae, 6th century BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cyrus_relief_Pasargadae.jpg",
+          "importance": "This illustrates Cyrus’ authority in Isaiah 45, grounding God’s use of a pagan ruler."
+        }
+      ]
+    },
+    {
+      "weekNumber": 9,
+      "title": "Isaiah 46-52 (Idols, Exile’s End, Servant Songs)",
+      "images": [
+        {
+          "title": "Persian Empire Map 500 BC",
+          "description": "Map of the Achaemenid Empire under Cyrus and successors, including Judah, c. 500 BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Achaemenid_Empire_500_BC.png",
+          "importance": "It shows the Persian context of Isaiah 48, illustrating the empire that ended Judah’s exile."
+        },
+        {
+          "title": "Babylonian Processional Street",
+          "description": "Reconstruction of Babylon’s processional street, symbolizing its grandeur in Isaiah 46-47.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Babylon_processional_street.jpg",
+          "importance": "This depicts Babylon’s splendor, which Isaiah predicts will fall, contrasting with God’s power."
+        },
+        {
+          "title": "Persian Seal with Servant Imagery",
+          "description": "Persian seal with a figure in service, evoking the Servant’s role in Isaiah 49-52.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Persian_seal_servant.jpg",
+          "importance": "It reflects ancient imagery of servitude, connecting to the Servant’s mission to nations."
+        },
+        {
+          "title": "Exile Return Illustration",
+          "description": "Illustration of Jews returning from Babylon, symbolizing Isaiah 48’s restoration.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Exile_return_illustration.jpg",
+          "importance": "This visualizes the end of exile, grounding Isaiah’s promises of redemption."
+        }
+      ]
+    },
+    {
+      "weekNumber": 10,
+      "title": "Isaiah 53-55 (Suffering Servant and Covenant)",
+      "images": [
+        {
+          "title": "Ancient Israelite Sacrifice",
+          "description": "Illustration of an Israelite sacrificial altar, evoking the atonement imagery of Isaiah 53.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Ancient_Israelite_sacrifice.jpg",
+          "importance": "This depicts the sacrificial system underlying the Suffering Servant’s atonement in Isaiah 53."
+        },
+        {
+          "title": "Post-Exilic Judah Map",
+          "description": "Map of Judah after the return from exile, c. 539 BC, under Persian rule.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Post_Exilic_Judah_Map.png",
+          "importance": "It shows restored Judah in Isaiah 55’s covenant context, highlighting post-exile boundaries."
+        },
+        {
+          "title": "Covenant Renewal Tablet",
+          "description": "Ancient Near Eastern tablet with covenant text, symbolizing Isaiah 55’s new covenant.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Covenant_tablet.jpg",
+          "importance": "This reflects ancient covenant practices, connecting to Isaiah 55’s promise of eternal mercy."
+        },
+        {
+          "title": "Persian Burial Relief",
+          "description": "Relief of a Persian tomb, evoking the Servant’s burial in Isaiah 53:9.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Persian_burial_relief.jpg",
+          "importance": "It illustrates ancient burial customs, grounding the Servant’s humble grave imagery."
+        }
+      ]
+    },
+    {
+      "weekNumber": 11,
+      "title": "Isaiah 56-61 (Ethical Living and Anointed One)",
+      "images": [
+        {
+          "title": "Rebuilt Jerusalem Wall",
+          "description": "Illustration of Jerusalem’s rebuilt walls under Nehemiah, c. 5th century BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Jerusalem_wall_reconstruction.jpg",
+          "importance": "This depicts post-exilic Judah in Isaiah 56-59, showing the restored city where ethical living was emphasized."
+        },
+        {
+          "title": "Persian Yehud Coin",
+          "description": "Coin from the Persian province of Yehud, 5th century BC, with Hebrew script.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Yehud_coin.jpg",
+          "importance": "This artifact reflects Judah’s post-exilic economy in Isaiah 56, grounding the context of renewal."
+        },
+        {
+          "title": "Temple Menorah Relief",
+          "description": "Relief of a menorah from the Second Temple period, symbolizing worship in Isaiah 56.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Second_Temple_menorah.jpg",
+          "importance": "It illustrates the inclusive worship of foreigners in Isaiah 56, connecting to temple practices."
+        },
+        {
+          "title": "Anointed Prophet Illustration",
+          "description": "Illustration of an anointed prophet, evoking Isaiah 61’s messenger.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Anointed_prophet_illustration.jpg",
+          "importance": "This depicts the anointing imagery in Isaiah 61, reflecting ancient prophetic roles."
+        }
+      ]
+    },
+    {
+      "weekNumber": 12,
+      "title": "Isaiah 62-66 (New Creation and Final Hope)",
+      "images": [
+        {
+          "title": "Persian Jerusalem Map",
+          "description": "Map of Jerusalem in the Persian period, showing restored city and temple, c. 5th century BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Persian_Jerusalem_map.jpg",
+          "importance": "It depicts restored Jerusalem in Isaiah 62, grounding the vision of Zion’s glory."
+        },
+        {
+          "title": "Eschatological Vision Illustration",
+          "description": "Illustration of a renewed creation, symbolizing Isaiah 65-66’s new heavens and earth.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/New_Heavens_and_New_Earth_Illustration.jpg",
+          "importance": "This visualizes the eschatological hope of Isaiah 65-66, reflecting ancient apocalyptic imagery."
+        },
+        {
+          "title": "Edomite Fortress",
+          "description": "Photograph of an Edomite fortress ruin, representing Edom in Isaiah 63.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Edomite_fortress.jpg",
+          "importance": "This illustrates Edom’s strength, targeted for judgment in Isaiah 63’s vengeance imagery."
+        },
+        {
+          "title": "Second Temple Reconstruction",
+          "description": "Reconstruction of the Second Temple in Jerusalem, c. 5th century BC.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Second_Temple_reconstruction.jpg",
+          "importance": "It depicts the temple in Isaiah 66’s universal worship, grounding the final hope vision."
+        }
+      ]
+    }
+  ]
+}
