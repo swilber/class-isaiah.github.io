@@ -257,7 +257,7 @@ function generateMaterialsHTML() {
             
             <div class="materials-note">
                 <h3>Study Approach</h3>
-                <p>This study follows J. Alec Motyer's commentary as the primary text, supplemented by video lectures from Dr. John Oswalt and insights from Michael Heiser. The Blue Letter Bible provides essential tools for word studies and cross-references throughout the study.</p>
+                <p>${studyData.courseSummary.studyApproach}</p>
             </div>
         </div>
     `;

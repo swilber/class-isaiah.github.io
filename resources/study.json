@@ -1,6 +1,9 @@
 {
   "title": "Isaiah Study Guide",
   "description": "12-Week Verse-by-Verse Study for Men's Group",
+  "courseSummary": {
+    "studyApproach": "This 12-week study of Isaiah combines verse-by-verse exegesis with historical context and Messianic fulfillment. Each week includes preparation through Motyer's commentary, Oswalt's video lectures, and supplementary resources, followed by group discussion of key themes. The study emphasizes Isaiah's three-part structure (judgment/hope in chs. 1-39, comfort/Servant in chs. 40-55, and ethics/new creation in chs. 56-66), connecting 8th-century BC historical events to Christ's fulfillment. Participants engage with maps, images, and archaeological evidence while applying Isaiah's calls for faith, justice, and hope to modern leadership and discipleship challenges."
+  },
   "studyMaterials": [
     {
       "title": "Blue Letter Bible",
@@ -61,15 +64,15 @@
           "link": null
         },
         {
-          "text": "Watch Bible Project “Isaiah 1–39” () and “Isaiah 40–66” (++[video](https://bibleproject.com/videos/isaiah-40-66/)++) videos (9 min each, 18 min total)—only full watch; use timestamps for later reviews.",
+          "text": "Watch Bible Project “Isaiah 1–39” video (9 min)",
           "link": "https://bibleproject.com/videos/isaiah-1-39/"
         },
         {
-          "text": "Watch Dr. John Oswalt, Isaiah, Session 1 – Isaiah 1 (72 mins; ).",
-          "link": "https://www.youtube.com/watch?v=Y3n4g9M5K8g"
+          "text": "Watch Bible Project “Isaiah 40–66” video (9 min)",
+          "link": "https://bibleproject.com/videos/isaiah-40-66/"
         },
         {
-          "text": "Watch John Oswalt’s Biblical Training Lesson 1: “Introduction to Isaiah” (30 min; , select Lesson 1).",
+          "text": "Watch John Oswalt’s Biblical Training Lesson 1: “Introduction to Isaiah” (49 min; , select Lesson 1).",
           "link": "https://www.biblicaltraining.org/learn/institute/ot650-isaiah"
         },
         {
