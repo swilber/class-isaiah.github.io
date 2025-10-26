@@ -25,6 +25,14 @@ body {
     overflow-y: auto;
 }
 
+.course-header {
+    position: sticky;
+    top: 0;
+    background: #2c3e50;
+    z-index: 10;
+    padding-bottom: 15px;
+}
+
 .course-header h2 {
     margin-bottom: 20px;
     font-size: 1.5rem;
@@ -622,8 +630,8 @@ a:hover {
     .sidebar {
         width: 100%;
         height: auto;
-        max-height: none;
-        overflow: visible;
+        max-height: 70vh;
+        overflow-y: auto;
         position: sticky;
         top: 0;
         z-index: 100;
