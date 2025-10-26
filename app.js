@@ -94,6 +94,7 @@ function setupMobileToggle() {
     const text = mobileToggle.querySelector('.toggle-text');
     icon.textContent = '☰';
     text.textContent = 'Lessons';
+    mobileToggle.style.background = '#3498db';
     
     mobileToggle.addEventListener('click', () => {
         sidebarContent.classList.toggle('collapsed');
@@ -101,9 +102,11 @@ function setupMobileToggle() {
         if (sidebarContent.classList.contains('collapsed')) {
             icon.textContent = '☰';
             text.textContent = 'Lessons';
+            mobileToggle.style.background = '#3498db';
         } else {
             icon.textContent = '✕';
             text.textContent = 'Close';
+            mobileToggle.style.background = '#3498db';
         }
     });
 }

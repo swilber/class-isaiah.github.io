@@ -597,8 +597,11 @@ a:hover {
     border-bottom: 1px solid #2c3e50;
 }
 
-.mobile-toggle:hover {
+.mobile-toggle:hover,
+.mobile-toggle:focus,
+.mobile-toggle:active {
     background: #3498db;
+    outline: none;
 }
 
 .toggle-icon {
