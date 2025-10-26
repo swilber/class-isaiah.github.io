@@ -124,6 +124,9 @@ function printCurrentLesson() {
 }
 
 function generatePrintHTML(week) {
+    const userAnswersForWeek = questionAnswers[currentWeek] || {};
+    const userNotesForWeek = userNotes[currentWeek] || '';
+    
     return `
         <!DOCTYPE html>
         <html>
@@ -139,8 +142,46 @@ function generatePrintHTML(week) {
                 .prep-checkbox { width: 15px; height: 15px; margin-right: 10px; }
                 .questions-section { margin-top: 30px; }
                 .question { margin: 25px 0; page-break-inside: avoid; }
-                .question-number { font-weight: bold; color: #2c3e50; }
-                .answer-space { border-bottom: 1px solid #ddd; height: 60px; margin: 10px 0; }
+                .question-number { font-weight: bold; color: #2c3e50; margin-bottom: 10px; }
+                .answer-lines {
+                    position: relative;
+                    min-height: 120px;
+                    margin: 10px 0;
+                }
+                .answer-line {
+                    border-bottom: 1px solid #ddd;
+                    height: 30px;
+                    margin-bottom: 5px;
+                    position: relative;
+                }
+                .user-answer-overlay {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    padding: 5px 0;
+                    font-size: 14px;
+                    line-height: 25px;
+                    color: #333;
+                    white-space: pre-wrap;
+                    word-wrap: break-word;
+                }
+                .notes-section {
+                    margin-top: 40px;
+                    padding: 20px;
+                    background: #fff3cd;
+                    border-left: 4px solid #ffc107;
+                    border-radius: 4px;
+                }
+                .user-notes {
+                    background: white;
+                    border: 1px solid #ddd;
+                    padding: 15px;
+                    margin-top: 10px;
+                    border-radius: 4px;
+                    white-space: pre-wrap;
+                    min-height: 60px;
+                }
                 .page-break { page-break-before: always; }
                 @media print {
                     body { margin: 20px; }
@@ -183,20 +224,33 @@ function generatePrintHTML(week) {
             
             <div class="questions-section">
                 <h2>Group Questions</h2>
-                <p><em>Use the space below each question to write your answers:</em></p>
                 
-                ${week.questions && week.questions.length > 0 ? week.questions.map((question, index) => `
-                    <div class="question">
-                        <div class="question-number">${index + 1}. ${question}</div>
-                        <div class="answer-space"></div>
-                        <div class="answer-space"></div>
-                        <div class="answer-space"></div>
-                    </div>
-                `).join('') : '<p>No questions available for this week.</p>'}
+                ${week.questions && week.questions.length > 0 ? week.questions.map((question, index) => {
+                    const userAnswer = userAnswersForWeek[index] || '';
+                    return `
+                        <div class="question">
+                            <div class="question-number">${index + 1}. ${question}</div>
+                            <div class="answer-lines">
+                                <div class="answer-line"></div>
+                                <div class="answer-line"></div>
+                                <div class="answer-line"></div>
+                                <div class="answer-line"></div>
+                                ${userAnswer.trim() ? `<div class="user-answer-overlay">${userAnswer}</div>` : ''}
+                            </div>
+                        </div>
+                    `;
+                }).join('') : '<p>No questions available for this week.</p>'}
             </div>
             
+            ${userNotesForWeek ? `
+                <div class="notes-section">
+                    <h2>My Notes</h2>
+                    <div class="user-notes">${userNotesForWeek}</div>
+                </div>
+            ` : ''}
+            
             <div style="margin-top: 50px; text-align: center; color: #7f8c8d; font-size: 0.9em;">
-                Isaiah Study Guide - Week ${week.number}
+                Isaiah Study Guide - Week ${week.number} | Printed: ${new Date().toLocaleDateString()}
             </div>
         </body>
         </html>
