@@ -575,8 +575,44 @@ a:hover {
     line-height: 1.6;
 }
 
+/* Mobile Toggle */
+.mobile-toggle {
+    display: none;
+    background: #34495e;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    font-size: 1rem;
+    border-bottom: 1px solid #2c3e50;
+}
+
+.mobile-toggle:hover {
+    background: #3498db;
+}
+
+.toggle-icon {
+    margin-right: 10px;
+    font-size: 1.2rem;
+}
+
+.sidebar-content {
+    flex: 1;
+    overflow-y: auto;
+}
+
 /* Mobile Responsive Design */
 @media (max-width: 768px) {
+    .mobile-toggle {
+        display: block;
+    }
+    
+    .sidebar-content.collapsed {
+        display: none;
+    }
+    
     .classroom-container {
         flex-direction: column;
         height: auto;
@@ -586,11 +622,13 @@ a:hover {
     .sidebar {
         width: 100%;
         height: auto;
-        max-height: 40vh;
-        overflow-y: auto;
+        max-height: none;
+        overflow: visible;
         position: sticky;
         top: 0;
         z-index: 100;
+        display: flex;
+        flex-direction: column;
     }
     
     .main-content {

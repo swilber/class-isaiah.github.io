@@ -10,16 +10,23 @@
     <div class="classroom-container">
         <!-- Sidebar Navigation -->
         <nav class="sidebar">
-            <div class="course-header">
-                <h2>Isaiah Study</h2>
-                <div class="progress-bar">
-                    <div class="progress-fill" id="progressFill"></div>
-                </div>
-                <span class="progress-text" id="progressText">0% Complete</span>
-            </div>
+            <button class="mobile-toggle" id="mobileToggle">
+                <span class="toggle-icon">☰</span>
+                <span class="toggle-text">Lessons</span>
+            </button>
             
-            <div class="week-nav" id="weekNav">
-                <!-- Week navigation will be populated by JavaScript -->
+            <div class="sidebar-content" id="sidebarContent">
+                <div class="course-header">
+                    <h2>Isaiah Study</h2>
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                    <span class="progress-text" id="progressText">0% Complete</span>
+                </div>
+                
+                <div class="week-nav" id="weekNav">
+                    <!-- Week navigation will be populated by JavaScript -->
+                </div>
             </div>
         </nav>
 

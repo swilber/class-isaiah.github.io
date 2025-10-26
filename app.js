@@ -1,6 +1,6 @@
 // Online Classroom App
 let studyData = null;
-let currentWeek = 0;
+let currentWeek = parseInt(localStorage.getItem('currentWeek') || '0');
 let completedWeeks = JSON.parse(localStorage.getItem('completedWeeks') || '[]');
 let userNotes = JSON.parse(localStorage.getItem('userNotes') || '{}');
 let preparationChecked = JSON.parse(localStorage.getItem('preparationChecked') || '{}');
@@ -9,6 +9,15 @@ document.addEventListener('DOMContentLoaded', async function() {
     try {
         const response = await fetch('./resources/study.json');
         studyData = await response.json();
+        
+        // Find first incomplete week
+        currentWeek = 0;
+        for (let i = 0; i < studyData.weeks.length; i++) {
+            if (!completedWeeks.includes(i)) {
+                currentWeek = i;
+                break;
+            }
+        }
         
         // Initialize classroom
         initializeClassroom();
@@ -70,6 +79,33 @@ function initializeClassroom() {
     
     // Setup notes modal
     setupNotesModal();
+    
+    // Setup mobile toggle
+    setupMobileToggle();
+}
+
+function setupMobileToggle() {
+    const mobileToggle = document.getElementById('mobileToggle');
+    const sidebarContent = document.getElementById('sidebarContent');
+    
+    // Start with sidebar collapsed
+    sidebarContent.classList.add('collapsed');
+    const icon = mobileToggle.querySelector('.toggle-icon');
+    const text = mobileToggle.querySelector('.toggle-text');
+    icon.textContent = '☰';
+    text.textContent = 'Lessons';
+    
+    mobileToggle.addEventListener('click', () => {
+        sidebarContent.classList.toggle('collapsed');
+        
+        if (sidebarContent.classList.contains('collapsed')) {
+            icon.textContent = '☰';
+            text.textContent = 'Lessons';
+        } else {
+            icon.textContent = '✕';
+            text.textContent = 'Close';
+        }
+    });
 }
 
 function printCurrentLesson() {
