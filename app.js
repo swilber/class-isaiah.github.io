@@ -3,6 +3,7 @@ let studyData = null;
 let currentWeek = 0;
 let completedWeeks = JSON.parse(localStorage.getItem('completedWeeks') || '[]');
 let userNotes = JSON.parse(localStorage.getItem('userNotes') || '{}');
+let preparationChecked = JSON.parse(localStorage.getItem('preparationChecked') || '{}');
 
 document.addEventListener('DOMContentLoaded', async function() {
     try {
@@ -203,13 +204,19 @@ function generateWeekHTML(week) {
         html += `
             <div class="preparation">
                 <h2>Preparation</h2>
-                <ul>
-                    ${week.preparation.map(item => {
-                        if (item.link) {
-                            return `<li>${item.text} - <a href="${item.link}" target="_blank">${item.link}</a></li>`;
-                        } else {
-                            return `<li>${item.text}</li>`;
-                        }
+                <ul class="preparation-list">
+                    ${week.preparation.map((item, index) => {
+                        const checkboxId = `prep-${currentWeek}-${index}`;
+                        const isChecked = preparationChecked[currentWeek] && preparationChecked[currentWeek][index];
+                        return `<li class="preparation-item">
+                            <input type="checkbox" id="${checkboxId}" class="prep-checkbox" 
+                                   ${isChecked ? 'checked' : ''} 
+                                   onchange="togglePreparation(${currentWeek}, ${index})">
+                            <label for="${checkboxId}" class="prep-label ${isChecked ? 'completed' : ''}">
+                                ${item.text}
+                                ${item.link ? ` - <a href="${item.link}" target="_blank">${item.link}</a>` : ''}
+                            </label>
+                        </li>`;
                     }).join('')}
                 </ul>
             </div>
@@ -243,6 +250,25 @@ function generateWeekHTML(week) {
     }
     
     return html;
+}
+
+function togglePreparation(weekIndex, itemIndex) {
+    if (!preparationChecked[weekIndex]) {
+        preparationChecked[weekIndex] = {};
+    }
+    
+    preparationChecked[weekIndex][itemIndex] = !preparationChecked[weekIndex][itemIndex];
+    localStorage.setItem('preparationChecked', JSON.stringify(preparationChecked));
+    
+    // Update the label styling
+    const checkbox = document.getElementById(`prep-${weekIndex}-${itemIndex}`);
+    const label = document.querySelector(`label[for="prep-${weekIndex}-${itemIndex}"]`);
+    
+    if (checkbox.checked) {
+        label.classList.add('completed');
+    } else {
+        label.classList.remove('completed');
+    }
 }
 
 function markWeekComplete() {

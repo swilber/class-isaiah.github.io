@@ -7,7 +7,7 @@
       "description": "Free online Bible study tools with concordances, commentaries, and original language resources",
       "type": "Online Resource",
       "link": "https://www.blueletterbible.org/",
-      "image": "https://www.blueletterbible.org/assets/images/blb-logo-400.png",
+      "image": "https://www.blueletterbible.org/assets/images/home/blb_splash06.jpg",
       "required": true
     },
     {
@@ -16,7 +16,7 @@
       "type": "Commentary",
       "author": "J. Alec Motyer",
       "link": "https://www.amazon.com/Prophecy-Isaiah-Introduction-Commentary/dp/0830814248",
-      "image": "https://m.media-amazon.com/images/I/51VQZ8ZQZQL._SY445_SX342_.jpg",
+      "image": "https://books.google.com/books/publisher/content?id=p3R3CwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2tUIP06pJVAGp3hVBXQhrG5Veu1g&w=1280",
       "required": true
     }
   ],
