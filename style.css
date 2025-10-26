@@ -276,9 +276,116 @@ body {
     border-left-color: #17a2b8;
 }
 
+/* Group Questions - New Design */
 .group-questions {
     background: #d4edda;
     border-left-color: #28a745;
+    padding: 25px;
+}
+
+.group-questions h2 {
+    color: #155724;
+    margin-bottom: 20px;
+    font-size: 1.4rem;
+}
+
+.group-questions ol {
+    padding-left: 0;
+    list-style: none;
+    counter-reset: question-counter;
+}
+
+.question-item {
+    counter-increment: question-counter;
+    margin-bottom: 25px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 8px;
+    padding: 20px;
+    border: 1px solid rgba(40, 167, 69, 0.2);
+}
+
+.question-item::before {
+    content: counter(question-counter) ".";
+    font-weight: bold;
+    color: #28a745;
+    font-size: 1.1rem;
+    margin-right: 8px;
+    float: left;
+}
+
+.question-text {
+    margin-bottom: 15px;
+    font-weight: 500;
+    line-height: 1.6;
+    color: #155724;
+    overflow: hidden;
+}
+
+.answer-container {
+    position: relative;
+}
+
+.answer-input {
+    width: 100%;
+    min-height: 100px;
+    padding: 15px;
+    border: 2px solid #c3e6cb;
+    border-radius: 6px;
+    resize: vertical;
+    font-family: inherit;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    box-sizing: border-box;
+    background: white;
+    transition: border-color 0.2s ease;
+}
+
+.answer-input:focus {
+    outline: none;
+    border-color: #28a745;
+    box-shadow: 0 0 0 3px rgba(40, 167, 69, 0.1);
+}
+
+.save-indicator {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    color: #28a745;
+    font-size: 18px;
+    opacity: 0.3;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    .group-questions {
+        padding: 20px;
+    }
+    
+    .question-item {
+        padding: 15px;
+        margin-bottom: 20px;
+    }
+    
+    .answer-input {
+        min-height: 80px;
+        padding: 12px;
+        font-size: 0.9rem;
+    }
+    
+    .save-indicator {
+        width: 20px;
+        height: 20px;
+        font-size: 14px;
+    }
 }
 
 .optional-resources {
@@ -858,6 +965,11 @@ a:hover {
     
     .summary, .key-points, .preparation, .group-questions, .optional-resources {
         padding: 15px;
+    }
+    
+    .answer-input {
+        min-height: 60px;
+        font-size: 0.85rem;
     }
     
     .preparation-item {

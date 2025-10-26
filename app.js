@@ -4,6 +4,7 @@ let currentWeek = parseInt(localStorage.getItem('currentWeek') || '0');
 let completedWeeks = JSON.parse(localStorage.getItem('completedWeeks') || '[]');
 let userNotes = JSON.parse(localStorage.getItem('userNotes') || '{}');
 let preparationChecked = JSON.parse(localStorage.getItem('preparationChecked') || '{}');
+let questionAnswers = JSON.parse(localStorage.getItem('questionAnswers') || '{}');
 
 document.addEventListener('DOMContentLoaded', async function() {
     try {
@@ -283,6 +284,9 @@ function loadWeek(weekIndex) {
     const html = generateWeekHTML(week);
     document.getElementById('content').innerHTML = html;
     
+    // Setup question answer handlers
+    setupQuestionAnswers();
+    
     // Show action buttons for week pages
     document.getElementById('markComplete').style.display = 'inline-block';
     document.getElementById('takeNotes').style.display = 'inline-block';
@@ -389,7 +393,19 @@ function generateWeekHTML(week) {
             <div class="group-questions">
                 <h2>Group Questions</h2>
                 <ol>
-                    ${week.questions.map(question => `<li>${question}</li>`).join('')}
+                    ${week.questions.map((question, index) => {
+                        const answerId = `answer-${currentWeek}-${index}`;
+                        const savedAnswer = questionAnswers[currentWeek] && questionAnswers[currentWeek][index] ? questionAnswers[currentWeek][index] : '';
+                        return `
+                            <li class="question-item">
+                                <div class="question-text">${question}</div>
+                                <div class="answer-container">
+                                    <textarea id="${answerId}" class="answer-input" placeholder="Enter your answer here...">${savedAnswer}</textarea>
+                                    <span id="saved-${answerId}" class="save-indicator" style="opacity: ${savedAnswer ? '1' : '0.3'}">✓</span>
+                                </div>
+                            </li>
+                        `;
+                    }).join('')}
                 </ol>
             </div>
         `;
@@ -510,3 +526,42 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
+// Question Answer Functions
+function saveQuestionAnswer(weekIndex, questionIndex, answer) {
+    if (!questionAnswers[weekIndex]) {
+        questionAnswers[weekIndex] = {};
+    }
+    questionAnswers[weekIndex][questionIndex] = answer;
+    localStorage.setItem('questionAnswers', JSON.stringify(questionAnswers));
+    
+    // Show save indicator - bright when saved
+    const indicator = document.getElementById(`saved-answer-${weekIndex}-${questionIndex}`);
+    if (indicator) {
+        indicator.style.opacity = '1'; // Dark/bright when saved
+    }
+}
+
+// Add input event listener to show light color while typing
+function setupQuestionAnswers() {
+    document.querySelectorAll('.answer-input').forEach(textarea => {
+        let saveTimeout;
+        textarea.addEventListener('input', function() {
+            const indicator = this.parentElement.querySelector('.save-indicator');
+            if (indicator) {
+                indicator.style.opacity = '0.3'; // Light while typing
+            }
+            
+            // Clear existing timeout
+            clearTimeout(saveTimeout);
+            
+            // Set new timeout to save after user stops typing
+            saveTimeout = setTimeout(() => {
+                const parts = this.id.split('-');
+                const weekIndex = parseInt(parts[1]);
+                const questionIndex = parseInt(parts[2]);
+                saveQuestionAnswer(weekIndex, questionIndex, this.value);
+            }, 500);
+        });
+    });
+}
