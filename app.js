@@ -66,9 +66,101 @@ function initializeClassroom() {
     // Setup action buttons
     document.getElementById('markComplete').addEventListener('click', markWeekComplete);
     document.getElementById('takeNotes').addEventListener('click', openNotesModal);
+    document.getElementById('printLesson').addEventListener('click', printCurrentLesson);
     
     // Setup notes modal
     setupNotesModal();
+}
+
+function printCurrentLesson() {
+    const week = studyData.weeks[currentWeek];
+    const printContent = generatePrintHTML(week);
+    
+    const printWindow = window.open('', '_blank');
+    printWindow.document.write(printContent);
+    printWindow.document.close();
+    printWindow.focus();
+    printWindow.print();
+}
+
+function generatePrintHTML(week) {
+    return `
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Week ${week.number}: ${week.title}</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 40px; line-height: 1.6; }
+                h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
+                h2 { color: #34495e; margin-top: 30px; }
+                h3 { color: #7f8c8d; }
+                .summary { background: #f8f9fa; padding: 20px; border-left: 4px solid #3498db; margin: 20px 0; }
+                .preparation-item { margin: 15px 0; }
+                .prep-checkbox { width: 15px; height: 15px; margin-right: 10px; }
+                .questions-section { margin-top: 30px; }
+                .question { margin: 25px 0; page-break-inside: avoid; }
+                .question-number { font-weight: bold; color: #2c3e50; }
+                .answer-space { border-bottom: 1px solid #ddd; height: 60px; margin: 10px 0; }
+                .page-break { page-break-before: always; }
+                @media print {
+                    body { margin: 20px; }
+                    .no-print { display: none; }
+                }
+            </style>
+        </head>
+        <body>
+            <h1>Week ${week.number}: ${week.title}</h1>
+            
+            <div class="summary">
+                <h2>Summary</h2>
+                <p>${week.summary}</p>
+            </div>
+            
+            ${week.preparation && week.preparation.length > 0 ? `
+                <div class="preparation-section">
+                    <h2>Preparation Checklist</h2>
+                    ${week.preparation.map(item => `
+                        <div class="preparation-item">
+                            <input type="checkbox" class="prep-checkbox"> ${item.text}
+                            ${item.link ? `<br><small>Link: ${item.link}</small>` : ''}
+                        </div>
+                    `).join('')}
+                </div>
+            ` : ''}
+            
+            ${week.optionalResources && week.optionalResources.length > 0 ? `
+                <div class="optional-resources-section">
+                    <h2>Optional Resources</h2>
+                    <ul>
+                        ${week.optionalResources.map(item => `
+                            <li>${item.text}${item.link ? `<br><small>Link: ${item.link}</small>` : ''}</li>
+                        `).join('')}
+                    </ul>
+                </div>
+            ` : ''}
+            
+            <div class="page-break"></div>
+            
+            <div class="questions-section">
+                <h2>Group Questions</h2>
+                <p><em>Use the space below each question to write your answers:</em></p>
+                
+                ${week.questions && week.questions.length > 0 ? week.questions.map((question, index) => `
+                    <div class="question">
+                        <div class="question-number">${index + 1}. ${question}</div>
+                        <div class="answer-space"></div>
+                        <div class="answer-space"></div>
+                        <div class="answer-space"></div>
+                    </div>
+                `).join('') : '<p>No questions available for this week.</p>'}
+            </div>
+            
+            <div style="margin-top: 50px; text-align: center; color: #7f8c8d; font-size: 0.9em;">
+                Isaiah Study Guide - Week ${week.number}
+            </div>
+        </body>
+        </html>
+    `;
 }
 
 function loadStudyMaterials() {
@@ -92,6 +184,7 @@ function loadStudyMaterials() {
     // Hide action buttons for materials page
     document.getElementById('markComplete').style.display = 'none';
     document.getElementById('takeNotes').style.display = 'none';
+    document.getElementById('printLesson').style.display = 'none';
 }
 
 function generateMaterialsHTML() {
@@ -154,6 +247,7 @@ function loadWeek(weekIndex) {
     // Show action buttons for week pages
     document.getElementById('markComplete').style.display = 'inline-block';
     document.getElementById('takeNotes').style.display = 'inline-block';
+    document.getElementById('printLesson').style.display = 'inline-block';
     
     // Update mark complete button
     const markCompleteBtn = document.getElementById('markComplete');
