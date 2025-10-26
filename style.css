@@ -388,6 +388,41 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Key Points Section */
+.key-points {
+    background: #e8f5e8;
+    border-left: 4px solid #27ae60;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.key-points h2 {
+    color: #27ae60;
+    margin-bottom: 15px;
+    font-size: 1.4rem;
+}
+
+.key-points-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.key-points-list li {
+    margin-bottom: 12px;
+    padding-left: 20px;
+    position: relative;
+    line-height: 1.6;
+}
+
+.key-points-list li::before {
+    content: "•";
+    color: #27ae60;
+    font-weight: bold;
+    position: absolute;
+    left: 0;
+}
+
 /* Preparation Checkboxes */
 .preparation-list {
     list-style: none;

@@ -332,6 +332,18 @@ function generateWeekHTML(week) {
         `;
     }
     
+    // Add key points section
+    if (week.keyPoints && week.keyPoints.length > 0) {
+        html += `
+            <div class="key-points">
+                <h2>Key Points</h2>
+                <ul class="key-points-list">
+                    ${week.keyPoints.map(point => `<li>${point}</li>`).join('')}
+                </ul>
+            </div>
+        `;
+    }
+    
     // Add preparation section
     if (week.preparation && week.preparation.length > 0) {
         html += `
