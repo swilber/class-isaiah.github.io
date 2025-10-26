@@ -78,8 +78,8 @@ body {
 }
 
 .week-item.active {
-    background: #3498db;
-    border-left-color: #2980b9;
+    background: #3498db !important;
+    border-left-color: #2980b9 !important;
 }
 
 .week-item.completed {

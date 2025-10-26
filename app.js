@@ -49,7 +49,7 @@ function initializeClassroom() {
     
     studyData.weeks.forEach((week, index) => {
         const weekItem = document.createElement('div');
-        weekItem.className = 'week-item';
+        weekItem.className = 'week-item week-lesson';
         weekItem.textContent = `Week ${week.number}: ${week.title}`;
         
         if (completedWeeks.includes(index)) {
@@ -265,7 +265,7 @@ function loadWeek(weekIndex) {
     const week = studyData.weeks[weekIndex];
     
     // Update navigation
-    document.querySelectorAll('.week-item').forEach((item, index) => {
+    document.querySelectorAll('.week-lesson').forEach((item, index) => {
         item.classList.toggle('active', index === weekIndex);
     });
     
@@ -407,7 +407,7 @@ function markWeekComplete() {
         localStorage.setItem('completedWeeks', JSON.stringify(completedWeeks));
         
         // Update UI
-        document.querySelectorAll('.week-item')[currentWeek].classList.add('completed');
+        document.querySelectorAll('.week-lesson')[currentWeek].classList.add('completed');
         document.getElementById('markComplete').textContent = 'Completed ✓';
         document.getElementById('markComplete').style.background = '#27ae60';
         
