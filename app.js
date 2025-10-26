@@ -173,14 +173,28 @@ function generatePrintHTML(week) {
                     border-left: 4px solid #ffc107;
                     border-radius: 4px;
                 }
-                .user-notes {
-                    background: white;
-                    border: 1px solid #ddd;
-                    padding: 15px;
+                .notes-lines {
+                    position: relative;
+                    min-height: 200px;
                     margin-top: 10px;
-                    border-radius: 4px;
+                }
+                .notes-line {
+                    border-bottom: 1px solid #ddd;
+                    height: 30px;
+                    margin-bottom: 5px;
+                    position: relative;
+                }
+                .notes-overlay {
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    right: 0;
+                    padding: 5px 0;
+                    font-size: 14px;
+                    line-height: 25px;
+                    color: #333;
                     white-space: pre-wrap;
-                    min-height: 60px;
+                    word-wrap: break-word;
                 }
                 .page-break { page-break-before: always; }
                 @media print {
@@ -245,7 +259,15 @@ function generatePrintHTML(week) {
             ${userNotesForWeek ? `
                 <div class="notes-section">
                     <h2>My Notes</h2>
-                    <div class="user-notes">${userNotesForWeek}</div>
+                    <div class="notes-lines">
+                        <div class="notes-line"></div>
+                        <div class="notes-line"></div>
+                        <div class="notes-line"></div>
+                        <div class="notes-line"></div>
+                        <div class="notes-line"></div>
+                        <div class="notes-line"></div>
+                        ${userNotesForWeek.trim() ? `<div class="notes-overlay">${userNotesForWeek}</div>` : ''}
+                    </div>
                 </div>
             ` : ''}
             
