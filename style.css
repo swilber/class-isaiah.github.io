@@ -735,13 +735,14 @@ a:hover {
     }
     
     .preparation-item {
-        flex-direction: column;
+        flex-direction: row;
         align-items: flex-start;
         padding: 8px;
     }
     
     .prep-checkbox {
-        margin-bottom: 8px;
+        margin-right: 8px;
+        margin-bottom: 0;
     }
     
     .prep-label {
