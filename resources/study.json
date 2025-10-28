@@ -44,18 +44,11 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Neo-Assyrian_map_824-671_BC.png"
         },
         {
-          "title": "Hezekiah’s Seal",
-          "description": "Photograph of a bulla (seal impression) of King Hezekiah, inscribed with his name in ancient Hebrew script, from 8th-century BC Judah.",
-          "use": "This artifact confirms Hezekiah’s reign, a key figure in Isaiah’s context, grounding the historical setting of Judah’s kings during Assyrian aggression.",
-          "source": "Wikimedia Commons (Public Domain)",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/LMLK%2C_Ezekiah_seals.jpg"
-        },
-        {
-          "title": "Siloam Inscription",
-          "description": "Photograph of the Siloam Inscription, a 8th-century BC Hebrew text detailing Hezekiah’s tunnel in Jerusalem.",
-          "use": "This inscription provides archaeological evidence of Judah’s infrastructure under Hezekiah, reflecting the historical context of Isaiah’s prophecies.",
-          "source": "Wikimedia Commons (Public Domain)",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Siloam_Inscription_2.jpg/1920px-Siloam_Inscription_2.jpg"
+          "title": "Isaiah Timeline",
+          "description": "A timeline showing the events listed in the great Isaiah scroll.  These include the leaders of the various nations, the rise and fall of empires, the captivity, and the return from exile.",
+          "use": "It shows the events in Isaiah's work chronologically.",
+          "source": "visualunit",
+          "url": "https://visualunit.me/wp-content/uploads/2010/11/isaiah_timeline.png"
         }
       ],
       "preparation": [
@@ -92,14 +85,6 @@
         {
           "text": "“Isaiah the Prophet” from Lexham Bible Dictionary",
           "link": "https://biblia.com/books/lbd/word/Isaiah_the_Prophet"
-        },
-        {
-          "text": "“Uzziah, King of Judah” from Lexham Bible Dictionary",
-          "link": "https://biblia.com/books/lbd/word/Uzziah%252C_King_of_Judah"
-        },
-        {
-          "text": "“Isaiah Bible Study (Epic of Eden)” by Dr. Sandra Richter",
-          "link": "https://www.youtube.com/watch?v=O5tuXqFttAM"
         }
       ],
       "questions": [
@@ -142,13 +127,6 @@
           "url": "https://biblearchaeologyreport.com/wp-content/uploads/2020/08/uzziah-kingdom-e1596726273920.png"
         },
         {
-          "title": "Assyrian Siege Ramp",
-          "description": "Reconstruction of an Assyrian siege ramp, used in attacks on Judean cities like Lachish.",
-          "use": "This illustrates Assyrian military tactics in the 8th century BC, highlighting the threats Judah faced during Isaiah’s early prophecies.",
-          "source": "christianpublishinghouse.co",
-          "url": "https://i0.wp.com/christianpublishinghouse.co/wp-content/uploads/2024/02/The-Assyrian-Siege-and-Capture-of-Lachish.webp?resize=1400%2C800&ssl=1"
-        },
-        {
           "title": "Ancient Hebrew Altar",
           "description": "Image of an ancient Israelite altar, used for sacrifices in Judah’s temple worship.",
           "use": "It depicts the religious practices criticized by Isaiah (ch. 1) for hypocrisy, grounding the context of Judah’s spiritual decay.",
@@ -188,16 +166,8 @@
       ],
       "optionalResources": [
         {
-          "text": "“The Glorious Messiah and the Messianic Age (Isaiah 9:1–7)” by Bob Deffinbaugh",
-          "link": "https://bible.org/seriespage/6-glorious-messiah-and-messianic-age-isaiah-91-7"
-        },
-        {
-          "text": "“Messianic Prophecies in Isaiah” by Precept Austin",
-          "link": "https://www.preceptaustin.org/messianic-prophecies-in-isaiah"
-        },
-        {
-          "text": "“Isaiah Bible Study (Epic of Eden)” by Dr. Sandra Richter",
-          "link": "https://www.youtube.com/watch?v=O5tuXqFttAM"
+          "text": "“Uzziah, King of Judah” from Lexham Bible Dictionary",
+          "link": "https://biblia.com/books/lbd/word/Uzziah%252C_King_of_Judah"
         }
       ],
       "questions": [
@@ -223,6 +193,13 @@
       "title": "Isaiah 7–12 (Immanuel and the Messianic King)",
       "summary": "Isaiah 7–12 addresses Judah’s crisis during the Syro-Ephraimite War (734–732 BC), where Ahaz faces threats from Israel and Syria, prompting Isaiah to urge trust in God over Assyrian alliances (2 Kings 16). The Immanuel prophecy (7:14) promises a child as a sign of God’s presence, with dual fulfillment in a near-term birth (e.g., Maher-Shalal-Hash-Baz, 8:3) and Jesus’ virgin birth (Matthew 1:23), clarified by Heiser’s analysis of “almah.” Chapters 9:6–7 and 11:1–9 envision a Davidic king with titles like “Wonderful Counselor,” bringing justice and peace, fulfilled in Christ.  \nThis section contrasts Ahaz’s fear with divine faithfulness, emphasizing Messianic hope. It challenges men to reject worldly “alliances” (e.g., career, status) and lead with courage, modeling Christ’s kingship in crises.",
       "images": [
+        {
+          "title": "Syrian Conquest Map",
+          "description": "Map detailing the conquest of the Assyrian empire",
+          "use": "Provides a global historical account of the Assyrian conquest from Babylon to Egypt",
+          "source": "infographic",
+          "url": "https://preview.redd.it/neo-assyrian-empire-v0-li0tbyxh5nkb1.png?width=1080&crop=smart&auto=webp&s=7e728c8034f2dc970eb535da4731a34a5f156efd"
+        },
         {
           "title": "Syro-Ephraimite War Map",
           "description": "Map illustrating the Syro-Ephraimite War (734-732 BC), showing Israel and Syria’s alliance against Judah.",
@@ -281,8 +258,8 @@
       ],
       "optionalResources": [
         {
-          "text": "“The Messianic Prophecies in the Book of Isaiah” by Michael J. Wilkins",
-          "link": "https://www.modernreformation.org/resources/articles/the-mod-messianic-prophecies-in-the-book-of-isaiah"
+          "text": "“Ahaz, King of Judah” from Lexham Bible Dictionary",
+          "link": "https://biblia.com/books/lbd/word/Ahaz%252C_King_of_Judah"
         },
         {
           "text": "“The Sign of Immanuel, Fulfilled in Christ: Isaiah 7:10–17” by Stephen M. Paterson",
@@ -295,6 +272,14 @@
         {
           "text": "“A ‘Pregnant Virgin’?!? Defending a Messianic interpretation of Isaiah 7:14” by ONE FOR ISRAEL",
           "link": "https://www.youtube.com/watch?v=Z5aQkUPoK1U"
+        },
+        {
+          "text": "“The Glorious Messiah and the Messianic Age (Isaiah 9:1–7)” by Bob Deffinbaugh",
+          "link": "https://bible.org/seriespage/6-glorious-messiah-and-messianic-age-isaiah-91-7"
+        },
+        {
+          "text": "“The Messianic Prophecies in the Book of Isaiah” by Michael J. Wilkins",
+          "link": "https://www.modernreformation.org/resources/articles/the-mod-messianic-prophecies-in-the-book-of-isaiah"
         },
         {
           "text": "“Is the Child Born in Isaiah 9 Messianic Prophecy or History?!” by ONE FOR ISRAEL",
@@ -383,10 +368,6 @@
         {
           "text": "“Yahweh as Lord of the Nations: Isaiah 13:1–20:6” by Beth M. Stovell",
           "link": "https://spu.edu/lectio/yahweh-as-lord-of-the-nations/"
-        },
-        {
-          "text": "“Isaiah 13 Commentary” by Precept Austin",
-          "link": "https://www.preceptaustin.org/isaiah_13_commentary"
         }
       ],
       "questions": [
@@ -420,13 +401,6 @@
           "url": "https://i0.wp.com/christianpublishinghouse.co/wp-content/uploads/2023/10/ancient-tyre-illustration.webp?w=1200&ssl=1"
         },
         {
-          "title": "Edom and Judah Map",
-          "description": "Map showing Edom and Judah territories, with the Dead Sea border, in the 8th century BC.",
-          "use": "It locates Edom for Isaiah 24’s cosmic judgment, symbolizing Judah’s ancient rival in the ‘little apocalypse’.",
-          "source": "Wikimedia Commons (Public Domain)",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kingdoms_around_Israel_830_map.svg"
-        },
-        {
           "title": "Mount Zion View",
           "description": "19th-century colored illustration of Mount Zion, Jerusalem, evoking the banquet site in Isaiah 25.",
           "use": "This depicts Jerusalem’s sacred hill, central to the Messianic feast vision in Isaiah 25.",
@@ -439,6 +413,27 @@
           "use": "It illustrates Babylon’s grandeur in Isaiah 21, which Isaiah’s oracles predict will fall.",
           "source": "Wikimedia Commons (Public Domain)",
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Passing_lion_Babylon_AO21118.jpg"
+        },
+        {
+          "title": "Hezekiah’s Seal",
+          "description": "Photograph of a bulla (seal impression) of King Hezekiah, inscribed with his name in ancient Hebrew script, from 8th-century BC Judah.",
+          "use": "This artifact confirms Hezekiah’s reign, a key figure in Isaiah’s context, grounding the historical setting of Judah’s kings during Assyrian aggression.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/LMLK%2C_Ezekiah_seals.jpg"
+        },
+        {
+          "title": "Siloam Inscription",
+          "description": "Photograph of the Siloam Inscription, a 8th-century BC Hebrew text detailing Hezekiah’s tunnel in Jerusalem.",
+          "use": "This inscription provides archaeological evidence of Judah’s infrastructure under Hezekiah, reflecting the historical context of Isaiah’s prophecies.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Siloam_Inscription_2.jpg/1920px-Siloam_Inscription_2.jpg"
+        },
+        {
+          "title": "Hezekiah’s Tunnel",
+          "description": "Photograph of the interior of Hezekiah’s tunnel in Jerusalem, built to secure water during the siege.",
+          "use": "This shows Judah’s defensive preparations in Isaiah 36-37, reflecting Hezekiah’s practical faith.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Inside_Hezekiah%27s_Tunnel-B_%283782618647%29.jpg"
         }
       ],
       "preparation": [
@@ -578,25 +573,18 @@
       "summary": "Isaiah 34–39 concludes the first major section with cosmic judgment on Edom (ch. 34) as a prelude to Judah’s deliverance, followed by Hezekiah’s crisis under Sennacherib’s siege (701 BC, ch. 36–37), where prayer leads to miraculous salvation (2 Kings 18–19). Chapter 39 foreshadows exile through Babylonian envoys, highlighting pride’s consequences (586 BC).  \nThis section emphasizes judgment’s scope, the power of faith, and humility, modeling prayer in crises. It challenges men to trust God amid modern “sieges” (e.g., personal or professional trials), relying on Christ’s restoration rather than pride or worldly solutions.",
       "images": [
         {
+          "title": "Edom and Judah Map",
+          "description": "Map showing Edom and Judah territories, with the Dead Sea border, in the 8th century BC.",
+          "use": "It locates Edom for Isaiah 24’s cosmic judgment, symbolizing Judah’s ancient rival in the ‘little apocalypse’.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kingdoms_around_Israel_830_map.svg"
+        },
+        {
           "title": "Lachish Relief Sennacherib",
-          "description": "Assyrian relief panel showing the siege of Lachish with warriors and ramps, 701 BC.",
+          "description": "Assyrian relief panel showing the siege of Lachish with warriors and ramps, 701 BC. Assyria conquered and placed their armies in Lachish immediately prior to their failed attack on Jerusalem",
           "use": "It depicts the 701 BC siege in Isaiah 36-37, providing archaeological evidence of Assyrian tactics against Judah.",
           "source": "Wikimedia Commons (Public Domain)",
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Lachish_Relief%2C_British_Museum_13.jpg"
-        },
-        {
-          "title": "Hezekiah’s Tunnel",
-          "description": "Photograph of the interior of Hezekiah’s tunnel in Jerusalem, built to secure water during the siege.",
-          "use": "This shows Judah’s defensive preparations in Isaiah 36-37, reflecting Hezekiah’s practical faith.",
-          "source": "Wikimedia Commons (Public Domain)",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Inside_Hezekiah%27s_Tunnel-B_%283782618647%29.jpg"
-        },
-        {
-          "title": "Babylonian Chronicle Tablet",
-          "description": "Neo-Babylonian Chronicle for years 605-594 BCE. This is an official document which chronicles some events (during the years 605 to 595 BCE) in the reign of king Nebuchadnezzar II (r. 605-562 BCE). The cuneiform inscription highlights the conquest of Jerusalem and the surrender of Jehoiakim, king of Judah, in 597 BCE. Clay tablet, made c. 550-400 BCE. From Babylon, Iraq. British Museum",
-          "use": "It illustrates Babylonian power, which Isaiah 39 predicts will lead to Judah’s exile.",
-          "source": "Wikimedia Commons (Public Domain)",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_cuneiform_inscription_highlights_the_conquest_of_Jerusalem_and_the_surrender_of_Jehoiakim%2C_king_of_Judah%2C_in_597_BCE._From_Babylon%2C_Iraq.jpg"
         },
         {
           "title": "Edomite Pottery",
@@ -604,6 +592,20 @@
           "use": "This artifact grounds the judgment on Edom, symbolizing cosmic destruction in Isaiah 34.",
           "source": "Wikimedia Commons (Public Domain)",
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pottery_Warrior%2C_Edomite%2C_c._600_BC_%2843218630211%29.jpg"
+        },
+        {
+          "title": "Assyrian Siege Ramp",
+          "description": "Reconstruction of an Assyrian siege ramp, used in attacks on Judean cities like Lachish.",
+          "use": "This illustrates Assyrian military tactics in the 8th century BC, highlighting the threats Judah faced during Isaiah’s early prophecies.",
+          "source": "christianpublishinghouse.co",
+          "url": "https://i0.wp.com/christianpublishinghouse.co/wp-content/uploads/2024/02/The-Assyrian-Siege-and-Capture-of-Lachish.webp?resize=1400%2C800&ssl=1"
+        },
+        {
+          "title": "Babylonian Chronicle Tablet",
+          "description": "Neo-Babylonian Chronicle for years 605-594 BCE. This is an official document which chronicles some events (during the years 605 to 595 BCE) in the reign of king Nebuchadnezzar II (r. 605-562 BCE). The cuneiform inscription highlights the conquest of Jerusalem and the surrender of Jehoiakim, king of Judah, in 597 BCE. Clay tablet, made c. 550-400 BCE. From Babylon, Iraq. British Museum",
+          "use": "It illustrates Babylonian power, which Isaiah 39 predicts will lead to Judah’s exile.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_cuneiform_inscription_highlights_the_conquest_of_Jerusalem_and_the_surrender_of_Jehoiakim%2C_king_of_Judah%2C_in_597_BCE._From_Babylon%2C_Iraq.jpg"
         }
       ],
       "preparation": [
@@ -806,10 +808,6 @@
       ],
       "optionalResources": [
         {
-          "text": "“The Fall of Babylon in Isaiah 46–47” by Precept Austin",
-          "link": "https://www.preceptaustin.org/isaiah_46-47_commentary"
-        },
-        {
           "text": "“Isaiah 46–48: The Lord vs. Idols” by Bob Deffinbaugh",
           "link": "https://bible.org/seriespage/11-lord-versus-idols-isaiah-461-13"
         }
@@ -891,10 +889,6 @@
           "link": "https://bible.org/seriespage/14-suffering-servant-isaiah-5213-5312"
         },
         {
-          "text": "“Isaiah 53: The Suffering Servant” by Precept Austin",
-          "link": "https://www.preceptaustin.org/isaiah_53_commentary"
-        },
-        {
           "text": "“The Servant Songs of Isaiah” by BibleProject",
           "link": "https://bibleproject.com/podcasts/the-servant-songs-of-isaiah/"
         }
@@ -963,10 +957,6 @@
         }
       ],
       "optionalResources": [
-        {
-          "text": "“Isaiah 56–66: The New Heavens and New Earth” by Precept Austin",
-          "link": "https://www.preceptaustin.org/isaiah_56-66_commentary"
-        },
         {
           "text": "“Righteousness and Justice in Isaiah 56–59” by Bob Deffinbaugh",
           "link": "https://bible.org/seriespage/15-righteousness-and-justice-isaiah-561-5921"
@@ -1043,10 +1033,6 @@
         }
       ],
       "optionalResources": [
-        {
-          "text": "“Isaiah 60–62: The Glory of Zion” by Precept Austin",
-          "link": "https://www.preceptaustin.org/isaiah_60-62_commentary"
-        },
         {
           "text": "“New Heavens and New Earth in Isaiah 65–66” by Bob Deffinbaugh",
           "link": "https://bible.org/seriespage/16-new-heavens-and-new-earth-isaiah-651-25"
