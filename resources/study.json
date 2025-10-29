@@ -53,7 +53,7 @@
       ],
       "preparation": [
         {
-          "text": "Read Motyer’s commentary, Introduction (pp. 13–44).",
+          "text": "Read Motyer's commentary, Introduction: 1. The Isaianic literature, 2. Isaiah as author, 3. The book of Isaiah, 4. The text of Isaiah.",
           "link": null
         },
         {
@@ -87,6 +87,26 @@
           "link": "https://biblia.com/books/lbd/word/Isaiah_the_Prophet"
         }
       ],
+      "sourceQuestions": [
+        "What are the three main sections of Isaiah according to most scholars, and what are the primary themes of each section?",
+        "During which kings' reigns did Isaiah prophesy, and what major historical events occurred during this period?",
+        "What is the significance of the Great Isaiah Scroll (1QIsa^a) found at Qumran, and how does it support the textual reliability of Isaiah?",
+        "How does Isaiah's structure (chapters 1-39, 40-55, 56-66) reflect the progression from judgment to comfort to new creation?",
+        "What evidence supports the traditional view of single authorship for the book of Isaiah versus the multiple-author theory?"
+      ],
+      "commentaryQuestions": [
+        "Build a timeline of all the important dates relating to the book of Isaiah",
+        "How does the Bible Project “Isaiah 1–39” video describe Isaiah’s structure (1–39, 40–55, 56–66) to set up its message of judgment and hope? (Answers in Bible Project “Isaiah 1–39” video, 0:00–2:30.)",
+        "How does the Bible Project “Isaiah 1–39” video show Isaiah’s focus on God’s sovereignty challenging you to lead or trust God in uncertain times? (Answers in Bible Project “Isaiah 1–39” video, 2:30–4:00.)",
+        "What are the three sections of Isaiah? How do almost all scholars break up the book?",
+        "How does Motyer’s commentary (pp. 13–15) describe the three sections of Isaiah?  What is the theme of each (the messianic profiles) and how are they unified? (Answers in Motyer’s commentary, pp. 13–15.)",
+        "How does Oswalt’s Biblical Training Lesson 1 describe the three sections of Isaiah?  Describe how the themes of servanthood are attributed to each section (Answers in Oswalt’s Lesson 1, 5:00–10:00.)",
+        "How does the concept of \"servanthood\" unify the entire book of Isaiah, and what does it mean for God's people to be servants rather than merely chosen people? (Answers in Oswalt Lesson 1)",
+        "What is the relationship between God's transcendence (as \"The Holy One\") and His immanence (as \"of Israel\"), and how does this paradox shape the entire prophetic message? (Answers in Oswalt Lesson 1)",
+        "What does Heiser’s podcast Episode 217 reveal about authorship debates? Provide some of the argument for Single and Multiple authorship (Answers in Heiser’s podcast, 10:00–15:00.)",
+        "How do the Dead Sea Scrolls strengthen confidence in Isaiah’s text? (Answers in Motyer’s commentary, pp. 25–27, Heiser podcast, )"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "Build a timeline of all the important dates relating to the book of Isaiah",
         "How does the Bible Project “Isaiah 1–39” video describe Isaiah’s structure (1–39, 40–55, 56–66) to set up its message of judgment and hope? (Answers in Bible Project “Isaiah 1–39” video, 0:00–2:30.)",
@@ -94,8 +114,10 @@
         "What are the three sections of Isaiah? How do almost all scholars break up the book?",
         "How does Motyer’s commentary (pp. 13–15) describe the three sections of Isaiah?  What is the theme of each (the messianic profiles) and how are they unified? (Answers in Motyer’s commentary, pp. 13–15.)",
         "How does Oswalt’s Biblical Training Lesson 1 describe the three sections of Isaiah?  Describe how the themes of servanthood are attributed to each section (Answers in Oswalt’s Lesson 1, 5:00–10:00.)",
+        "How does the concept of \"servanthood\" unify the entire book of Isaiah, and what does it mean for God's people to be servants rather than merely chosen people? (Answers in Oswalt Lesson 1)",
+        "What is the relationship between God's transcendence (as \"The Holy One\") and His immanence (as \"of Israel\"), and how does this paradox shape the entire prophetic message? (Answers in Oswalt Lesson 1)",
         "What does Heiser’s podcast Episode 217 reveal about authorship debates? Provide some of the argument for Single and Multiple authorship (Answers in Heiser’s podcast, 10:00–15:00.)",
-        "How do the Dead Sea Scrolls strengthen confidence in Isaiah’s text? (Answers in Motyer’s commentary, pp. 25–27, Heiser podcast, )",
+        "How do the Dead Sea Scrolls strengthen confidence in Isaiah’s text? (Answers in Motyer’s commentary, pp. 25–27, Heiser podcast, )"
       ],
       "keyPoints": [
         "Outline of Isaiah: The book divides into three main parts—chapters 1–39 focusing on judgment and hope, 40–55 on comfort and the Servant, and 56–66 on post-exile ethics and new creation, emphasizing thematic unity around God’s sovereignty and redemption.",
@@ -138,7 +160,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 45–85.",
+          "text": "Read Motyer's commentary, The book of the King.A.2-4: Sin and experience, Sin and election, Sin and grace (1:2-5:30) and The book of the King.B.1: The prologue: reconciliation and commission (6:1-13).",
           "link": null
         },
         {
@@ -168,17 +190,35 @@
           "link": "https://biblia.com/books/lbd/word/Uzziah%252C_King_of_Judah"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 1, how does God describe Israel's rebellion, and what analogy does He use involving animals to highlight their lack of understanding?",
+        "According to Isaiah 2, what transformation will occur among the nations in the last days regarding weapons of war, and what will be the role of the mountain of the Lord's temple?",
+        "In Isaiah 3, what specific judgements does the Lord pronounce against the leaders and the haughty women of Zion, and how will these affect society?",
+        "What is the meaning of the song of the vineyard in Isaiah 5, including what the vineyard represents and what God expected versus what it produced?",
+        "Describe Isaiah's vision in chapter 6, including his initial reaction, the actions of the seraphim, and the comission he receives from the Lord"
+      ],
+      "commentaryQuestions": [
+        "How does Isaiah 1:2–20’s courtroom indictment reveal Judah’s rebellion in its 8th-century BC context? (Answers in Isaiah 1:2–20; Motyer, pp. 45–48; Oswalt Session 1, 5:00–10:00)",
+        "How does Isaiah 4:2–6’s “Branch” represent a Messianic link to Jesus? (Answers in Isaiah 4:2–6; Motyer, pp. 60–62; Oswalt Session 3, 10:00–15:00.)",
+        "How does Isaiah 6:1–7’s vision, in Uzziah’s death year, shape Isaiah’s mission, and per Heiser, what is the divine council’s role? (Answers in Isaiah 6:1–7; Oswalt Session 4, 10:00–15:00; Heiser’s blog, para. 2–4.)",
+        "According to Motyer, how does Isaiah structure his call narrative (6:1-13) around three 'and I said' responses, and what does this reveal about the progression from conviction to commission? (Answers in Motyer, The book of the King.B.1: The prologue: reconciliation and commission.)",
+        "How does Motyer show that Isaiah's preface (chapters 1-5) sets up the theological problem that his call experience (chapter 6) answers, particularly regarding the triumph of grace over judgment? (Answers in Motyer, The book of the King.A: The preface and B.1: The prologue.)"
+      ],
+      "applicationQuestions": [
+        "Where do you need to confess “woe” (Isaiah 6:5) and step into God’s call?"
+      ],
       "questions": [
-        "How does Isaiah 1:2–20’s courtroom indictment reveal Judah’s rebellion in its 8th-century BC context? (Answers in Isaiah 1:2–20; Motyer, pp. 45–48.)",
-        "How does Isaiah 6:1–7’s vision, in Uzziah’s death year, shape Isaiah’s mission, and per Heiser, what is the divine council’s role? (Answers in Isaiah 6:1–7; Heiser’s blog, para. 2–4.)",
-        "How does Isaiah 4:2–6’s “Branch” represent a Messianic link to Jesus? (Answers in Isaiah 4:2–6; Motyer, pp. 60–62.)",
-        "Where do you need to confess “woe” (Isaiah 6:5) and step into God’s call? (Answers in Isaiah 6:5; Motyer, pp. 75–77.)",
+        "In Isaiah 1, how does God describe Israel's rebellion, and what analogy does He use involving animals to highlight their lack of understanding?",
+        "According to Isaiah 2, what transformation will occur among the nations in the last days regarding weapons of war, and what will be the role of the mountain of the Lord's temple?",
+        "In Isaiah 3, what specific judgements does the Lord pronounce against the leaders and the haughty women of Zion, and how will these affect society?",
+        "What is the meaning of the song of the vineyard in Isaiah 5, including what the vineyard represents and what God expected versus what it produced?",
+        "Describe Isaiah's vision in chapter 6, including his initial reaction, the actions of the seraphim, and the comission he receives from the Lord",
+        "How does Isaiah 1:2–20’s courtroom indictment reveal Judah’s rebellion in its 8th-century BC context? (Answers in Isaiah 1:2–20; Motyer, pp. 45–48; Oswalt Session 1, 5:00–10:00)",
+        "How does Isaiah 4:2–6’s “Branch” represent a Messianic link to Jesus? (Answers in Isaiah 4:2–6; Motyer, pp. 60–62; Oswalt Session 3, 10:00–15:00.)",
+        "How does Isaiah 6:1–7’s vision, in Uzziah’s death year, shape Isaiah’s mission, and per Heiser, what is the divine council’s role? (Answers in Isaiah 6:1–7; Oswalt Session 4, 10:00–15:00; Heiser’s blog, para. 2–4.)",
         "How does Motyer show ch. 1–6 setting up Isaiah’s themes? (Answers in Motyer, pp. 45–50.)",
-        "How does Isaiah 1:2–20 reflect Judah’s historical sin? (Answers in Isaiah 1:2–20; Oswalt Session 1, 5:00–10:00.)",
-        "How does Isaiah 6:1–7’s vision shape Isaiah’s mission? (Answers in Isaiah 6:1–7; Oswalt Session 4, 10:00–15:00.)",
         "How does Heiser’s blog assign the divine council’s role in Isaiah 6? (Answers in Heiser’s blog, para. 5–7.)",
-        "How does Isaiah 4:2–6’s “Branch” connect to Messianic hope? (Answers in Isaiah 4:2–6; Oswalt Session 3, 10:00–15:00.)",
-        "Where do you need to confess “woe” and embrace God’s call? (Answers in Isaiah 6:5; Oswalt Session 4, 15:00–20:00.)"
+        "Where do you need to confess “woe” (Isaiah 6:5) and step into God’s call?"
       ],
       "keyPoints": [
         "Original Context of Rebellion: Chapters 1-5 depict Judah’s covenant rebellion against God, framed as a courtroom indictment (1:2-20) amid the Assyrian threat in the 8th century BC, highlighting social injustice and idolatry in a declining kingdom.",
@@ -226,7 +266,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 86–110.",
+          "text": "Read Motyer's commentary, The book of the King.B.2: The King and his people (7:1-11:16) and The book of the King.B.3: The epilogue (12:1-6).",
           "link": null
         },
         {
@@ -256,6 +296,10 @@
       ],
       "optionalResources": [
         {
+          "text": "“Jotham, King of Judah” from Lexham Bible Dictionary",
+          "link": "https://biblia.com/books/lbd/word/Jotham%252C_King_of_Judah"
+        },
+        {
           "text": "“Ahaz, King of Judah” from Lexham Bible Dictionary",
           "link": "https://biblia.com/books/lbd/word/Ahaz%252C_King_of_Judah"
         },
@@ -283,6 +327,24 @@
           "text": "“Is the Child Born in Isaiah 9 Messianic Prophecy or History?!” by ONE FOR ISRAEL",
           "link": "https://www.youtube.com/watch?v=_ZjPaRv8SZw"
         }
+      ],
+      "sourceQuestions": [
+        "In Isaiah 7, what sign does the Lord offer to King Ahaz through Isaiah, and how does Ahaz respond to this offer?",
+        "According to Isaiah 8, what is the symbolic name given to Isaiah's son, and what does it signify regarding the impending judgement on Damascus and Samaria?",
+        "Isaiah 9 describes a great light shining on those living in darkness; what titles are given to the child who will b born, and what characteristics of His reign are highlighted?",
+        "In Isaiah 10, how does God describe Assyria's role in His plan, and what ultimate fat does He pronounce on Assyria for its arrogance?",
+        "Isaiah 11 prophesies about a shoot from the stump of Jesse; what qualities will the Spirit of the Lord bestow upon Him?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt’s Session 5 describe Ahaz’s crisis framing Immanuel? (Answers in Isaiah 7:1–14; Oswalt Session 5, 10:00–15:00.)",
+        "How does Oswalt’s Session 7 connect Isaiah 9:6–7 to Christ? (Answers in Isaiah 9:6–7; Oswalt Session 7, 15:00–20:00.)",
+        "How does Oswalt’s Session 9 highlight ch. 11–12’s Messianic hope? (Answers in Isaiah 11:1–9; Oswalt Session 9, 10:00–15:00.)",
+        "According to Motyer, how does the structure of Isaiah 7-12 demonstrate the movement from 'the moment of decision' through 'the judgment' and 'the remnant' to 'the glorious hope'? (Answers in Motyer, The book of the King.B.2: The King and his people.)",
+        "How does Motyer explain that Isaiah 12's songs of salvation serve as both epilogue to chapters 7-11 and preview of the worldwide proclamation theme that will dominate later sections? (Answers in Motyer, The book of the King.B.3: The epilogue: individual and community, salvation, joy and proclamation.)",
+        "How does Heiser’s blog explain “almah” supporting the virgin birth and its Messianic link to Matthew 1:23? (Answers in Heiser’s blog, para. 2–4.)"
+      ],
+      "applicationQuestions": [
+        "Where do you need to trust God over alliances in life (e.g., work, decisions)? (Answers in Isaiah 7:1–9; Oswalt Session 5, 5:00–10:00.)"
       ],
       "questions": [
         "How does Isaiah 7:1–14 show Ahaz’s historical crisis framing the Immanuel promise? (Answers in Isaiah 7:1–14; Motyer, pp. 86–90.)",
@@ -342,7 +404,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 111–140.",
+          "text": "Read Motyer's commentary, The book of the King.C.1: The first cycle of oracles (13:1-20:6).",
           "link": null
         },
         {
@@ -368,11 +430,27 @@
           "link": "https://spu.edu/lectio/yahweh-as-lord-of-the-nations/"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 13, what specific judgment does God pronounce against Babylon, and what imagery is used to describe the day of the Lord's wrath?",
+        "According to Isaiah 14:12-15, what caused the 'morning star' (Lucifer) to fall from heaven, and what was his prideful ambition?",
+        "In Isaiah 16, what is the nature of Moab's distress, and what does Isaiah say about the timing of Moab's judgment?",
+        "What does Isaiah 19 prophesy about Egypt's future, including both judgment and eventual blessing, and how will Egypt relate to Assyria and Israel?",
+        "In Isaiah 20, what symbolic action does Isaiah perform for three years, and what does this sign represent concerning Egypt and Cush?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt Session 7 explain the historical context of Isaiah 13-14's prophecy against Babylon, and what does this reveal about God's sovereignty over future empires? (Answers in Isaiah 13-14; Oswalt Session 7, 5:00-15:00.)",
+        "According to Oswalt Session 8, how should we interpret Isaiah 14:12-15's 'morning star' passage, and what insights does this provide about spiritual pride and judgment? (Answers in Isaiah 14:12-15; Oswalt Session 8, 10:00-20:00.)",
+        "How does Oswalt Session 10 demonstrate that Isaiah 19:23-25's vision of Egypt, Assyria, and Israel worshiping together points to the gospel's universal reach? (Answers in Isaiah 19:23-25; Oswalt Session 10, 15:00-25:00.)",
+        "According to Motyer, how do the oracles against nations in Isaiah 13-20 demonstrate 'the reality of the Lord's promises' by showing God's sovereignty over world empires? (Answers in Motyer, The book of the King.C.1: The first cycle of oracles.)",
+        "How does Motyer explain that Isaiah 14:12-15's 'morning star' passage functions within the oracle against Babylon to reveal both human pride and spiritual rebellion behind earthly kingdoms? (Answers in Motyer, The book of the King.C.1.a: Babylon: appearance and reality in world history.)"
+      ],
+      "applicationQuestions": [
+        "How does God’s global rule in Isaiah 19:23–25 challenge your perspective? (Answers in Isaiah 19:23–25; Oswalt Session 10, 15:00–20:00.)"
+      ],
       "questions": [
         "How does Isaiah 13–14 target Babylon historically, and what are modern equivalents? (Answers in Isaiah 13–14; Motyer, pp. 111–113.)",
         "Does Isaiah 14:12–15’s “morning star” refer to Satan, and what are its Messianic implications? (Answers in Isaiah 14:12–15; Motyer, pp. 116–118.)",
         "How does Isaiah 19:18–25’s hope for enemies like Egypt reflect Christ’s gospel? (Answers in Isaiah 19:18–25; Motyer, pp. 135–137.)",
-        "How does God’s global rule in Isaiah 19:23–25 challenge your perspective? (Answers in Isaiah 19:23–25; Oswalt Session 10, 15:00–20:00.)",
         "How does Motyer show thematic connections across ch. 13–20? (Answers in Motyer, pp. 111–115.)",
         "How does Isaiah 13–14’s prophecy against Babylon reflect its historical context? (Answers in Isaiah 13–14; Oswalt Session 7, 5:00–10:00.)",
         "How does Isaiah 14:12–15’s “morning star” connect to spiritual judgment? (Answers in Isaiah 14:12–15; Oswalt Session 8, 12:00–15:00.)",
@@ -440,7 +518,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 141–165.",
+          "text": "Read Motyer's commentary, The book of the King.C.2: The second cycle of oracles (21:1-23:18) and The book of the King.C.3: The third cycle (24:1-27:13).",
           "link": null
         },
         {
@@ -470,6 +548,19 @@
           "link": "https://bibleproject.com/podcasts/david-isaiah-and-new-eden/"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 21, what does the 'desert by the sea' represent, and what dramatic announcement does the watchman make about Babylon's fall?",
+        "According to Isaiah 22, what is God's judgment against the 'Valley of Vision' (Jerusalem), and how does Shebna's replacement by Eliakim illustrate God's sovereignty?",
+        "In Isaiah 24, what cosmic signs accompany the earth's judgment, and what does Isaiah mean by 'the earth is defiled by its inhabitants'?",
+        "What does Isaiah 25:6-8 prophesy about the feast on Mount Zion, including the promise about death being 'swallowed up forever'?",
+        "In Isaiah 26:19, what hope does Isaiah give about resurrection, and how does this relate to the song of praise in chapter 27?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt Session 11 explain the transition from individual nation oracles to the cosmic judgment of the 'little apocalypse' in chapters 24-27? (Answers in Oswalt Session 11.)",
+        "According to Oswalt Session 12, what is the significance of the Messianic banquet in Isaiah 25:6-8, and how does this connect to Christ's victory over death? (Answers in Oswalt Session 12.)",
+        "How does Oswalt Session 13 demonstrate that Isaiah 26:19's resurrection promise provides hope that sustains believers through trials and judgment? (Answers in Oswalt Session 13.)"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "How do Isaiah 21–23’s oracles against nations like Babylon and Tyre show in the 8th-century BC context? (Answers in Isaiah 21–23; Motyer, pp. 141–143.)",
         "How does Isaiah 24:1–6’s global ruin build on prior oracles? (Answers in Isaiah 24:1–6; Motyer, pp. 145–147.)",
@@ -480,7 +571,9 @@
         "How does Isaiah 24:1–6’s global ruin relate to prior oracles? (Answers in Isaiah 24:1–6; Oswalt Session 12, 5:00–10:00.)",
         "How does Isaiah 25:6–9’s feast connect to Christ? (Answers in Isaiah 25:6–9; Oswalt Session 12, 12:00–15:00.)",
         "How does Isaiah 26:19’s resurrection inspire hope? (Answers in Isaiah 26:19; Oswalt Session 13, 10:00–15:00.)",
-        "How does Oswalt’s Session 13 describe steadfastness in trials? (Answers in Isaiah 26:1–10; Oswalt Session 13, 15:00–20:00.)"
+        "How does Oswalt’s Session 13 describe steadfastness in trials? (Answers in Isaiah 26:1–10; Oswalt Session 13, 15:00–20:00.)",
+        "According to Motyer, how does the transition from oracles against individual nations (21-23) to the 'little apocalypse' (24-27) show the movement from historical to cosmic judgment? (Answers in Motyer, The book of the King.C.2-3: The second and third cycles of oracles.)",
+        "How does Motyer explain that Isaiah 25:6-9's feast on Mount Zion represents the climax of the 'two cities in contrast' theme, showing God's ultimate victory over the 'city of meaninglessness'? (Answers in Motyer, The book of the King.C.3.c: The world rejoicing in salvation.)"
       ],
       "keyPoints": [
         "Shift to Cosmic Judgment: Chapters 21-23 continue oracles against nations like Babylon and Tyre, transitioning to the 'little apocalypse' in 24-27, depicting global ruin amid Judah’s 8th-century threats.",
@@ -521,7 +614,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 166–185.",
+          "text": "Read Motyer's commentary, The book of the King.D.1-5: The Lord of history (28:1-32:20).",
           "link": null
         },
         {
@@ -547,6 +640,21 @@
           "link": "https://scielo.org.za/pdf/ote/v36n2/04.pdf"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 28, what does God condemn about the priests and prophets of Ephraim and Judah, and what does the 'precious cornerstone' represent?",
+        "According to Isaiah 29, what judgment comes upon 'Ariel' (Jerusalem), and how does God describe the people's worship as merely 'human commands learned by rote'?",
+        "In Isaiah 30, what does God say about Judah's alliance with Egypt, and what promise does He give about waiting for Him?",
+        "What does Isaiah 31 warn about trusting in horses and chariots from Egypt instead of the Holy One of Israel?",
+        "In Isaiah 32-33, how does Isaiah describe the coming righteous king, and what transformation will occur when the Spirit is poured out from on high?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt's Session 14 explain the corruption of Judah's leaders in Isaiah 28, and what does he say about their false security? (Answers in Oswalt Session 14, 5:00-15:00.)",
+        "According to Oswalt's Session 15, why does Isaiah condemn relying on Egypt in chapters 30-31, and what alternative does he propose? (Answers in Oswalt Session 15, 10:00-20:00.)",
+        "How does Oswalt's Session 16 describe the righteous king in Isaiah 32:1-8, and how does this connect to Messianic hope? (Answers in Oswalt Session 16, 5:00-15:00.)",
+        "According to Motyer, how does 'the one foundation' (28:16) serve as the key to understanding all the woes and promises in Isaiah 28-33? (Answers in Motyer, The book of the King.D.1: The one foundation.)",
+        "How does Motyer explain that the progression through chapters 28-33 shows the movement from judgment to 'deliverance and renewal'? (Answers in Motyer, The book of the King.D.5: Deliverance and renewal.)"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "Why does Isaiah 28:1–13 condemn Judah’s leaders, and what is the historical corruption involved? (Answers in Isaiah 28:1–13; Motyer, pp. 166–168.)",
         "How does Isaiah 32:1–8’s king exhibit Messianic traits? (Answers in Isaiah 32:1–8; Motyer, pp. 178–180.)",
@@ -557,6 +665,9 @@
         "How does Isaiah 32:1–8’s king connect to Messianic hope? (Answers in Isaiah 32:1–8; Oswalt Session 16, 10:00–15:00.)",
         "How does Isaiah 31:1–3 warn against alliances? (Answers in Isaiah 31:1–3; Oswalt Session 15, 12:00–15:00.)",
         "How can you avoid worldly “Egypt” in life? (Answers in Isaiah 30:1–7; Motyer, pp. 172–174.)",
+        "According to Motyer, how does Isaiah 28-33 demonstrate that 'the one foundation' (28:16) is the key to understanding all the woes and promises in this section? (Answers in Motyer, The book of the King.D.1: The one foundation.)",
+        "According to Motyer, how does Isaiah 28-33 demonstrate that 'the one foundation' (28:16) is the key to understanding all the woes and promises in this section? (Answers in Motyer, The book of the King.D.1: The one foundation.)",
+        "How does Motyer show that Isaiah 32:1-8's vision of the righteous king represents the culmination of the 'deliverance and renewal' theme that runs through chapters 28-33? (Answers in Motyer, The book of the King.D.5: Deliverance and renewal.)",
         "How does Oswalt’s Session 14 describe leadership woes in Isaiah 28? (Answers in Isaiah 28:1–13; Oswalt Session 14, 5:00–10:00.)"
       ],
       "keyPoints": [
@@ -612,7 +723,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 186–210.",
+          "text": "Read Motyer's commentary, The book of the King.D.6-7: Victory, proclamation and pilgrimage (33:1-37:38) and The book of the Servant.A: Historical prologue (38:1-39:8).",
           "link": null
         },
         {
@@ -642,6 +753,21 @@
           "link": "https://www.youtube.com/watch?v=u-u-tdh13yE"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 34, what judgment does God pronounce against Edom, and what imagery describes the land's desolation?",
+        "According to Isaiah 35, what transformation will occur in the desert, and who will walk on the 'Way of Holiness'?",
+        "In Isaiah 36-37, what threats does the Assyrian field commander make against Jerusalem, and how does Hezekiah respond through prayer?",
+        "What miraculous deliverance does God provide for Jerusalem in Isaiah 37, and what sign does He give Hezekiah?",
+        "In Isaiah 38-39, what happens when Hezekiah shows his treasures to the Babylonian envoys, and what does Isaiah prophesy as a result?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt's Session 17 explain the cosmic judgment in Isaiah 34-35, and what does he say about the contrast between desolation and restoration? (Answers in Oswalt Session 17, 5:00-15:00.)",
+        "According to Oswalt's Session 18, what is the significance of Hezekiah's prayer in Isaiah 37:14-20, and how does God respond to the Assyrian threat? (Answers in Oswalt Session 18, 10:00-20:00.)",
+        "How does Oswalt's Session 19 analyze Hezekiah's illness and the Babylonian envoys in Isaiah 38-39, and what does this foreshadow? (Answers in Oswalt Session 19, 5:00-15:00.)",
+        "According to Motyer, how does 'victory, proclamation and pilgrimage' (33:1-37:38) demonstrate God's sovereignty over historical crises? (Answers in Motyer, The book of the King.D.6: Victory, proclamation and pilgrimage.)",
+        "How does Motyer explain that Hezekiah's crisis serves as a 'historical prologue' that introduces the themes of the Servant section? (Answers in Motyer, The book of the Servant.A: Historical prologue: Hezekiah's fatal choice.)"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "What are the historical stakes of Isaiah 36–37’s Assyrian threat? (Answers in Isaiah 36–37; Motyer, pp. 190–195.)",
         "How is Isaiah 37:14–20’s prayer by Hezekiah a Messianic model? (Answers in Isaiah 37:14–20; Motyer, pp. 193–195.)",
@@ -652,7 +778,9 @@
         "How does Isaiah 37:14–20’s prayer model Messianic faith? (Answers in Isaiah 37:14–20; Oswalt Session 18, 10:00–15:00.)",
         "How does Isaiah 39:1–8 foreshadow exile? (Answers in Isaiah 39:1–8; Oswalt Session 19, 12:00–15:00.)",
         "How can you trust God in crises? (Answers in Isaiah 37:14–20; Motyer, pp. 193–195.)",
-        "How does Oswalt’s Session 18 describe Isaiah 36–37’s crisis? (Answers in Isaiah 36–37; Oswalt Session 18, 5:00–10:00.)"
+        "How does Oswalt’s Session 18 describe Isaiah 36–37’s crisis? (Answers in Isaiah 36–37; Oswalt Session 18, 5:00–10:00.)",
+        "According to Motyer, how does Isaiah 34-35 function as 'universal proclamation' that prepares for the historical crisis of chapters 36-37? (Answers in Motyer, The book of the King.D.6: Victory, proclamation and pilgrimage.)",
+        "How does Motyer explain that Hezekiah's crisis in chapters 38-39 serves as a 'historical prologue' that introduces the themes of the Servant section? (Answers in Motyer, The book of the Servant.A: Historical prologue: Hezekiah's fatal choice.)"
       ],
       "keyPoints": [
         "Cosmic Judgment on Edom: Chapter 34 portrays universal destruction, symbolized by Edom, as a prelude to Judah's deliverance, rooted in ongoing rivalries from Esau's time but intensified in 8th-century politics.",
@@ -700,7 +828,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 211–250.",
+          "text": "Read Motyer's commentary, The book of the Servant.B: The consolation of the world (40:1-42:17), The book of the Servant.C: The redemption of Israel (42:18-44:23), and The book of the Servant.D.1-3: The great deliverance (44:24-45:25).",
           "link": null
         },
         {
@@ -734,6 +862,21 @@
           "link": "https://bibleproject.com/podcasts/isaiahs-anointed-one/"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 40, what comfort does God offer to His people, and how does He contrast His eternal nature with the temporary nature of grass and flowers?",
+        "According to Isaiah 41, how does God challenge the idols and their worshipers, and what promise does He make to Israel as His servant?",
+        "In Isaiah 42, what characteristics define the Servant whom God chooses, and what mission will He accomplish for the nations?",
+        "What does Isaiah 44 reveal about the foolishness of idol-making, and how does God demonstrate His uniqueness?",
+        "In Isaiah 45, how does God describe Cyrus as His 'anointed one,' and what does this reveal about God's sovereignty over pagan rulers?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt's Session 20 explain the comfort offered in Isaiah 40-41, and what does he say about God's power versus the futility of idols? (Answers in Oswalt Session 20, 5:00-15:00.)",
+        "According to Oswalt's Session 21, what is the significance of the Servant in Isaiah 42-43, and how does this connect to both Israel and the Messiah? (Answers in Oswalt Session 21, 10:00-20:00.)",
+        "How does Oswalt's Session 22 analyze God's sovereignty in Isaiah 44-46, particularly regarding Cyrus as God's anointed? (Answers in Oswalt Session 22, 5:00-15:00.)",
+        "According to Motyer, how does 'the consolation of the world' (40:1-42:17) establish the foundation for understanding God's comfort to His people? (Answers in Motyer, The book of the Servant.B: The consolation of the world.)",
+        "How does Motyer explain 'the great deliverance' (44:24-45:25) as God's demonstration of His sovereignty over history and nations? (Answers in Motyer, The book of the Servant.D.1-3: The great deliverance.)"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "What comfort does Isaiah 40:1–11 offer in the exile context? (Answers in Isaiah 40:1–11; Motyer, pp. 211–213.)",
         "How does Isaiah 42:1–9’s Servant connect to Christ’s mission? (Answers in Isaiah 42:1–9; Motyer, pp. 220–222.)",
@@ -742,9 +885,11 @@
         "How does Motyer unify ch. 40–45’s themes of comfort? (Answers in Motyer, pp. 211–215.)",
         "How does Isaiah 40:1–11’s comfort apply to exile? (Answers in Isaiah 40:1–11; Oswalt Session 20, 5:00–10:00.)",
         "How does Isaiah 42:1–9’s Servant reflect Christ? (Answers in Isaiah 42:1–9; Oswalt Session 21, 10:00–15:00.)",
-        "How does Isaiah 44:28–45:7 show God’s control? (Answers in Isaiah 44:28–45:7; Oswalt Session 22, 12:00–15:00.)",
         "How does Heiser’s podcast explain the Servant’s role? (Answers in Heiser’s podcast, 10:00–15:00.)",
-        "How can you model the Servant’s humility in life? (Answers in Isaiah 42:1–9; Motyer, pp. 220–222.)"
+        "How can you model the Servant’s humility in life? (Answers in Isaiah 42:1–9; Motyer, pp. 220–222.)",
+        "How does Isaiah 44:28–45:7 show God’s control? (Answers in Isaiah 44:28–45:7; Oswalt Session 22, 12:00–15:00.)",
+        "According to Motyer, how does 'the consolation of the world' (40:1-42:17) demonstrate God's answer to both Israel's exile and the Gentiles' spiritual need? (Answers in Motyer, The book of the Servant.B: The consolation of the world.)",
+        "How does Motyer explain that Cyrus serves as 'the Lord's shepherd' and 'anointed' to accomplish God's purposes, and what does this reveal about divine sovereignty over pagan rulers? (Answers in Motyer, The book of the Servant.D.1: The task of Cyrus.)"
       ],
       "keyPoints": [
         "Comfort for Exiled Judah: Chapter 40 opens with a message of comfort, promising restoration through God’s power and compassion, fulfilled in Christ’s redemptive work (John 1:23).",
@@ -792,7 +937,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 251–270.",
+          "text": "Read Motyer's commentary, The book of the Servant.D.4-5: Rebellious people and The triumph of Cyrus (46:1-48:22).",
           "link": null
         },
         {
@@ -810,6 +955,20 @@
           "link": "https://bible.org/seriespage/11-lord-versus-idols-isaiah-461-13"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 46, how does God contrast the helplessness of Babylonian idols Bel and Nebo with His own power to carry and save His people?",
+        "According to Isaiah 47, what judgment will come upon Babylon, and what does God say about her pride and sorceries?",
+        "In Isaiah 48, what does God reveal about His foreknowledge and Israel's stubbornness, and how does He demonstrate His glory?",
+        "What does Isaiah 48 say about God's refining process for Israel, and what promise does He make about peace?",
+        "How does Isaiah 48 conclude with God's call to 'Come out from Babylon' and what declaration about the wicked?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt's Session 22 continue his analysis of God versus idols in Isaiah 46, and what does he say about God's ability to carry His people? (Answers in Oswalt Session 22, 15:00-25:00.)",
+        "According to Oswalt's Session 23, what is the significance of Babylon's fall in Isaiah 47-48, and how does this demonstrate God's sovereignty? (Answers in Oswalt Session 23, 5:00-15:00.)",
+        "According to Motyer, how does 'the great deliverance' continue in Isaiah 46-48 to show God's superiority over Babylonian gods? (Answers in Motyer, The book of the Servant.D.1-3: The great deliverance.)",
+        "How does Motyer explain that Isaiah 48's call to 'come out from Babylon' represents both physical and spiritual liberation? (Answers in Motyer, The book of the Servant.D.3: Come out from Babylon.)"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "How does Isaiah 46:1–7 mock Babylonian idols? (Answers in Isaiah 46:1–7; Motyer, pp. 251–253.)",
         "How does Isaiah 47 predict Babylon’s fall historically? (Answers in Isaiah 47; Motyer, pp. 255–257.)",
@@ -820,7 +979,9 @@
         "How does Isaiah 47’s fall of Babylon connect to history? (Answers in Isaiah 47; Oswalt Session 23, 10:00–15:00.)",
         "How does Isaiah 48:12–22 inspire trust in God? (Answers in Isaiah 48:12–22; Oswalt Session 23, 12:00–15:00.)",
         "How can you apply God’s redemption to your life? (Answers in Isaiah 48:12–22; Motyer, pp. 260–262.)",
-        "How does Oswalt’s Session 22 highlight God’s sovereignty? (Answers in Isaiah 46:1–7; Oswalt Session 22, 5:00–10:00.)"
+        "How does Oswalt’s Session 22 highlight God’s sovereignty? (Answers in Isaiah 46:1–7; Oswalt Session 22, 5:00–10:00.)",
+        "According to Motyer, how does Isaiah 46-47 contrast 'rebellious people' with 'the inflexible Lord' to show the certainty of God's purposes despite human stubbornness? (Answers in Motyer, The book of the Servant.D.4: Rebellious people: the inflexible Lord.)",
+        "How does Motyer explain that 'the triumph of Cyrus' in chapters 47-48 serves as both historical fulfillment and theological preparation for the greater deliverance to come? (Answers in Motyer, The book of the Servant.D.5: The triumph of Cyrus.)"
       ],
       "keyPoints": [
         "Cyrus as God’s Instrument: Chapter 45 presents Cyrus as God’s anointed to free Israel from Babylon, showcasing divine sovereignty over pagan rulers (45:1-7).",
@@ -861,7 +1022,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 271–310.",
+          "text": "Read Motyer's commentary, The book of the Servant.E: The greater deliverance (49:1-55:13).",
           "link": null
         },
         {
@@ -891,6 +1052,21 @@
           "link": "https://bibleproject.com/podcasts/the-servant-songs-of-isaiah/"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 49, how does the Servant describe His calling from the womb, and what mission does God give Him to the nations?",
+        "According to Isaiah 50, how does the Servant respond to opposition and suffering, and what confidence does He express?",
+        "In Isaiah 52:13-53:12, how is the Suffering Servant described, including His appearance, the reason for His suffering, and the results of His sacrifice?",
+        "What does Isaiah 54 promise about the restoration of Zion, and how does God describe His covenant love?",
+        "In Isaiah 55, what invitation does God extend, and what does He say about His word not returning empty?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt's Session 24 explain the Servant's mission in Isaiah 49-50, and what does he say about the Servant's role toward both Israel and the nations? (Answers in Oswalt Session 24, 5:00-15:00.)",
+        "According to Oswalt's Session 25, what is the significance of the Suffering Servant in Isaiah 51-53, and how does this connect to atonement? (Answers in Oswalt Session 25, 10:00-20:00.)",
+        "How does Oswalt's Session 26 describe the new covenant promises in Isaiah 54-55, and what does he say about God's everlasting mercy? (Answers in Oswalt Session 26, 5:00-15:00.)",
+        "According to Motyer, how does 'the Servant's double task' (49:1-6) reveal both the restoration of Israel and the salvation of the Gentiles? (Answers in Motyer, The book of the Servant.E.1: The Servant's double task.)",
+        "How does Motyer explain 'the arm of the Lord' (52:13-55:13) as demonstrating the Servant's triumph through suffering? (Answers in Motyer, The book of the Servant.E.5: The arm of the Lord.)"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "How does Isaiah 49:1–6 describe the Servant’s mission to the nations? (Answers in Isaiah 49:1–6; Motyer, pp. 271–273.)",
         "How does Isaiah 53:1–12 portray the Servant’s suffering and victory? (Answers in Isaiah 53:1–12; Motyer, pp. 290–293.)",
@@ -901,7 +1077,9 @@
         "How does Isaiah 53:1–12 connect to Christ’s atonement? (Answers in Isaiah 53:1–12; Oswalt Session 25, 10:00–15:00.)",
         "How does Isaiah 54–55’s covenant inspire hope? (Answers in Isaiah 54–55; Oswalt Session 26, 12:00–15:00.)",
         "How does Heiser’s podcast explain the Servant’s role? (Answers in Heiser’s podcast, 10:00–15:00.)",
-        "How can you apply the Servant’s sacrifice to your life? (Answers in Isaiah 53:1–12; Motyer, pp. 290–293.)"
+        "How can you apply the Servant’s sacrifice to your life? (Answers in Isaiah 53:1–12; Motyer, pp. 290–293.)",
+        "According to Motyer, how does 'the Servant's double task' (49:1-6) reveal both the restoration of Israel and the salvation of the Gentiles as equally central to God's purposes? (Answers in Motyer, The book of the Servant.E.1: The Servant's double task: Israel and the world.)",
+        "How does Motyer explain that 'the arm of the Lord' (52:13-55:13) demonstrates the Servant's triumph through suffering, and what does this reveal about God's method of victory? (Answers in Motyer, The book of the Servant.E.5: The arm of the Lord: the triumph of the Servant.)"
       ],
       "keyPoints": [
         "Servant’s Universal Mission: Chapters 49-50 depict the Servant restoring Israel and bringing salvation to all nations, fulfilled in Jesus (Acts 13:47).",
@@ -942,7 +1120,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 311–330.",
+          "text": "Read Motyer's commentary, The book of the Anointed Conqueror.A: The ideal and the actual (56:1-59:13).",
           "link": null
         },
         {
@@ -960,6 +1138,20 @@
           "link": "https://bible.org/seriespage/15-righteousness-and-justice-isaiah-561-5921"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 56, what does God promise to foreigners and eunuchs who keep His covenant, and what does He say about His house being 'a house of prayer for all nations'?",
+        "According to Isaiah 57, what condemnation does God give to the wicked, and what comfort does He offer to the contrite and lowly in spirit?",
+        "In Isaiah 58, what does God say about true fasting versus mere ritual, and what kind of justice and mercy does He desire?",
+        "What does Isaiah 59 reveal about how sin separates people from God, and what does God do when He sees there is no intercessor?",
+        "How does Isaiah 59 describe God as a warrior coming for redemption, and what covenant does He promise?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt's Session 27 explain the inclusion of foreigners in Isaiah 56-57, and what does he say about God's house being for all nations? (Answers in Oswalt Session 27, 5:00-15:00.)",
+        "According to Oswalt's Session 28, what is Isaiah's condemnation of false worship in Isaiah 58-59, and what does true righteousness look like? (Answers in Oswalt Session 28, 10:00-20:00.)",
+        "According to Motyer, how does 'the ideal and the actual' (56:1-59:13) expose the gap between God's vision and His people's spiritual condition? (Answers in Motyer, The book of the Anointed Conqueror.A: The ideal and the actual.)",
+        "How does Motyer explain that Isaiah 58's condemnation reveals the difference between ritual religion and true righteousness? (Answers in Motyer, The book of the Anointed Conqueror.A.c: Sin exposed and confessed.)"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "How does Isaiah 56:1–8 emphasize inclusion and ethics? (Answers in Isaiah 56:1–8; Motyer, pp. 311–313.)",
         "How does Isaiah 58 condemn hypocrisy in worship? (Answers in Isaiah 58; Motyer, pp. 315–317.)",
@@ -970,7 +1162,9 @@
         "How does Isaiah 58’s condemnation apply to modern worship? (Answers in Isaiah 58; Oswalt Session 28, 10:00–15:00.)",
         "How does Isaiah 59:1–15a call for repentance? (Answers in Isaiah 59:1–15a; Oswalt Session 28, 12:00–15:00.)",
         "How can you reject hypocrisy in your faith? (Answers in Isaiah 58; Motyer, pp. 315–317.)",
-        "How does Oswalt’s Session 27 describe inclusion in Isaiah 56? (Answers in Isaiah 56:1–8; Oswalt Session 27, 5:00–10:00.)"
+        "How does Oswalt’s Session 27 describe inclusion in Isaiah 56? (Answers in Isaiah 56:1–8; Oswalt Session 27, 5:00–10:00.)",
+        "According to Motyer, how does 'the ideal and the actual' (56:1-59:13) expose the gap between God's vision for His people and their current spiritual condition? (Answers in Motyer, The book of the Anointed Conqueror.A: The ideal and the actual: the needs and sins of the Lord's people.)",
+        "How does Motyer explain that Isaiah 58's condemnation of false worship reveals the difference between ritual religion and true righteousness that God desires? (Answers in Motyer, The book of the Anointed Conqueror.A.c: Sin exposed and confessed.)"
       ],
       "keyPoints": [
         "Inclusive Covenant Community: Chapters 56-57 welcome foreigners and outcasts into God’s covenant, fulfilled in the church (Ephesians 2:19).",
@@ -1018,7 +1212,7 @@
           "link": null
         },
         {
-          "text": "Read Motyer’s commentary, pp. 331–360.",
+          "text": "Read Motyer's commentary, The book of the Anointed Conqueror.B: The coming of the Anointed Conqueror (59:14-63:6) and The book of the Anointed Conqueror.C: Prayer and response (63:7-66:24).",
           "link": null
         },
         {
@@ -1040,6 +1234,20 @@
           "link": "https://bibleproject.com/podcasts/the-new-creation-in-isaiah/"
         }
       ],
+      "sourceQuestions": [
+        "In Isaiah 60, what transformation does God promise for Zion, and how will the nations respond to her light?",
+        "According to Isaiah 61, what mission does the Spirit-anointed one proclaim, and what does He promise to those who mourn?",
+        "In Isaiah 62, what does God promise about Jerusalem's vindication, and what new names will she receive?",
+        "What does Isaiah 65 reveal about God's new heavens and new earth, and how will conditions change in this new creation?",
+        "In Isaiah 66, what does God say about true worship versus mere ritual, and what final vision does Isaiah give of God's eternal kingdom?"
+      ],
+      "commentaryQuestions": [
+        "How does Oswalt's Session 29 describe Zion's restoration in Isaiah 60-62, and what does he say about the glory that will come to Jerusalem? (Answers in Oswalt Session 29, 5:00-15:00.)",
+        "According to Oswalt's Session 30, what is the significance of the new heavens and new earth in Isaiah 63-66, and how does this connect to God's ultimate plan? (Answers in Oswalt Session 30, 10:00-20:00.)",
+        "According to Motyer, how does 'the coming of the Anointed Conqueror' (59:14-63:6) demonstrate God's commitment to both salvation and vengeance? (Answers in Motyer, The book of the Anointed Conqueror.B: The coming of the Anointed Conqueror.)",
+        "How does Motyer explain the progression from prayer (63:7-64:12) to God's response (65:1-66:24) as steps to the new heaven and new earth? (Answers in Motyer, The book of the Anointed Conqueror.C: Prayer and response.)"
+      ],
+      "applicationQuestions": [],
       "questions": [
         "How does Isaiah 60:1–14 describe Zion’s restoration? (Answers in Isaiah 60:1–14; Motyer, pp. 331–333.)",
         "How does Isaiah 61:1–3 connect to Jesus’ ministry? (Answers in Isaiah 61:1–3; Motyer, pp. 335–337.)",
@@ -1050,7 +1258,9 @@
         "How does Isaiah 61:1–3 connect to Christ’s mission? (Answers in Isaiah 61:1–3; Oswalt Session 29, 10:00–15:00.)",
         "How does Isaiah 65–66’s new creation apply to faith? (Answers in Isaiah 65–66; Oswalt Session 30, 12:00–15:00.)",
         "How can you lead with hope in trials? (Answers in Isaiah 65–66; Motyer, pp. 345–347.)",
-        "How does Oswalt’s Session 30 describe the new creation? (Answers in Isaiah 65–66; Oswalt Session 30, 5:00–10:00.)"
+        "How does Oswalt’s Session 30 describe the new creation? (Answers in Isaiah 65–66; Oswalt Session 30, 5:00–10:00.)",
+        "According to Motyer, how does 'the coming of the Anointed Conqueror' (59:14-63:6) demonstrate God's commitment to both salvation and vengeance in establishing His kingdom? (Answers in Motyer, The book of the Anointed Conqueror.B: The coming of the Anointed Conqueror.)",
+        "How does Motyer explain that the progression from prayer (63:7-64:12) to God's response (65:1-66:24) shows the path to 'the new heaven and new earth'? (Answers in Motyer, The book of the Anointed Conqueror.C: Prayer and response: steps to the new heaven and new earth.)"
       ],
       "keyPoints": [
         "Zion’s Restoration: Chapter 60-62 promise Jerusalem’s glory and renewal, fulfilled in the heavenly Jerusalem (Revelation 21:2).",
