@@ -239,21 +239,61 @@ function generatePrintHTML(week) {
             <div class="questions-section">
                 <h2>Group Questions</h2>
                 
-                ${week.questions && week.questions.length > 0 ? week.questions.map((question, index) => {
-                    const userAnswer = userAnswersForWeek[index] || '';
-                    return `
-                        <div class="question">
-                            <div class="question-number">${index + 1}. ${question}</div>
-                            <div class="answer-lines">
-                                <div class="answer-line"></div>
-                                <div class="answer-line"></div>
-                                <div class="answer-line"></div>
-                                <div class="answer-line"></div>
-                                ${userAnswer.trim() ? `<div class="user-answer-overlay">${userAnswer}</div>` : ''}
-                            </div>
+                ${week.sourceQuestions && week.sourceQuestions.length > 0 ? `
+                    <div class="source-questions">
+                        <h3>Source Questions</h3>
+                        ${week.sourceQuestions.map((question, index) => {
+                            const userAnswer = userAnswersForWeek[`source-${index}`] || '';
+                            return `
+                                <div class="question">
+                                    <div class="question-number">${index + 1}. ${question}</div>
+                                    <div class="answer-lines">
+                                        <div class="answer-line"></div>
+                                        <div class="answer-line"></div>
+                                        <div class="answer-line"></div>
+                                        <div class="answer-line"></div>
+                                        ${userAnswer.trim() ? `<div class="user-answer-overlay">${userAnswer}</div>` : ''}
+                                    </div>
+                                </div>
+                            `;
+                        }).join('')}
+                    </div>
+                ` : ''}
+                
+                ${week.commentaryQuestions && week.commentaryQuestions.length > 0 ? `
+                    <div class="commentary-questions">
+                        <h3>Commentary Questions</h3>
+                        ${week.commentaryQuestions.map((question, index) => {
+                            const questionNum = (week.sourceQuestions ? week.sourceQuestions.length : 0) + index + 1;
+                            const userAnswer = userAnswersForWeek[`commentary-${index}`] || '';
+                            return `
+                                <div class="question">
+                                    <div class="question-number">${questionNum}. ${question}</div>
+                                    <div class="answer-lines">
+                                        <div class="answer-line"></div>
+                                        <div class="answer-line"></div>
+                                        <div class="answer-line"></div>
+                                        <div class="answer-line"></div>
+                                        ${userAnswer.trim() ? `<div class="user-answer-overlay">${userAnswer}</div>` : ''}
+                                    </div>
+                                </div>
+                            `;
+                        }).join('')}
+                    </div>
+                ` : ''}
+                
+                <div class="other-observations">
+                    <h3>Other Observations to Share</h3>
+                    <div class="question">
+                        <div class="answer-lines">
+                            <div class="answer-line"></div>
+                            <div class="answer-line"></div>
+                            <div class="answer-line"></div>
+                            <div class="answer-line"></div>
+                            ${userAnswersForWeek['observations'] ? `<div class="user-answer-overlay">${userAnswersForWeek['observations']}</div>` : ''}
                         </div>
-                    `;
-                }).join('') : '<p>No questions available for this week.</p>'}
+                    </div>
+                </div>
             </div>
             
             ${userNotesForWeek ? `
@@ -464,14 +504,18 @@ function generateWeekHTML(week) {
     }
     
     // Add questions section
-    if (week.questions && week.questions.length > 0) {
-        html += `
-            <div class="group-questions">
-                <h2>Group Questions</h2>
+    let hasQuestions = false;
+    let html_questions = '';
+    
+    if (week.sourceQuestions && week.sourceQuestions.length > 0) {
+        hasQuestions = true;
+        html_questions += `
+            <div class="source-questions-section">
+                <h3>Source Questions</h3>
                 <ol>
-                    ${week.questions.map((question, index) => {
-                        const answerId = `answer-${currentWeek}-${index}`;
-                        const savedAnswer = questionAnswers[currentWeek] && questionAnswers[currentWeek][index] ? questionAnswers[currentWeek][index] : '';
+                    ${week.sourceQuestions.map((question, index) => {
+                        const answerId = `answer-${currentWeek}-source-${index}`;
+                        const savedAnswer = questionAnswers[currentWeek] && questionAnswers[currentWeek][`source-${index}`] ? questionAnswers[currentWeek][`source-${index}`] : '';
                         return `
                             <li class="question-item">
                                 <div class="question-text">${question}</div>
@@ -483,6 +527,53 @@ function generateWeekHTML(week) {
                         `;
                     }).join('')}
                 </ol>
+            </div>
+        `;
+    }
+    
+    if (week.commentaryQuestions && week.commentaryQuestions.length > 0) {
+        hasQuestions = true;
+        const startNum = week.sourceQuestions ? week.sourceQuestions.length : 0;
+        html_questions += `
+            <div class="commentary-questions-section">
+                <h3>Commentary Questions</h3>
+                <ol start="${startNum + 1}">
+                    ${week.commentaryQuestions.map((question, index) => {
+                        const answerId = `answer-${currentWeek}-commentary-${index}`;
+                        const savedAnswer = questionAnswers[currentWeek] && questionAnswers[currentWeek][`commentary-${index}`] ? questionAnswers[currentWeek][`commentary-${index}`] : '';
+                        return `
+                            <li class="question-item">
+                                <div class="question-text">${question}</div>
+                                <div class="answer-container">
+                                    <textarea id="${answerId}" class="answer-input" placeholder="Enter your answer here...">${savedAnswer}</textarea>
+                                    <span id="saved-${answerId}" class="save-indicator" style="opacity: ${savedAnswer ? '1' : '0.3'}">✓</span>
+                                </div>
+                            </li>
+                        `;
+                    }).join('')}
+                </ol>
+            </div>
+        `;
+    }
+    
+    // Add other observations section
+    const observationsAnswerId = `answer-${currentWeek}-observations`;
+    const savedObservations = questionAnswers[currentWeek] && questionAnswers[currentWeek]['observations'] ? questionAnswers[currentWeek]['observations'] : '';
+    html_questions += `
+        <div class="other-observations-section">
+            <h3>Other Observations to Share</h3>
+            <div class="answer-container">
+                <textarea id="${observationsAnswerId}" class="answer-input" placeholder="Share any other observations, insights, or questions...">${savedObservations}</textarea>
+                <span id="saved-${observationsAnswerId}" class="save-indicator" style="opacity: ${savedObservations ? '1' : '0.3'}">✓</span>
+            </div>
+        </div>
+    `;
+    
+    if (hasQuestions || html_questions) {
+        html += `
+            <div class="group-questions">
+                <h2>Group Questions</h2>
+                ${html_questions}
             </div>
         `;
     }
@@ -635,8 +726,21 @@ function setupQuestionAnswers() {
             saveTimeout = setTimeout(() => {
                 const parts = this.id.split('-');
                 const weekIndex = parseInt(parts[1]);
-                const questionIndex = parseInt(parts[2]);
-                saveQuestionAnswer(weekIndex, questionIndex, this.value);
+                
+                // Handle different question types
+                let questionKey;
+                if (parts[2] === 'source') {
+                    questionKey = `source-${parts[3]}`;
+                } else if (parts[2] === 'commentary') {
+                    questionKey = `commentary-${parts[3]}`;
+                } else if (parts[2] === 'observations') {
+                    questionKey = 'observations';
+                } else {
+                    // Legacy format
+                    questionKey = parseInt(parts[2]);
+                }
+                
+                saveQuestionAnswer(weekIndex, questionKey, this.value);
             }, 500);
         });
     });
