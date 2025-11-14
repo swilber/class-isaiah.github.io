@@ -6,6 +6,19 @@ let userNotes = JSON.parse(localStorage.getItem('userNotes') || '{}');
 let preparationChecked = JSON.parse(localStorage.getItem('preparationChecked') || '{}');
 let questionAnswers = JSON.parse(localStorage.getItem('questionAnswers') || '{}');
 
+// Helper function to determine if image is local or web URL
+function getImagePath(imagePath) {
+    if (!imagePath) return '';
+    
+    // If it's already a full URL (starts with http/https), return as-is
+    if (imagePath.startsWith('http://') || imagePath.startsWith('https://')) {
+        return imagePath;
+    }
+    
+    // If it's a local path, prepend the resources/images/ directory
+    return `./resources/images/${imagePath}`;
+}
+
 document.addEventListener('DOMContentLoaded', async function() {
     try {
         const response = await fetch('./resources/study.json');
@@ -353,7 +366,7 @@ function generateMaterialsHTML() {
                 ${studyData.studyMaterials.map(material => `
                     <div class="material-card ${material.required ? 'required' : 'optional'}">
                         <div class="material-image">
-                            <img src="${material.image}" alt="${material.title}" 
+                            <img src="${getImagePath(material.image)}" alt="${material.title}" 
                                  onerror="this.src='https://via.placeholder.com/200x250/3498db/ffffff?text=${encodeURIComponent(material.title)}'">
                         </div>
                         <div class="material-info">
@@ -436,9 +449,9 @@ function generateWeekHTML(week) {
                     ${week.images.map(image => `
                         <div class="gallery-item">
                             <div class="gallery-image">
-                                <img src="${image.url}" alt="${image.description}" 
+                                <img src="${getImagePath(image.url)}" alt="${image.description}" 
                                      onerror="this.src='https://via.placeholder.com/400x300/3498db/ffffff?text=${encodeURIComponent(image.title)}'"
-                                     onclick="openImageModal('${image.url}', '${image.title}', '${image.description}')">
+                                     onclick="openImageModal('${getImagePath(image.url)}', '${image.title}', '${image.description}')">
                             </div>
                             <div class="gallery-info">
                                 <h4 class="gallery-title">${image.title}</h4>
