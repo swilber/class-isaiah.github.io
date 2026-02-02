@@ -247,24 +247,25 @@
       "geopolitical": {
         "period": "740\u2013701 BC (Isaiah's Early Ministry)",
         "judah": [
-          "Uzziah (792\u2013740 BC) - prosperous but prideful",
-          "Jotham (750\u2013732 BC, co-regent)",
-          "Ahaz (735\u2013715 BC) - wicked, made Assyrian alliance"
+          "Uzziah (792\u2013740 BC) - Prosperous king who became prideful and was struck with leprosy.",
+          "Jotham (750\u2013732 BC) - Co-regent and then king, did right but people remained corrupt.",
+          "Ahaz (735\u2013715 BC) - Wicked king who made alliance with Assyria instead of trusting God."
         ],
         "israel": [
-          "Pekah (737\u2013732 BC) - allied with Syria against Judah"
+          "Pekah (737\u2013732 BC) - King who allied with Syria to attack Judah in Syro-Ephraimite War."
         ],
         "assyria": [
-          "Tiglath-Pileser III (745\u2013727 BC) - expanding empire"
+          "Tiglath-Pileser III (745\u2013727 BC) - Powerful emperor expanding Assyrian empire westward."
         ],
-        "syria": [
-          "Rezin (c. 740\u2013732 BC) - allied with Israel"
+        "babylon": [
+          "(Under Assyrian control)"
+        ],
+        "egypt": [
+          "(Multiple dynasties, not major player in this period)"
         ],
         "majorPlayers": [
-          "Isaiah (prophet, called 740 BC)",
-          "Uzziah (dies in ch. 6)",
-          "Seraphim (divine council)",
-          "The remnant (Shear-Jashub)"
+          "Isaiah - Prophet called in 740 BC to preach judgment and hope to Judah.",
+          "Shear-Jashub - Isaiah's son whose name means 'a remnant shall return.'"
         ]
       }
     },
@@ -414,23 +415,26 @@
       "geopolitical": {
         "period": "735\u2013732 BC (Syro-Ephraimite War)",
         "judah": [
-          "Ahaz (735\u2013715 BC) - refused to trust God, allied with Assyria"
+          "Ahaz (735\u2013715 BC) - Refused to trust God, made alliance with Assyria, practiced child sacrifice."
         ],
         "israel": [
-          "Pekah (737\u2013732 BC) - attacked Judah with Syria"
+          "Pekah (737\u2013732 BC) - Attacked Judah with Syria, later assassinated by Hoshea."
         ],
         "assyria": [
-          "Tiglath-Pileser III (745\u2013727 BC) - Ahaz's ally, conquered Damascus"
+          "Tiglath-Pileser III (745\u2013727 BC) - Conquered Damascus and parts of Israel at Ahaz's request."
         ],
-        "syria": [
-          "Rezin (c. 740\u2013732 BC) - killed by Assyria 732 BC"
+        "babylon": [
+          "(Under Assyrian control)"
+        ],
+        "egypt": [
+          "(Not involved in this conflict)"
         ],
         "majorPlayers": [
-          "Ahaz (faithless king)",
-          "Isaiah (urging faith)",
-          "Immanuel (sign child)",
-          "Maher-Shalal-Hash-Baz (Isaiah's son, sign)",
-          "Virgin/young woman (almah)"
+          "Ahaz - Faithless king who rejected Isaiah's call to trust God.",
+          "Isaiah - Prophet urging Ahaz to have faith instead of seeking Assyrian help.",
+          "Rezin - King of Syria (c. 740\u2013732 BC) who allied with Israel against Judah, killed by Assyria.",
+          "Immanuel - Sign child whose name means 'God with us,' pointing to future Messiah.",
+          "Maher-Shalal-Hash-Baz - Isaiah's son whose name means 'quick to plunder, swift to spoil.'"
         ]
       }
     },
@@ -540,24 +544,27 @@
       "geopolitical": {
         "period": "732\u2013701 BC (Assyrian Dominance)",
         "judah": [
-          "Ahaz (735\u2013715 BC)",
-          "Hezekiah (715\u2013686 BC) - righteous reformer"
+          "Ahaz (735\u2013715 BC) - Continued as Assyrian vassal.",
+          "Hezekiah (715\u2013686 BC) - Righteous reformer who trusted God and cleansed the temple."
         ],
         "israel": [
-          "Hoshea (732\u2013722 BC) - last king, Israel falls 722 BC"
+          "Hoshea (732\u2013722 BC) - Last king of Israel before fall to Assyria in 722 BC.",
+          "(Conquered 722 BC, exiled by Assyria)"
         ],
         "assyria": [
-          "Tiglath-Pileser III (745\u2013727 BC)",
-          "Shalmaneser V (727\u2013722 BC) - besieged Samaria",
-          "Sargon II (722\u2013705 BC) - conquered Samaria"
+          "Tiglath-Pileser III (745\u2013727 BC) - Continued expansion.",
+          "Shalmaneser V (727\u2013722 BC) - Besieged Samaria for three years.",
+          "Sargon II (722\u2013705 BC) - Completed conquest of Samaria and exiled Israelites."
         ],
         "babylon": [
-          "Rising power under Assyrian control"
+          "(Under Assyrian control, rising as future power)"
+        ],
+        "egypt": [
+          "(Weak, divided into multiple kingdoms)"
         ],
         "majorPlayers": [
-          "Nations under judgment (Babylon, Philistia, Moab, Damascus, Egypt)",
-          "Lucifer/morning star (possibly Satan, 14:12)",
-          "Future remnant of all nations"
+          "Hezekiah - Godly king who reformed Judah and trusted in the Lord.",
+          "Isaiah - Prophet delivering oracles against nations and calling for faith."
         ]
       }
     },
@@ -684,26 +691,25 @@
       "geopolitical": {
         "period": "722\u2013701 BC (After Israel's Fall)",
         "judah": [
-          "Hezekiah (715\u2013686 BC) - facing Assyrian threats"
+          "Hezekiah (715\u2013686 BC) - Facing increasing Assyrian pressure after Israel's fall."
         ],
         "israel": [
-          "Fallen to Assyria (722 BC), exiled"
+          "(Conquered and exiled 722 BC)"
         ],
         "assyria": [
-          "Sargon II (722\u2013705 BC)",
-          "Sennacherib (705\u2013681 BC) - will besiege Jerusalem"
+          "Sargon II (722\u2013705 BC) - Consolidated control over former Israel.",
+          "Sennacherib (705\u2013681 BC) - Would later besiege Jerusalem in 701 BC."
         ],
         "babylon": [
-          "Merodach-Baladan II (721\u2013710, 703 BC) - rebel king"
+          "Merodach-Baladan II (721\u2013710, 703 BC) - Rebel king who briefly gained independence from Assyria."
         ],
         "egypt": [
-          "Shabaka (716\u2013702 BC) - 25th Dynasty"
+          "Shabaka (716\u2013702 BC) - Pharaoh of 25th Dynasty who opposed Assyria."
         ],
         "majorPlayers": [
-          "Babylon (judged but future oppressor)",
-          "Tyre (commercial power judged)",
-          "Egypt/Assyria (future worshipers with Israel)",
-          "The earth (cosmic judgment in chs. 24-27)"
+          "Hezekiah - King navigating threats from Assyria and temptation to trust Egypt.",
+          "Isaiah - Prophet warning against foreign alliances and announcing cosmic judgment.",
+          "Merodach-Baladan II - Babylonian king who would later send envoys to Hezekiah."
         ]
       }
     },
@@ -808,23 +814,25 @@
       "geopolitical": {
         "period": "705\u2013701 BC (Hezekiah's Crisis)",
         "judah": [
-          "Hezekiah (715\u2013686 BC) - trusting God vs. alliances"
+          "Hezekiah (715\u2013686 BC) - Faced choice between trusting God or making alliance with Egypt."
+        ],
+        "israel": [
+          "(Conquered and exiled)"
         ],
         "assyria": [
-          "Sennacherib (705\u2013681 BC) - besieging Jerusalem 701 BC"
-        ],
-        "egypt": [
-          "Shabaka (716\u2013702 BC) - unreliable ally"
+          "Sennacherib (705\u2013681 BC) - Invaded Judah and besieged Jerusalem in 701 BC."
         ],
         "babylon": [
-          "Merodach-Baladan II (703 BC) - sent envoys to Hezekiah"
+          "Merodach-Baladan II (703 BC) - Briefly regained throne, sent envoys to Hezekiah seeking alliance."
+        ],
+        "egypt": [
+          "Shabaka (716\u2013702 BC) - Unreliable ally that Judah was tempted to trust."
         ],
         "majorPlayers": [
-          "Hezekiah (faithful king)",
-          "Isaiah (prophet urging trust)",
-          "Sennacherib (Assyrian threat)",
-          "Rabshakeh (Assyrian spokesman)",
-          "Egypt (false hope)"
+          "Hezekiah - King who ultimately chose faith over political alliances.",
+          "Isaiah - Prophet urging trust in God alone, not Egypt or military strength.",
+          "Sennacherib - Assyrian emperor who threatened Jerusalem with overwhelming force.",
+          "Rabshakeh - Assyrian field commander who blasphemed God and mocked Hezekiah's faith."
         ]
       }
     },
@@ -946,24 +954,26 @@
       "geopolitical": {
         "period": "701\u2013681 BC (Deliverance and Foreshadowing)",
         "judah": [
-          "Hezekiah (715\u2013686 BC) - delivered but prideful with Babylon"
+          "Hezekiah (715\u2013686 BC) - Delivered from Assyria but later showed pride to Babylonian envoys."
+        ],
+        "israel": [
+          "(Conquered and exiled)"
         ],
         "assyria": [
-          "Sennacherib (705\u2013681 BC) - army destroyed by angel, assassinated 681 BC"
+          "Sennacherib (705\u2013681 BC) - Army destroyed by angel, later assassinated by his sons in 681 BC."
         ],
         "babylon": [
-          "Merodach-Baladan II (envoys to Hezekiah)",
-          "Future conqueror of Judah (586 BC foreshadowed)"
+          "(Under Assyrian control but destined to conquer Judah in 586 BC)"
         ],
-        "edom": [
-          "Ancient enemy, symbol of God's enemies (ch. 34)"
+        "egypt": [
+          "(Weakened after Assyrian campaigns)"
         ],
         "majorPlayers": [
-          "Hezekiah (prayer warrior, then prideful)",
-          "Sennacherib (defeated by God)",
-          "Angel of the Lord (killed 185,000)",
-          "Babylonian envoys (foreshadowing exile)",
-          "Isaiah (warning of future exile)"
+          "Hezekiah - King who prayed for deliverance but later displayed pride to Babylon.",
+          "Isaiah - Prophet who announced both deliverance from Assyria and future exile to Babylon.",
+          "Sennacherib - Assyrian king whose army was destroyed by the angel of the Lord.",
+          "Angel of the Lord - Killed 185,000 Assyrian soldiers in one night.",
+          "Babylonian envoys - Representatives of Merodach-Baladan who visited Hezekiah's palace."
         ]
       }
     },
@@ -1079,21 +1089,27 @@
       ],
       "geopolitical": {
         "period": "586\u2013539 BC (Babylonian Exile)",
-        "babylon": [
-          "Nebuchadnezzar II (605\u2013562 BC)",
-          "Nabonidus (556\u2013539 BC)",
-          "Belshazzar (co-regent, killed 539 BC)"
-        ],
-        "persia": [
-          "Cyrus II (559\u2013530 BC) - conquered Babylon 539 BC"
-        ],
         "judah": [
-          "Exiled in Babylon"
+          "(In exile in Babylon after Jerusalem destroyed 586 BC)"
+        ],
+        "israel": [
+          "(Conquered and exiled since 722 BC)"
+        ],
+        "assyria": [
+          "(Fallen to Babylon 609 BC)"
+        ],
+        "babylon": [
+          "Nebuchadnezzar II (605\u2013562 BC) - Conquered Jerusalem and exiled Judah.",
+          "Nabonidus (556\u2013539 BC) - Last king, spent years in Arabia while son ruled.",
+          "Belshazzar (co-regent, killed 539 BC) - Nabonidus's son who ruled Babylon, killed when Persians conquered."
+        ],
+        "egypt": [
+          "(Conquered by Babylon 605 BC)"
         ],
         "majorPlayers": [
-          "Cyrus (God's instrument)",
-          "The Servant (Israel/Christ)",
-          "Babylonian gods Marduk/Bel (exposed as powerless)"
+          "Cyrus II of Persia (559\u2013530 BC) - God's anointed shepherd who would free the Jews.",
+          "The Servant - Both corporate Israel and individual Messiah bringing justice to nations.",
+          "Nebuchadnezzar II - Babylonian king who destroyed Jerusalem and temple."
         ]
       }
     },
@@ -1193,21 +1209,26 @@
       ],
       "geopolitical": {
         "period": "539 BC (Fall of Babylon)",
-        "babylon": [
-          "Nabonidus (556\u2013539 BC) - absent in Arabia",
-          "Belshazzar (co-regent, killed 539 BC, Daniel 5)"
-        ],
-        "persia": [
-          "Cyrus II (559\u2013530 BC) - conquers Babylon"
-        ],
         "judah": [
-          "Exiled in Babylon, awaiting deliverance"
+          "(In exile, awaiting deliverance by Cyrus)"
+        ],
+        "israel": [
+          "(Conquered and exiled)"
+        ],
+        "assyria": [
+          "(Fallen)"
+        ],
+        "babylon": [
+          "Nabonidus (556\u2013539 BC) - Absent in Arabia during Babylon's fall.",
+          "Belshazzar (co-regent, killed 539 BC) - Killed the night Babylon fell to Persia."
+        ],
+        "egypt": [
+          "(Under Persian control after 525 BC)"
         ],
         "majorPlayers": [
-          "Nabonidus/Belshazzar (Babylon's last rulers)",
-          "Cyrus (God's instrument)",
-          "Bel/Nebo (impotent idols)",
-          "Exiled Jews (called to faith)"
+          "Cyrus II of Persia (559\u2013530 BC) - Conquered Babylon and issued decree allowing Jews to return.",
+          "Nabonidus - Eccentric king who abandoned Babylon for Arabian oasis.",
+          "Belshazzar - Co-regent who saw the writing on the wall (Daniel 5)."
         ]
       }
     },
@@ -1308,22 +1329,27 @@
       ],
       "geopolitical": {
         "period": "539\u2013400 BC (Post-Exilic Period)",
-        "babylon": [
-          "Fallen (539 BC)"
-        ],
-        "persia": [
-          "Cyrus II (539\u2013530 BC) - freed the Jews",
-          "Cambyses II (530\u2013522 BC)",
-          "Darius I (522\u2013486 BC)",
-          "Artaxerxes I (465\u2013424 BC) - Ezra/Nehemiah era"
-        ],
         "judah": [
-          "Returning remnant under Persian rule"
+          "(Returning remnant under Persian rule, rebuilding temple and city)"
+        ],
+        "israel": [
+          "(Conquered and exiled, some returned with Judah)"
+        ],
+        "assyria": [
+          "(Fallen)"
+        ],
+        "babylon": [
+          "(Conquered by Persia 539 BC)"
+        ],
+        "egypt": [
+          "(Under Persian control 525\u2013404 BC)"
         ],
         "majorPlayers": [
-          "The Servant (Israel/Christ)",
-          "Persian kings (enabling return)",
-          "Exiled remnant (recipients of hope)"
+          "Cyrus II of Persia (559\u2013530 BC) - Freed the Jews and funded temple rebuilding.",
+          "Cambyses II of Persia (530\u2013522 BC) - Son of Cyrus who conquered Egypt.",
+          "Darius I of Persia (522\u2013486 BC) - Confirmed decree to rebuild temple, completed 516 BC.",
+          "Artaxerxes I of Persia (465\u2013424 BC) - Sent Ezra (458 BC) and Nehemiah (445 BC) to restore Jerusalem.",
+          "The Servant - Suffering servant who brings salvation through substitutionary atonement."
         ]
       }
     },
@@ -1416,22 +1442,27 @@
       ],
       "geopolitical": {
         "period": "539\u2013400 BC (Post-Exilic Restoration)",
-        "babylon": [
-          "Fallen"
-        ],
-        "persia": [
-          "Cyrus II (539\u2013530 BC) - allowed return",
-          "Darius I (522\u2013486 BC) - supported temple rebuilding (Ezra 6)",
-          "Artaxerxes I (465\u2013424 BC) - sent Ezra (458 BC) and Nehemiah (445 BC)"
-        ],
         "judah": [
-          "Restored in Jerusalem, rebuilding temple and walls"
+          "(Restored in Jerusalem, rebuilding temple 520\u2013516 BC and walls 445 BC)"
+        ],
+        "israel": [
+          "(Some returned with Judah)"
+        ],
+        "assyria": [
+          "(Fallen)"
+        ],
+        "babylon": [
+          "(Conquered)"
+        ],
+        "egypt": [
+          "(Under Persian control)"
         ],
         "majorPlayers": [
-          "Persian kings (enabling restoration)",
-          "Ezra/Nehemiah (reformers)",
-          "Returned remnant (struggling with ethics)",
-          "Foreigners/eunuchs (welcomed into covenant)"
+          "Cyrus II of Persia (559\u2013530 BC) - Allowed Jews to return home.",
+          "Darius I of Persia (522\u2013486 BC) - Supported temple rebuilding against opposition.",
+          "Artaxerxes I of Persia (465\u2013424 BC) - Authorized Ezra and Nehemiah's missions.",
+          "Ezra - Priest and scribe who led spiritual reform and taught the Law (458 BC).",
+          "Nehemiah - Cupbearer to king who rebuilt Jerusalem's walls in 52 days (445 BC)."
         ]
       }
     },
@@ -1535,22 +1566,28 @@
       ],
       "geopolitical": {
         "period": "539\u2013400 BC + Eschatological Future",
-        "babylon": [
-          "Fallen"
-        ],
-        "persia": [
-          "Cyrus II (539\u2013530 BC)",
-          "Darius I (522\u2013486 BC) - temple rebuilt 520\u2013516 BC",
-          "Artaxerxes I (465\u2013424 BC) - walls rebuilt 445 BC"
-        ],
         "judah": [
-          "Restored but struggling, awaiting ultimate fulfillment"
+          "(Restored but struggling spiritually, awaiting ultimate fulfillment)"
+        ],
+        "israel": [
+          "(Some returned with Judah)"
+        ],
+        "assyria": [
+          "(Fallen)"
+        ],
+        "babylon": [
+          "(Conquered)"
+        ],
+        "egypt": [
+          "(Under Persian control)"
         ],
         "majorPlayers": [
-          "Persian kings (enabling physical restoration)",
-          "The Anointed Conqueror (Christ)",
-          "The remnant (recipients of hope)",
-          "All nations (invited to worship)"
+          "Cyrus II of Persia (559\u2013530 BC) - Enabled physical return from exile.",
+          "Darius I of Persia (522\u2013486 BC) - Temple rebuilt under his reign (520\u2013516 BC).",
+          "Artaxerxes I of Persia (465\u2013424 BC) - Walls rebuilt under his authorization (445 BC).",
+          "The Anointed Conqueror - Messiah who proclaims liberty and brings new creation.",
+          "Zerubbabel - Governor who led first return and laid temple foundation (538 BC).",
+          "Joshua (Jeshua) - High priest who worked with Zerubbabel in restoration."
         ]
       }
     }
