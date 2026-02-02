@@ -726,6 +726,7 @@ function closeImageModal() {
 }
 
 // Setup image modal event listeners
+// Isaiah Study Application - Updated 2026-02-02 with geopolitical context
 document.addEventListener('DOMContentLoaded', function() {
     const imageModal = document.getElementById('imageModal');
     const imageClose = document.querySelector('.image-close');
