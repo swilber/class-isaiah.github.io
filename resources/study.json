@@ -549,7 +549,8 @@
         ],
         "israel": [
           "Hoshea (732\u2013722 BC) - Last king of Israel before fall to Assyria in 722 BC.",
-          "(Conquered 722 BC, exiled by Assyria)"
+          "(Conquered 722 BC, exiled by Assyria)",
+          "Assyrian governors - Appointed by Assyria to rule former Israelite territory."
         ],
         "assyria": [
           "Tiglath-Pileser III (745\u2013727 BC) - Continued expansion.",
@@ -694,7 +695,8 @@
           "Hezekiah (715\u2013686 BC) - Facing increasing Assyrian pressure after Israel's fall."
         ],
         "israel": [
-          "(Conquered and exiled 722 BC)"
+          "(Conquered and exiled 722 BC)",
+          "Assyrian governors - Ruled former Israelite territory, resettled with foreign peoples."
         ],
         "assyria": [
           "Sargon II (722\u2013705 BC) - Consolidated control over former Israel.",
@@ -817,7 +819,8 @@
           "Hezekiah (715\u2013686 BC) - Faced choice between trusting God or making alliance with Egypt."
         ],
         "israel": [
-          "(Conquered and exiled)"
+          "(Conquered and exiled)",
+          "Assyrian governors - Administered the province of Samaria."
         ],
         "assyria": [
           "Sennacherib (705\u2013681 BC) - Invaded Judah and besieged Jerusalem in 701 BC."
@@ -957,7 +960,8 @@
           "Hezekiah (715\u2013686 BC) - Delivered from Assyria but later showed pride to Babylonian envoys."
         ],
         "israel": [
-          "(Conquered and exiled)"
+          "(Conquered and exiled)",
+          "Assyrian governors - Continued administration of Samaria province."
         ],
         "assyria": [
           "Sennacherib (705\u2013681 BC) - Army destroyed by angel, later assassinated by his sons in 681 BC."
@@ -1090,10 +1094,12 @@
       "geopolitical": {
         "period": "586\u2013539 BC (Babylonian Exile)",
         "judah": [
-          "(In exile in Babylon after Jerusalem destroyed 586 BC)"
+          "(In exile in Babylon after Jerusalem destroyed 586 BC)",
+          "Gedaliah (appointed 586 BC, assassinated) - Jewish governor appointed by Babylon, murdered by zealots."
         ],
         "israel": [
-          "(Conquered and exiled since 722 BC)"
+          "(Conquered and exiled since 722 BC)",
+          "Babylonian governors - Administered former Israelite territory."
         ],
         "assyria": [
           "(Fallen to Babylon 609 BC)"
@@ -1210,10 +1216,12 @@
       "geopolitical": {
         "period": "539 BC (Fall of Babylon)",
         "judah": [
-          "(In exile, awaiting deliverance by Cyrus)"
+          "(In exile, awaiting deliverance by Cyrus)",
+          "Babylonian-appointed governors - Ruled Judah as Babylonian province."
         ],
         "israel": [
-          "(Conquered and exiled)"
+          "(Conquered and exiled)",
+          "Babylonian governors - Continued administration of Samaria."
         ],
         "assyria": [
           "(Fallen)"
@@ -1330,10 +1338,13 @@
       "geopolitical": {
         "period": "539\u2013400 BC (Post-Exilic Period)",
         "judah": [
-          "(Returning remnant under Persian rule, rebuilding temple and city)"
+          "(Returning remnant under Persian rule, rebuilding temple and city)",
+          "Sheshbazzar (538 BC) - First Persian-appointed governor, led initial return.",
+          "Zerubbabel (c. 520\u2013515 BC) - Governor who led temple rebuilding, Davidic descendant."
         ],
         "israel": [
-          "(Conquered and exiled, some returned with Judah)"
+          "(Conquered and exiled, some returned with Judah)",
+          "Persian governors of Samaria - Opposed Jewish rebuilding efforts."
         ],
         "assyria": [
           "(Fallen)"
@@ -1443,10 +1454,13 @@
       "geopolitical": {
         "period": "539\u2013400 BC (Post-Exilic Restoration)",
         "judah": [
-          "(Restored in Jerusalem, rebuilding temple 520\u2013516 BC and walls 445 BC)"
+          "(Restored in Jerusalem, rebuilding temple 520\u2013516 BC and walls 445 BC)",
+          "Zerubbabel (c. 520\u2013515 BC) - Governor during temple rebuilding.",
+          "Nehemiah (445\u2013433 BC) - Governor who rebuilt walls and instituted reforms."
         ],
         "israel": [
-          "(Some returned with Judah)"
+          "(Some returned with Judah)",
+          "Sanballat - Governor of Samaria who opposed Nehemiah's wall rebuilding."
         ],
         "assyria": [
           "(Fallen)"
@@ -1567,10 +1581,13 @@
       "geopolitical": {
         "period": "539\u2013400 BC + Eschatological Future",
         "judah": [
-          "(Restored but struggling spiritually, awaiting ultimate fulfillment)"
+          "(Restored but struggling spiritually, awaiting ultimate fulfillment)",
+          "Nehemiah (445\u2013433 BC) - Governor who rebuilt walls and led spiritual reforms.",
+          "Persian-appointed governors - Continued to rule Yehud province after Nehemiah."
         ],
         "israel": [
-          "(Some returned with Judah)"
+          "(Some returned with Judah)",
+          "Samaritan governors - Continued separate administration, religious rivalry with Jews."
         ],
         "assyria": [
           "(Fallen)"
