@@ -243,7 +243,30 @@
         "Original Context of Rebellion: Chapters 1-5 depict Judah\u2019s covenant rebellion against God, framed as a courtroom indictment (1:2-20) amid the Assyrian threat in the 8th century BC, highlighting social injustice and idolatry in a declining kingdom.",
         "Isaiah's Commissioning Vision: In chapter 6, Isaiah's throne-room vision of God\u2019s holiness, including the seraphim and divine council (as per Heiser), occurs in the year of King Uzziah\u2019s death (740 BC), commissioning him to prophesy despite hardened hearts.",
         "Messianic Hints in Judgment: Passages like 4:2-6 introduce the 'Branch of the Lord' as a promise of future purification and glory amid judgment, pointing to a Messianic figure who brings redemption."
-      ]
+      ],
+      "geopolitical": {
+        "period": "740\u2013701 BC (Isaiah's Early Ministry)",
+        "judah": [
+          "Uzziah (792\u2013740 BC) - prosperous but prideful",
+          "Jotham (750\u2013732 BC, co-regent)",
+          "Ahaz (735\u2013715 BC) - wicked, made Assyrian alliance"
+        ],
+        "israel": [
+          "Pekah (737\u2013732 BC) - allied with Syria against Judah"
+        ],
+        "assyria": [
+          "Tiglath-Pileser III (745\u2013727 BC) - expanding empire"
+        ],
+        "syria": [
+          "Rezin (c. 740\u2013732 BC) - allied with Israel"
+        ],
+        "majorPlayers": [
+          "Isaiah (prophet, called 740 BC)",
+          "Uzziah (dies in ch. 6)",
+          "Seraphim (divine council)",
+          "The remnant (Shear-Jashub)"
+        ]
+      }
     },
     {
       "number": 3,
@@ -387,7 +410,29 @@
         "Historical Crisis Under Ahaz: Chapters 7-8 describe King Ahaz's fear during the Syro-Ephraimite war (734-732 BC), where Syria and Israel threatened Judah, leading to Isaiah's confrontation and the sign of Immanuel amid calls for trust in God rather than Assyrian alliances.",
         "The Immanuel Prophecy: Isaiah 7:14 promises a child named Immanuel ('God with us'), with dual fulfillment\u2014a near-term sign (perhaps Maher-Shalal-Hash-Baz in 8:3) and ultimate Messianic realization in the virgin birth of Jesus (Matthew 1:23), as supported by Heiser's analysis of 'almah.'",
         "The Ideal Messianic King: Chapters 9:6-7 and 11:1-9 portray a child-king from David's line, bearing titles like 'Wonderful Counselor' and bringing justice and peace, fulfilled in Jesus' eternal reign."
-      ]
+      ],
+      "geopolitical": {
+        "period": "735\u2013732 BC (Syro-Ephraimite War)",
+        "judah": [
+          "Ahaz (735\u2013715 BC) - refused to trust God, allied with Assyria"
+        ],
+        "israel": [
+          "Pekah (737\u2013732 BC) - attacked Judah with Syria"
+        ],
+        "assyria": [
+          "Tiglath-Pileser III (745\u2013727 BC) - Ahaz's ally, conquered Damascus"
+        ],
+        "syria": [
+          "Rezin (c. 740\u2013732 BC) - killed by Assyria 732 BC"
+        ],
+        "majorPlayers": [
+          "Ahaz (faithless king)",
+          "Isaiah (urging faith)",
+          "Immanuel (sign child)",
+          "Maher-Shalal-Hash-Baz (Isaiah's son, sign)",
+          "Virgin/young woman (almah)"
+        ]
+      }
     },
     {
       "number": 4,
@@ -491,7 +536,30 @@
         "Oracles Against Babylon and Others: Chapters 13-14 prophesy Babylon's fall (though future in Isaiah's time), extending to nations like Philistia and Moab, set in the 8th-century Assyrian dominance, demonstrating God's judgment on arrogant empires.",
         "Supernatural Elements in Judgment: Isaiah 14:12-15's 'morning star' (Lucifer) may allude to Satan's fall, blending human kings with spiritual forces, within the context of God's ultimate authority over all realms.",
         "Messianic Hope for Nations: Chapter 19:23-25 envisions Egypt and Assyria worshiping with Israel, a radical inclusion of enemies in God's kingdom, fulfilled in the gospel's spread (Acts 2)."
-      ]
+      ],
+      "geopolitical": {
+        "period": "732\u2013701 BC (Assyrian Dominance)",
+        "judah": [
+          "Ahaz (735\u2013715 BC)",
+          "Hezekiah (715\u2013686 BC) - righteous reformer"
+        ],
+        "israel": [
+          "Hoshea (732\u2013722 BC) - last king, Israel falls 722 BC"
+        ],
+        "assyria": [
+          "Tiglath-Pileser III (745\u2013727 BC)",
+          "Shalmaneser V (727\u2013722 BC) - besieged Samaria",
+          "Sargon II (722\u2013705 BC) - conquered Samaria"
+        ],
+        "babylon": [
+          "Rising power under Assyrian control"
+        ],
+        "majorPlayers": [
+          "Nations under judgment (Babylon, Philistia, Moab, Damascus, Egypt)",
+          "Lucifer/morning star (possibly Satan, 14:12)",
+          "Future remnant of all nations"
+        ]
+      }
     },
     {
       "number": 5,
@@ -612,7 +680,32 @@
         "Shift to Cosmic Judgment: Chapters 21-23 continue oracles against nations like Babylon and Tyre, transitioning to the 'little apocalypse' in 24-27, depicting global ruin amid Judah\u2019s 8th-century threats.",
         "Messianic Banquet and Victory: Isaiah 25:6-8 promises a feast on Mount Zion where death is swallowed up, fulfilled in Christ's resurrection (1 Corinthians 15:54), within the context of post-judgment hope.",
         "Resurrection and Praise: Chapter 26:19 hints at bodily resurrection, leading to songs of praise in 27, tying historical deliverance to eschatological renewal."
-      ]
+      ],
+      "geopolitical": {
+        "period": "722\u2013701 BC (After Israel's Fall)",
+        "judah": [
+          "Hezekiah (715\u2013686 BC) - facing Assyrian threats"
+        ],
+        "israel": [
+          "Fallen to Assyria (722 BC), exiled"
+        ],
+        "assyria": [
+          "Sargon II (722\u2013705 BC)",
+          "Sennacherib (705\u2013681 BC) - will besiege Jerusalem"
+        ],
+        "babylon": [
+          "Merodach-Baladan II (721\u2013710, 703 BC) - rebel king"
+        ],
+        "egypt": [
+          "Shabaka (716\u2013702 BC) - 25th Dynasty"
+        ],
+        "majorPlayers": [
+          "Babylon (judged but future oppressor)",
+          "Tyre (commercial power judged)",
+          "Egypt/Assyria (future worshipers with Israel)",
+          "The earth (cosmic judgment in chs. 24-27)"
+        ]
+      }
     },
     {
       "number": 6,
@@ -711,7 +804,29 @@
         "Woes on Corrupt Leadership: Chapter 28 condemns Judah\u2019s priests and prophets for drunkenness and false security amid Assyrian invasion threats.",
         "Folly of Alliances: Chapters 30-31 warn against relying on Egypt for protection, emphasizing trust in God alone amid 8th-century geopolitical tensions.",
         "Messianic Ideal King: Chapter 32:1-8 envisions a righteous king bringing justice, fulfilled in Jesus' reign, contrasting Judah's failing rulers."
-      ]
+      ],
+      "geopolitical": {
+        "period": "705\u2013701 BC (Hezekiah's Crisis)",
+        "judah": [
+          "Hezekiah (715\u2013686 BC) - trusting God vs. alliances"
+        ],
+        "assyria": [
+          "Sennacherib (705\u2013681 BC) - besieging Jerusalem 701 BC"
+        ],
+        "egypt": [
+          "Shabaka (716\u2013702 BC) - unreliable ally"
+        ],
+        "babylon": [
+          "Merodach-Baladan II (703 BC) - sent envoys to Hezekiah"
+        ],
+        "majorPlayers": [
+          "Hezekiah (faithful king)",
+          "Isaiah (prophet urging trust)",
+          "Sennacherib (Assyrian threat)",
+          "Rabshakeh (Assyrian spokesman)",
+          "Egypt (false hope)"
+        ]
+      }
     },
     {
       "number": 7,
@@ -827,7 +942,30 @@
         "Cosmic Judgment on Edom: Chapter 34 portrays universal destruction, symbolized by Edom, as a prelude to Judah's deliverance, rooted in ongoing rivalries from Esau's time but intensified in 8th-century politics.",
         "Hezekiah's Crisis and Deliverance: Chapters 36-37 recount Sennacherib's 701 BC invasion and siege of Jerusalem, with Hezekiah's prayer leading to miraculous salvation, as paralleled in 2 Kings 18-19.",
         "Foreshadowing Exile: Chapter 39's Babylonian envoys reveal Hezekiah's pride, predicting exile (586 BC), transitioning to the book's second half."
-      ]
+      ],
+      "geopolitical": {
+        "period": "701\u2013681 BC (Deliverance and Foreshadowing)",
+        "judah": [
+          "Hezekiah (715\u2013686 BC) - delivered but prideful with Babylon"
+        ],
+        "assyria": [
+          "Sennacherib (705\u2013681 BC) - army destroyed by angel, assassinated 681 BC"
+        ],
+        "babylon": [
+          "Merodach-Baladan II (envoys to Hezekiah)",
+          "Future conqueror of Judah (586 BC foreshadowed)"
+        ],
+        "edom": [
+          "Ancient enemy, symbol of God's enemies (ch. 34)"
+        ],
+        "majorPlayers": [
+          "Hezekiah (prayer warrior, then prideful)",
+          "Sennacherib (defeated by God)",
+          "Angel of the Lord (killed 185,000)",
+          "Babylonian envoys (foreshadowing exile)",
+          "Isaiah (warning of future exile)"
+        ]
+      }
     },
     {
       "number": 8,
