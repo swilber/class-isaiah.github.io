@@ -521,6 +521,13 @@ function generateWeekHTML(week) {
                 </div>
                 
                 <div style="margin-top: 15px;">
+                    <strong>Persia:</strong>
+                    <ul style="list-style: none; padding-left: 0; margin-top: 5px;">
+                        ${week.geopolitical.persia.map(item => `<li style="padding: 5px 0; padding-left: 20px; position: relative; color: #4169e1;"><span style="position: absolute; left: 0; font-weight: bold; color: #4169e1;">•</span> ${item}</li>`).join('')}
+                    </ul>
+                </div>
+                
+                <div style="margin-top: 15px;">
                     <strong>Egypt:</strong>
                     <ul style="list-style: none; padding-left: 0; margin-top: 5px;">
                         ${week.geopolitical.egypt.map(item => `<li style="padding: 5px 0; padding-left: 20px; position: relative; color: #daa520;"><span style="position: absolute; left: 0; font-weight: bold; color: #daa520;">•</span> ${item}</li>`).join('')}

@@ -266,6 +266,9 @@
         "majorPlayers": [
           "Isaiah - Prophet called in 740 BC to preach judgment and hope to Judah.",
           "Shear-Jashub - Isaiah's son whose name means 'a remnant shall return.'"
+        ],
+        "persia": [
+          "(Not yet a major power, under Median control)"
         ]
       }
     },
@@ -435,6 +438,9 @@
           "Rezin - King of Syria (c. 740\u2013732 BC) who allied with Israel against Judah, killed by Assyria.",
           "Immanuel - Sign child whose name means 'God with us,' pointing to future Messiah.",
           "Maher-Shalal-Hash-Baz - Isaiah's son whose name means 'quick to plunder, swift to spoil.'"
+        ],
+        "persia": [
+          "(Not yet a major power, under Median control)"
         ]
       }
     },
@@ -566,6 +572,9 @@
         "majorPlayers": [
           "Hezekiah - Godly king who reformed Judah and trusted in the Lord.",
           "Isaiah - Prophet delivering oracles against nations and calling for faith."
+        ],
+        "persia": [
+          "(Not yet a major power, under Median control)"
         ]
       }
     },
@@ -712,6 +721,9 @@
           "Hezekiah - King navigating threats from Assyria and temptation to trust Egypt.",
           "Isaiah - Prophet warning against foreign alliances and announcing cosmic judgment.",
           "Merodach-Baladan II - Babylonian king who would later send envoys to Hezekiah."
+        ],
+        "persia": [
+          "(Not yet a major power, under Median control)"
         ]
       }
     },
@@ -836,6 +848,9 @@
           "Isaiah - Prophet urging trust in God alone, not Egypt or military strength.",
           "Sennacherib - Assyrian emperor who threatened Jerusalem with overwhelming force.",
           "Rabshakeh - Assyrian field commander who blasphemed God and mocked Hezekiah's faith."
+        ],
+        "persia": [
+          "(Not yet a major power, under Median control)"
         ]
       }
     },
@@ -978,6 +993,9 @@
           "Sennacherib - Assyrian king whose army was destroyed by the angel of the Lord.",
           "Angel of the Lord - Killed 185,000 Assyrian soldiers in one night.",
           "Babylonian envoys - Representatives of Merodach-Baladan who visited Hezekiah's palace."
+        ],
+        "persia": [
+          "(Rising power under Median control, Cyrus I ruling c. 600 BC)"
         ]
       }
     },
@@ -1116,6 +1134,9 @@
           "Cyrus II of Persia (559\u2013530 BC) - God's anointed shepherd who would free the Jews.",
           "The Servant - Both corporate Israel and individual Messiah bringing justice to nations.",
           "Nebuchadnezzar II - Babylonian king who destroyed Jerusalem and temple."
+        ],
+        "persia": [
+          "Cyrus II (559\u2013530 BC) - Conquered Media (550 BC), Lydia (547 BC), and Babylon (539 BC)."
         ]
       }
     },
@@ -1237,6 +1258,9 @@
           "Cyrus II of Persia (559\u2013530 BC) - Conquered Babylon and issued decree allowing Jews to return.",
           "Nabonidus - Eccentric king who abandoned Babylon for Arabian oasis.",
           "Belshazzar - Co-regent who saw the writing on the wall (Daniel 5)."
+        ],
+        "persia": [
+          "Cyrus II (559\u2013530 BC) - Conquered Babylon 539 BC, issued decree allowing Jews to return."
         ]
       }
     },
@@ -1361,6 +1385,12 @@
           "Darius I of Persia (522\u2013486 BC) - Confirmed decree to rebuild temple, completed 516 BC.",
           "Artaxerxes I of Persia (465\u2013424 BC) - Sent Ezra (458 BC) and Nehemiah (445 BC) to restore Jerusalem.",
           "The Servant - Suffering servant who brings salvation through substitutionary atonement."
+        ],
+        "persia": [
+          "Cyrus II (559\u2013530 BC) - Freed the Jews and funded temple rebuilding.",
+          "Cambyses II (530\u2013522 BC) - Son of Cyrus who conquered Egypt in 525 BC.",
+          "Darius I (522\u2013486 BC) - Confirmed decree to rebuild temple, completed 516 BC.",
+          "Artaxerxes I (465\u2013424 BC) - Sent Ezra (458 BC) and Nehemiah (445 BC) to restore Jerusalem."
         ]
       }
     },
@@ -1477,6 +1507,11 @@
           "Artaxerxes I of Persia (465\u2013424 BC) - Authorized Ezra and Nehemiah's missions.",
           "Ezra - Priest and scribe who led spiritual reform and taught the Law (458 BC).",
           "Nehemiah - Cupbearer to king who rebuilt Jerusalem's walls in 52 days (445 BC)."
+        ],
+        "persia": [
+          "Cyrus II (559\u2013530 BC) - Allowed Jews to return home.",
+          "Darius I (522\u2013486 BC) - Supported temple rebuilding against opposition.",
+          "Artaxerxes I (465\u2013424 BC) - Authorized Ezra and Nehemiah's missions to Jerusalem."
         ]
       }
     },
@@ -1605,6 +1640,11 @@
           "The Anointed Conqueror - Messiah who proclaims liberty and brings new creation.",
           "Zerubbabel - Governor who led first return and laid temple foundation (538 BC).",
           "Joshua (Jeshua) - High priest who worked with Zerubbabel in restoration."
+        ],
+        "persia": [
+          "Cyrus II (559\u2013530 BC) - Enabled physical return from exile.",
+          "Darius I (522\u2013486 BC) - Temple rebuilt under his reign (520\u2013516 BC).",
+          "Artaxerxes I (465\u2013424 BC) - Walls rebuilt under his authorization (445 BC)."
         ]
       }
     }
