@@ -485,6 +485,48 @@ function generateWeekHTML(week) {
         </div>
     `;
     
+    // Add geopolitical context section
+    if (week.geopolitical) {
+        html += `
+            <div class="geopolitical">
+                <h2>Historical Context</h2>
+                <div class="geo-period"><strong>${week.geopolitical.period}</strong></div>
+                ${week.geopolitical.babylon && week.geopolitical.babylon.length > 0 ? `
+                <div style="margin-top: 15px;">
+                    <strong>Babylon:</strong>
+                    <ul style="list-style: none; padding-left: 0; margin-top: 5px;">
+                        ${week.geopolitical.babylon.map(item => `<li style="padding: 5px 0; padding-left: 20px; position: relative; color: #8b4513;"><span style="position: absolute; left: 0; font-weight: bold; color: #8b4513;">•</span> ${item}</li>`).join('')}
+                    </ul>
+                </div>
+                ` : ''}
+                ${week.geopolitical.persia && week.geopolitical.persia.length > 0 ? `
+                <div style="margin-top: 15px;">
+                    <strong>Persia:</strong>
+                    <ul style="list-style: none; padding-left: 0; margin-top: 5px;">
+                        ${week.geopolitical.persia.map(item => `<li style="padding: 5px 0; padding-left: 20px; position: relative; color: #4169e1;"><span style="position: absolute; left: 0; font-weight: bold; color: #4169e1;">•</span> ${item}</li>`).join('')}
+                    </ul>
+                </div>
+                ` : ''}
+                ${week.geopolitical.judah && week.geopolitical.judah.length > 0 ? `
+                <div style="margin-top: 15px;">
+                    <strong>Judah:</strong>
+                    <ul style="list-style: none; padding-left: 0; margin-top: 5px;">
+                        ${week.geopolitical.judah.map(item => `<li style="padding: 5px 0; padding-left: 20px; position: relative; color: #228b22;"><span style="position: absolute; left: 0; font-weight: bold; color: #228b22;">•</span> ${item}</li>`).join('')}
+                    </ul>
+                </div>
+                ` : ''}
+                ${week.geopolitical.majorPlayers && week.geopolitical.majorPlayers.length > 0 ? `
+                <div style="margin-top: 15px;">
+                    <strong>Major Players:</strong>
+                    <ul style="list-style: none; padding-left: 0; margin-top: 5px;">
+                        ${week.geopolitical.majorPlayers.map(item => `<li style="padding: 5px 0; padding-left: 20px; position: relative; color: #666;"><span style="position: absolute; left: 0; font-weight: bold; color: #666;">•</span> ${item}</li>`).join('')}
+                    </ul>
+                </div>
+                ` : ''}
+            </div>
+        `;
+    }
+    
     // Add images section
     if (week.images && week.images.length > 0) {
         html += `
