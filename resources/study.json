@@ -832,7 +832,7 @@
     {
       "number": 8,
       "title": "Isaiah 40\u201345 (Comfort and God\u2019s Sovereignty)",
-      "summary": "Isaiah 40\u201345 shifts to comfort for exiled Judah (586\u2013539 BC), addressing Jews in Babylon under Nebuchadnezzar II (605\u2013562 BC) and his successors, culminating with Nabonidus (556\u2013539 BC) and Belshazzar. God promises deliverance through Cyrus II of Persia (559\u2013530 BC), who conquered Babylon in 539 BC. Chapter 40 contrasts God's power with Babylonian idols (Marduk, Bel), while chapters 41\u201345 name Cyrus as God's anointed shepherd. The Servant (42:1\u20139) brings justice to nations, fulfilled in Christ (Matthew 12:18\u201321). Major players: Cyrus (God's instrument), the Servant (Israel/Christ), and Babylon's gods (exposed as powerless).  \nThis section emphasizes grace after judgment, God's uniqueness, and servant leadership. It challenges men to reject modern idols (e.g., success, control) and trust Christ's sovereignty, modeling humility and service in crises.",
+      "summary": "Isaiah 40\u201345 shifts to comfort for exiled Judah, promising a new exodus through divine deliverance. Chapter 40 contrasts God's power with idols' futility, while chapters 41\u201345 highlight God's sovereignty, naming Cyrus as His anointed. The Servant (42:1\u20139) brings justice to nations, fulfilled in Christ (Matthew 12:18\u201321), blending Israel's role with individual messianism.  \nThis section emphasizes grace after judgment, God's uniqueness, and servant leadership. It challenges men to reject modern idols (e.g., success, control) and trust Christ's sovereignty, modeling humility and service in crises.",
       "images": [
         {
           "title": "Babylonian Exile Map",
@@ -938,12 +938,31 @@
         "Comfort for Exiled Judah: Chapter 40 opens with a message of comfort, promising restoration through God\u2019s power and compassion, fulfilled in Christ\u2019s redemptive work (John 1:23).",
         "God\u2019s Sovereignty Over History: Chapters 41-44 highlight God\u2019s control, using Cyrus to deliver Israel, contrasting the futility of idols with God\u2019s unique power (44:6-20).",
         "Servant\u2019s Role Introduced: The Servant figure in 42:1-9 emerges as one who brings justice and light to the nations, fulfilled in Jesus (Matthew 12:18-21)."
-      ]
+      ],
+      "geopolitical": {
+        "period": "586\u2013539 BC (Babylonian Exile)",
+        "babylon": [
+          "Nebuchadnezzar II (605\u2013562 BC)",
+          "Nabonidus (556\u2013539 BC)",
+          "Belshazzar (co-regent, killed 539 BC)"
+        ],
+        "persia": [
+          "Cyrus II (559\u2013530 BC) - conquered Babylon 539 BC"
+        ],
+        "judah": [
+          "Exiled in Babylon"
+        ],
+        "majorPlayers": [
+          "Cyrus (God's instrument)",
+          "The Servant (Israel/Christ)",
+          "Babylonian gods Marduk/Bel (exposed as powerless)"
+        ]
+      }
     },
     {
       "number": 9,
       "title": "Isaiah 46\u201348 (Fall of Babylon and God\u2019s Redemption)",
-      "summary": "Isaiah 46\u201348 focuses on Babylon's fall (539 BC) under the last Neo-Babylonian kings: Nabonidus (556\u2013539 BC, absent in Arabia) and his co-regent son Belshazzar (killed in 539 BC, Daniel 5). Cyrus II of Persia (559\u2013530 BC) conquers Babylon, fulfilling Isaiah's prophecy. Chapter 46 mocks Babylonian gods Bel (Marduk) and Nebo (Nabu), chapter 47 predicts Babylon's humiliation, and chapter 48 calls Judah to trust God's deliverance through Cyrus. Major players: Nabonidus/Belshazzar (Babylon's last rulers), Cyrus (God's instrument), Bel/Nebo (impotent idols), and the exiled Jews (called to faith).  \nThis section emphasizes God's unrivaled power and faithfulness, urging men to reject false securities (e.g., wealth, status) and trust in God's redemptive plan, applying lessons of humility and reliance on Christ in modern trials.",
+      "summary": "Isaiah 46\u201348 focuses on Babylon's fall and Judah's redemption, contrasting the futility of Babylonian idols with God's sovereignty. Chapter 46 mocks Bel and Nebo, chapter 47 predicts Babylon's humiliation, and chapter 48 calls Judah to heed God's deliverance through Cyrus, fulfilled historically and pointing to Christ's ultimate redemption (Acts 13:47).  \nThis section emphasizes God's unrivaled power and faithfulness, urging men to reject false securities (e.g., wealth, status) and trust in God's redemptive plan, applying lessons of humility and reliance on Christ in modern trials.",
       "images": [
         {
           "title": "Persian Empire Map 500 BC",
@@ -1033,12 +1052,31 @@
         "Cyrus as God\u2019s Instrument: Chapter 45 presents Cyrus as God\u2019s anointed to free Israel from Babylon, showcasing divine sovereignty over pagan rulers (45:1-7).",
         "Judgment on Babylon: Chapters 46-47 contrast Babylon\u2019s fall with Israel\u2019s redemption, emphasizing God\u2019s unmatched power against idols.",
         "Call to Trust God: Chapter 48 urges Israel to trust God\u2019s promises despite their stubbornness, pointing to ultimate salvation in Christ."
-      ]
+      ],
+      "geopolitical": {
+        "period": "539 BC (Fall of Babylon)",
+        "babylon": [
+          "Nabonidus (556\u2013539 BC) - absent in Arabia",
+          "Belshazzar (co-regent, killed 539 BC, Daniel 5)"
+        ],
+        "persia": [
+          "Cyrus II (559\u2013530 BC) - conquers Babylon"
+        ],
+        "judah": [
+          "Exiled in Babylon, awaiting deliverance"
+        ],
+        "majorPlayers": [
+          "Nabonidus/Belshazzar (Babylon's last rulers)",
+          "Cyrus (God's instrument)",
+          "Bel/Nebo (impotent idols)",
+          "Exiled Jews (called to faith)"
+        ]
+      }
     },
     {
       "number": 10,
       "title": "Isaiah 49\u201355 (The Servant\u2019s Mission and Redemption)",
-      "summary": "Isaiah 49\u201355 centers on the Servant's mission during the post-exilic period (539\u2013400 BC) under Persian rule: Cyrus II (539\u2013530 BC) freed the Jews, followed by Cambyses II (530\u2013522 BC), Darius I (522\u2013486 BC), and later Artaxerxes I (465\u2013424 BC, Ezra/Nehemiah era). The Servant restores Israel and brings salvation to nations, culminating in the Suffering Servant (ch. 53), fulfilled in Jesus' atonement (Acts 8:32\u201335). Chapters 49\u201352 depict the Servant as light to Gentiles, chapter 53 details His suffering and victory, and chapters 54\u201355 promise a new covenant. Major players: the Servant (Israel/Christ), Persian kings (enabling return), and the exiled remnant (recipients of hope).  \nThis section emphasizes sacrificial love and universal salvation, challenging men to emulate the Servant's humility and trust in God's redemptive plan, applying Christ's example to leadership and perseverance in trials.",
+      "summary": "Isaiah 49\u201355 centers on the Servant's mission to restore Israel and bring salvation to the nations, culminating in the Suffering Servant (ch. 53), fulfilled in Jesus' atonement (Acts 8:32\u201335). Chapters 49\u201352 depict the Servant as light to the Gentiles, while chapter 53 details His suffering and victory, and chapters 54\u201355 promise a new covenant and eternal redemption.  \nThis section emphasizes sacrificial love and universal salvation, challenging men to emulate the Servant's humility and trust in God's redemptive plan, applying Christ's example to leadership and perseverance in trials.",
       "images": [
         {
           "title": "Post-Exilic Judah Map",
@@ -1129,12 +1167,32 @@
         "Servant\u2019s Universal Mission: Chapters 49-50 depict the Servant restoring Israel and bringing salvation to all nations, fulfilled in Jesus (Acts 13:47).",
         "Suffering Servant\u2019s Atonement: Chapter 53 describes the Servant\u2019s sacrificial death and resurrection, fulfilled in Christ\u2019s work (1 Peter 2:24-25).",
         "Everlasting Covenant: Chapters 54-55 promise an everlasting covenant and abundant mercy, fulfilled in the new covenant through Christ (Hebrews 8:6)."
-      ]
+      ],
+      "geopolitical": {
+        "period": "539\u2013400 BC (Post-Exilic Period)",
+        "babylon": [
+          "Fallen (539 BC)"
+        ],
+        "persia": [
+          "Cyrus II (539\u2013530 BC) - freed the Jews",
+          "Cambyses II (530\u2013522 BC)",
+          "Darius I (522\u2013486 BC)",
+          "Artaxerxes I (465\u2013424 BC) - Ezra/Nehemiah era"
+        ],
+        "judah": [
+          "Returning remnant under Persian rule"
+        ],
+        "majorPlayers": [
+          "The Servant (Israel/Christ)",
+          "Persian kings (enabling return)",
+          "Exiled remnant (recipients of hope)"
+        ]
+      }
     },
     {
       "number": 11,
       "title": "Isaiah 56\u201359 (Ethics and Restoration)",
-      "summary": "Isaiah 56\u201359 calls post-exilic Judah (539\u2013400 BC) to ethical living under Persian rule: Cyrus II (539\u2013530 BC) allowed return, Darius I (522\u2013486 BC) supported temple rebuilding (Ezra 6), and Artaxerxes I (465\u2013424 BC) sent Ezra (458 BC) and Nehemiah (445 BC) to restore Jerusalem. These chapters emphasize justice, Sabbath-keeping, and inclusion of foreigners (56:1\u20138), while condemning hypocrisy and injustice (ch. 58\u201359). Major players: Persian kings (Cyrus, Darius, Artaxerxes\u2014enabling restoration), Ezra/Nehemiah (reformers), the returned remnant (struggling with ethics), and foreigners/eunuchs (welcomed into covenant). The vision is fulfilled in Christ's inclusive kingdom (Ephesians 2:14\u201316).  \nThis section challenges men to pursue righteousness and integrity, rejecting hypocrisy and embracing God's vision for a just community, applying principles of fairness and faith to modern leadership and relationships.",
+      "summary": "Isaiah 56\u201359 calls post-exilic Judah to ethical living, emphasizing justice, Sabbath-keeping, and inclusion of foreigners (56:1\u20138), while condemning hypocrisy and injustice (ch. 58\u201359). These chapters envision a restored community under God's covenant, fulfilled in Christ's inclusive kingdom (Ephesians 2:14\u201316).  \nThis section challenges men to pursue righteousness and integrity, rejecting hypocrisy and embracing God's vision for a just community, applying principles of fairness and faith to modern leadership and relationships.",
       "images": [
         {
           "title": "Rebuilt Jerusalem Wall",
@@ -1217,12 +1275,32 @@
         "Inclusive Covenant Community: Chapters 56-57 welcome foreigners and outcasts into God\u2019s covenant, fulfilled in the church (Ephesians 2:19).",
         "Confronting Sin: Chapter 58 addresses false worship and social injustice, calling for true righteousness, fulfilled in Christ\u2019s teachings.",
         "Divine Redemption: Chapter 59 confronts sin but promises a divine warrior\u2019s redemption, fulfilled in Jesus (Romans 11:26-27)."
-      ]
+      ],
+      "geopolitical": {
+        "period": "539\u2013400 BC (Post-Exilic Restoration)",
+        "babylon": [
+          "Fallen"
+        ],
+        "persia": [
+          "Cyrus II (539\u2013530 BC) - allowed return",
+          "Darius I (522\u2013486 BC) - supported temple rebuilding (Ezra 6)",
+          "Artaxerxes I (465\u2013424 BC) - sent Ezra (458 BC) and Nehemiah (445 BC)"
+        ],
+        "judah": [
+          "Restored in Jerusalem, rebuilding temple and walls"
+        ],
+        "majorPlayers": [
+          "Persian kings (enabling restoration)",
+          "Ezra/Nehemiah (reformers)",
+          "Returned remnant (struggling with ethics)",
+          "Foreigners/eunuchs (welcomed into covenant)"
+        ]
+      }
     },
     {
       "number": 12,
       "title": "Isaiah 60\u201366 (New Heavens and New Earth)",
-      "summary": "Isaiah 60\u201366 envisions Zion's glorious restoration in the post-exilic period (539\u2013400 BC) and eschatological future. Under Persian kings\u2014Cyrus II (539\u2013530 BC), Darius I (522\u2013486 BC, temple rebuilt 520\u2013516 BC), and Artaxerxes I (465\u2013424 BC, walls rebuilt 445 BC)\u2014the remnant returns but faces struggles. God's glory illuminates nations (ch. 60), the Anointed One proclaims liberty (61:1\u20133, fulfilled in Jesus, Luke 4:18\u201321), and a new heavens and earth are promised (65\u201366). Major players: Persian kings (enabling physical restoration), the Anointed Conqueror (Christ), the remnant (recipients of hope), and all nations (invited to worship). These chapters contrast present struggles with eschatological hope, emphasizing God's faithfulness and eternal kingdom.  \nThis section inspires men to live with hope and purpose, trusting in Christ's ultimate renewal, and challenges them to lead with faith and integrity, anticipating God's new creation in their lives and communities.",
+      "summary": "Isaiah 60\u201366 envisions the glorious restoration of Zion, with God's glory illuminating the nations (ch. 60), the Anointed One proclaiming liberty (61:1\u20133, fulfilled in Jesus, Luke 4:18\u201321), and a new heavens and new earth (65\u201366). These chapters contrast present struggles with eschatological hope, emphasizing God's faithfulness and eternal kingdom.  \nThis section inspires men to live with hope and purpose, trusting in Christ's ultimate renewal, and challenges them to lead with faith and integrity, anticipating God's new creation in their lives and communities.",
       "images": [
         {
           "title": "Jerusalem during Persian Empire",
@@ -1316,7 +1394,27 @@
         "Zion\u2019s Restoration: Chapter 60-62 promise Jerusalem\u2019s glory and renewal, fulfilled in the heavenly Jerusalem (Revelation 21:2).",
         "Judgment and Mercy: Chapters 63-64 balance divine judgment with pleas for mercy, pointing to Christ\u2019s redemptive work.",
         "New Heavens and Earth: Chapters 65-66 envision a new creation where righteousness dwells, fulfilled in Christ\u2019s return (Revelation 21:1-4)."
-      ]
+      ],
+      "geopolitical": {
+        "period": "539\u2013400 BC + Eschatological Future",
+        "babylon": [
+          "Fallen"
+        ],
+        "persia": [
+          "Cyrus II (539\u2013530 BC)",
+          "Darius I (522\u2013486 BC) - temple rebuilt 520\u2013516 BC",
+          "Artaxerxes I (465\u2013424 BC) - walls rebuilt 445 BC"
+        ],
+        "judah": [
+          "Restored but struggling, awaiting ultimate fulfillment"
+        ],
+        "majorPlayers": [
+          "Persian kings (enabling physical restoration)",
+          "The Anointed Conqueror (Christ)",
+          "The remnant (recipients of hope)",
+          "All nations (invited to worship)"
+        ]
+      }
     }
   ]
 }

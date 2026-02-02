@@ -1,0 +1,1147 @@
+{
+  "title": "Isaiah Study Guide",
+  "description": "12-Week Verse-by-Verse Study for Men's Group",
+  "courseSummary": {
+    "studyApproach": "This 12-week study of Isaiah combines verse-by-verse exegesis with historical context and Messianic fulfillment. Each week includes preparation through Motyer's commentary, Oswalt's video lectures, and supplementary resources, followed by group discussion of key themes. The study emphasizes Isaiah's three-part structure (judgment/hope in chs. 1-39, comfort/Servant in chs. 40-55, and ethics/new creation in chs. 56-66), connecting 8th-century BC historical events to Christ's fulfillment. Participants engage with maps, images, and archaeological evidence while applying Isaiah's calls for faith, justice, and hope to modern leadership and discipleship challenges."
+  },
+  "studyMaterials": [
+    {
+      "title": "Blue Letter Bible",
+      "description": "Free online Bible study tools with concordances, commentaries, and original language resources",
+      "type": "Online Resource",
+      "link": "https://www.blueletterbible.org/",
+      "image": "https://www.blueletterbible.org/assets/images/home/blb_splash06.jpg",
+      "required": true
+    },
+    {
+      "title": "The Prophecy of Isaiah: An Introduction & Commentary",
+      "description": "By J. Alec Motyer - The primary commentary for this study providing verse-by-verse exegesis and theological depth",
+      "type": "Commentary",
+      "author": "J. Alec Motyer",
+      "link": "https://www.amazon.com/Prophecy-Isaiah-Introduction-Commentary/dp/0830814248",
+      "image": "https://books.google.com/books/publisher/content?id=p3R3CwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U2tUIP06pJVAGp3hVBXQhrG5Veu1g&w=1280",
+      "required": true
+    }
+  ],
+  "weeks": [
+    {
+      "number": 1,
+      "title": "Introduction to the Book of Isaiah",
+      "summary": "The introduction to Isaiah establishes the book’s framework, detailing its structure, historical context, authorship, textual reliability, and theological significance. Isaiah 1–39 focuses on judgment and hope amid Judah’s 8th-century BC struggles with Assyrian threats, 40–55 offers comfort and the Suffering Servant post-exile, and 56–66 envisions new creation and ethics, unified by God’s sovereignty and Messianic promises fulfilled in Jesus (John 12:41). Set during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah (740–680 BC), Isaiah addresses Judah’s spiritual decline and geopolitical pressures, paralleling modern crises and urging trust in God’s plan.  \nAuthorship is traditionally attributed to Isaiah son of Amoz, supported by thematic unity and the Great Isaiah Scroll (1QIsa^a, ~125 BC), which confirms textual reliability against multiple-author theories. Theologically, Isaiah’s themes of holiness (ch. 6), Servant songs (ch. 53), and new creation (ch. 65–66) point to Christ, calling men to holiness and courage in crises, with the Dead Sea Scrolls reinforcing confidence in Scripture’s Messianic promises.",
+      "images": [
+        {
+          "title": "Great Isaiah Scroll",
+          "description": "High-resolution photograph of the Great Isaiah Scroll (1QIsa^a) from Qumran, showing preserved Hebrew text of Isaiah.",
+          "use": "This oldest complete copy of Isaiah (c. 125 BC) demonstrates textual reliability, connecting ancient scribal practices to the Dead Sea Scrolls' preservation of the prophet’s words.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Great_Isaiah_Scroll.jpg"
+        },
+        {
+          "title": "Assyrian Empire Map 671 BC",
+          "description": "Map of the Assyrian Empire at its peak under Esarhaddon (671 BC), showing Judah, Babylon, and Egypt.",
+          "use": "It illustrates the Assyrian dominance during Isaiah’s ministry (740–680 BC), highlighting the geopolitical threats that shaped his prophecies.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Neo-Assyrian_map_824-671_BC.png"
+        },
+        {
+          "title": "Isaiah Timeline",
+          "description": "A timeline showing the events listed in the great Isaiah scroll.  These include the leaders of the various nations, the rise and fall of empires, the captivity, and the return from exile.",
+          "use": "It shows the events in Isaiah's work chronologically.",
+          "source": "visualunit",
+          "url": "https://visualunit.me/wp-content/uploads/2010/11/isaiah_timeline.png"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Motyer’s commentary, Introduction (pp. 13–44).",
+          "link": null
+        },
+        {
+          "text": "Watch Bible Project “Isaiah 1–39” video (9 min)",
+          "link": "https://bibleproject.com/videos/isaiah-1-39/"
+        },
+        {
+          "text": "Watch Bible Project “Isaiah 40–66” video (9 min)",
+          "link": "https://bibleproject.com/videos/isaiah-40-66/"
+        },
+        {
+          "text": "Watch John Oswalt’s Biblical Training Lesson 1: “Introduction to Isaiah” (49 min; , select Lesson 1).",
+          "link": "https://www.biblicaltraining.org/learn/institute/ot650-isaiah"
+        },
+        {
+          "text": "Listen to Michael Heiser’s Naked Bible Podcast Episode 217: “Authorship and Date of the Book of Isaiah” (1 hr; ).",
+          "link": "https://nakedbiblepodcast.com/podcast/naked-bible-217-authorship-and-date-of-the-book-of-isaiah/"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Authorship of Isaiah” by James A. Parker III",
+          "link": "https://www.evidenceunseen.com/bible-difficulties-2/ot-difficulties/isaiah-ezekiel/authorship-of-isaiah/"
+        },
+        {
+          "text": "“The Unity and Authorship of Isaiah” by Matthew McNutt",
+          "link": "https://matthewmcnutt.com/2014/05/28/the-authorship-and-unity-of-isaiah/"
+        },
+        {
+          "text": "“Isaiah the Prophet” from Lexham Bible Dictionary",
+          "link": "https://biblia.com/books/lbd/word/Isaiah_the_Prophet"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [
+        "Build a timeline of all the important dates relating to the book of Isaiah",
+        "How does the Bible Project “Isaiah 1–39” video describe Isaiah’s structure (1–39, 40–55, 56–66) to set up its message of judgment and hope? (Answers in Bible Project “Isaiah 1–39” video, 0:00–2:30.)",
+        "How does the Bible Project “Isaiah 1–39” video show Isaiah’s focus on God’s sovereignty challenging you to lead or trust God in uncertain times? (Answers in Bible Project “Isaiah 1–39” video, 2:30–4:00.)",
+        "What are the three sections of Isaiah? How do almost all scholars break up the book?",
+        "How does Motyer’s commentary (pp. 13–15) describe the three sections of Isaiah?  What is the theme of each (the messianic profiles) and how are they unified? (Answers in Motyer’s commentary, pp. 13–15.)",
+        "How does Oswalt’s Biblical Training Lesson 1 describe the three sections of Isaiah?  Describe how the themes of servanthood are attributed to each section (Answers in Oswalt’s Lesson 1, 5:00–10:00.)",
+        "How does the concept of \"servanthood\" unify the entire book of Isaiah, and what does it mean for God's people to be servants rather than merely chosen people? (Answers in Oswalt Lesson 1)",
+        "What is the relationship between God's transcendence (as \"The Holy One\") and His immanence (as \"of Israel\"), and how does this paradox shape the entire prophetic message? (Answers in Oswalt Lesson 1)",
+        "What does Heiser’s podcast Episode 217 reveal about authorship debates? Provide some of the argument for Single and Multiple authorship (Answers in Heiser’s podcast, 10:00–15:00.)",
+        "How do the Dead Sea Scrolls strengthen confidence in Isaiah’s text? (Answers in Motyer’s commentary, pp. 25–27, Heiser podcast, )"
+      ],
+      "applicationQuestions": [],
+      "questions": [
+        "Build a timeline of all the important dates relating to the book of Isaiah",
+        "How does the Bible Project “Isaiah 1–39” video describe Isaiah’s structure (1–39, 40–55, 56–66) to set up its message of judgment and hope? (Answers in Bible Project “Isaiah 1–39” video, 0:00–2:30.)",
+        "How does the Bible Project “Isaiah 1–39” video show Isaiah’s focus on God’s sovereignty challenging you to lead or trust God in uncertain times? (Answers in Bible Project “Isaiah 1–39” video, 2:30–4:00.)",
+        "What are the three sections of Isaiah? How do almost all scholars break up the book?",
+        "How does Motyer’s commentary (pp. 13–15) describe the three sections of Isaiah?  What is the theme of each (the messianic profiles) and how are they unified? (Answers in Motyer’s commentary, pp. 13–15.)",
+        "How does Oswalt’s Biblical Training Lesson 1 describe the three sections of Isaiah?  Describe how the themes of servanthood are attributed to each section (Answers in Oswalt’s Lesson 1, 5:00–10:00.)",
+        "How does the concept of \"servanthood\" unify the entire book of Isaiah, and what does it mean for God's people to be servants rather than merely chosen people? (Answers in Oswalt Lesson 1)",
+        "What is the relationship between God's transcendence (as \"The Holy One\") and His immanence (as \"of Israel\"), and how does this paradox shape the entire prophetic message? (Answers in Oswalt Lesson 1)",
+        "What does Heiser’s podcast Episode 217 reveal about authorship debates? Provide some of the argument for Single and Multiple authorship (Answers in Heiser’s podcast, 10:00–15:00.)",
+        "How do the Dead Sea Scrolls strengthen confidence in Isaiah’s text? (Answers in Motyer’s commentary, pp. 25–27, Heiser podcast, )"
+      ],
+      "keyPoints": [
+        "Outline of Isaiah: The book divides into three main parts—chapters 1–39 focusing on judgment and hope, 40–55 on comfort and the Servant, and 56–66 on post-exile ethics and new creation, emphasizing thematic unity around God’s sovereignty and redemption.",
+        "Historical Context: Isaiah prophesied around 740-680 BC during the reigns of kings Uzziah, Jotham, Ahaz, and Hezekiah, with Judah facing Assyrian aggression (e.g., 701 BC siege) and the threat of Babylonian exile (586 BC), as cross-referenced in 2 Kings 15–20.",
+        "Authorship: The traditional view, supported by Motyer and Oswalt, attributes the book to a single author, Isaiah son of Amoz, divinely inspired, while addressing critical theories of multiple authors through evidence of unified themes and prophetic foresight, as discussed in Heiser’s podcast.",
+        "Dead Sea Scrolls: Discovered in 1947 at Qumran, the Great Isaiah Scroll (1QIsa^a, dated around 125 BC) is nearly complete and closely matches the Masoretic Text, providing strong evidence for textual reliability with only minor variants that do not affect theology, as noted in Motyer (pp. 25-27) and Heiser’s blog.",
+        "Theological/Messianic Significance: Isaiah features key themes like God’s holiness (ch. 6), the Servant songs (e.g., 42, 49, 50, 53), and new creation (65-66), which point forward to Christ, as seen in New Testament references like John 12:41 and Acts 8:32-35."
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Isaiah 1–6 (Indictment, Vision, and Early Prophecies)",
+      "summary": "Isaiah 1–6 opens with a courtroom-style indictment of Judah’s covenant rebellion (1:2–20), set against 8th-century BC Assyrian threats during Uzziah’s reign, exposing idolatry and social injustice. Chapters 1–5 detail Judah’s spiritual decay, while Chapter 6’s throne-room vision (740 BC, Uzziah’s death) reveals God’s holiness, the divine council with seraphim, and Isaiah’s commissioning to a resistant people, foreshadowing Christ’s glory (John 12:41).  \nThe “Branch of the Lord” (4:2–6) introduces Messianic hope, promising purification fulfilled in Jesus (Jeremiah 23:5). This section contrasts human sin with divine glory, urging repentance and holiness, challenging men to confront modern “idols” (e.g., ambition, status) and embrace God’s call with vulnerability and integrity.",
+      "images": [
+        {
+          "title": "Model of Solomon’s Temple",
+          "description": "A reconstructed model of Solomon’s Temple in Jerusalem, representing the 8th-century BC temple setting.",
+          "use": "This visualizes the temple where Isaiah’s throne-room vision (ch. 6) occurred, reflecting ancient Judean worship practices during Uzziah’s reign.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Temple_of_Solomon_model.jpg"
+        },
+        {
+          "title": "Map of Judah Under Uzziah",
+          "description": "Map of Judah’s borders under Uzziah (c. 790–739 BC), showing Jerusalem and neighboring regions.",
+          "use": "It shows Judah’s extent during Uzziah’s reign, contextualizing the rebellion and idolatry Isaiah indicted in chapters 1-5.",
+          "source": "biblearchaeologyreport.com",
+          "url": "https://biblearchaeologyreport.com/wp-content/uploads/2020/08/uzziah-kingdom-e1596726273920.png"
+        },
+        {
+          "title": "Ancient Hebrew Altar",
+          "description": "Image of an ancient Israelite altar, used for sacrifices in Judah’s temple worship.",
+          "use": "It depicts the religious practices criticized by Isaiah (ch. 1) for hypocrisy, grounding the context of Judah’s spiritual decay.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Tel_Be%27er_Sheva_Altar_2007041.JPG"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 1–6.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 45–85.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 1 – Isaiah 1 (72 mins; ).",
+          "link": "https://www.youtube.com/watch?v=Y3n4g9M5K8g"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 2 – Isaiah 2–4:1 (66 mins; ).",
+          "link": "https://www.youtube.com/watch?v=JhGXpy46QXc"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 3 – Isaiah 4–5 (77 mins; ).",
+          "link": "https://www.youtube.com/watch?v=3DEVKVWVS3k"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 4 – Isaiah 6 (69 mins; ).",
+          "link": "https://www.youtube.com/watch?v=-x83zhMrP1s"
+        },
+        {
+          "text": "Read Heiser’s blog: “The Function of the Divine Council in Heavenly Worship” ().",
+          "link": "https://drmsh.com/the-function-of-the-divine-council-in-heavenly-worship-piety-not-mysticism-part-3"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Uzziah, King of Judah” from Lexham Bible Dictionary",
+          "link": "https://biblia.com/books/lbd/word/Uzziah%252C_King_of_Judah"
+        }
+      ],
+      "sourceQuestions": [
+        "In Isaiah 1, how does God describe Israel's rebellion, and what analogy does He use involving animals to highlight their lack of understanding?",
+        "According to Isaiah 2, what transformation will occur among the nations in the last days regarding weapons of war, and what will be the role of the mountain of the Lord's temple?",
+        "In Isaiah 3, what specific judgements does the Lord pronounce against the leaders and the haughty women of Zion, and how will these affect society?",
+        "What is the meaning of the song of the vineyard in Isaiah 5, including what the vineyard represents and what God expected versus what it produced?",
+        "Describe Isaiah's vision in chapter 6, including his initial reaction, the actions of the seraphim, and the comission he receives from the Lord"
+      ],
+      "commentaryQuestions": [
+        "How does Isaiah 1:2–20’s courtroom indictment reveal Judah’s rebellion in its 8th-century BC context? (Answers in Isaiah 1:2–20; Motyer, pp. 45–48; Oswalt Session 1, 5:00–10:00)",
+        "How does Isaiah 4:2–6’s “Branch” represent a Messianic link to Jesus? (Answers in Isaiah 4:2–6; Motyer, pp. 60–62; Oswalt Session 3, 10:00–15:00.)",
+        "How does Isaiah 6:1–7’s vision, in Uzziah’s death year, shape Isaiah’s mission, and per Heiser, what is the divine council’s role? (Answers in Isaiah 6:1–7; Oswalt Session 4, 10:00–15:00; Heiser’s blog, para. 2–4.)",
+        "How does Motyer show ch. 1–6 setting up Isaiah’s themes? (Answers in Motyer, pp. 45–50.)",
+        "How does Heiser’s blog assign the divine council’s role in Isaiah 6? (Answers in Heiser’s blog, para. 5–7.)"
+      ],
+      "applicationQuestions": [
+        "Where do you need to confess “woe” (Isaiah 6:5) and step into God’s call?"
+      ],
+      "questions": [
+        "In Isaiah 1, how does God describe Israel's rebellion, and what analogy does He use involving animals to highlight their lack of understanding?",
+        "According to Isaiah 2, what transformation will occur among the nations in the last days regarding weapons of war, and what will be the role of the mountain of the Lord's temple?",
+        "In Isaiah 3, what specific judgements does the Lord pronounce against the leaders and the haughty women of Zion, and how will these affect society?",
+        "What is the meaning of the song of the vineyard in Isaiah 5, including what the vineyard represents and what God expected versus what it produced?",
+        "Describe Isaiah's vision in chapter 6, including his initial reaction, the actions of the seraphim, and the comission he receives from the Lord",
+        "How does Isaiah 1:2–20’s courtroom indictment reveal Judah’s rebellion in its 8th-century BC context? (Answers in Isaiah 1:2–20; Motyer, pp. 45–48; Oswalt Session 1, 5:00–10:00)",
+        "How does Isaiah 4:2–6’s “Branch” represent a Messianic link to Jesus? (Answers in Isaiah 4:2–6; Motyer, pp. 60–62; Oswalt Session 3, 10:00–15:00.)",
+        "How does Isaiah 6:1–7’s vision, in Uzziah’s death year, shape Isaiah’s mission, and per Heiser, what is the divine council’s role? (Answers in Isaiah 6:1–7; Oswalt Session 4, 10:00–15:00; Heiser’s blog, para. 2–4.)",
+        "How does Motyer show ch. 1–6 setting up Isaiah’s themes? (Answers in Motyer, pp. 45–50.)",
+        "How does Heiser’s blog assign the divine council’s role in Isaiah 6? (Answers in Heiser’s blog, para. 5–7.)",
+        "Where do you need to confess “woe” (Isaiah 6:5) and step into God’s call?"
+      ],
+      "keyPoints": [
+        "Original Context of Rebellion: Chapters 1-5 depict Judah’s covenant rebellion against God, framed as a courtroom indictment (1:2-20) amid the Assyrian threat in the 8th century BC, highlighting social injustice and idolatry in a declining kingdom.",
+        "Isaiah's Commissioning Vision: In chapter 6, Isaiah's throne-room vision of God’s holiness, including the seraphim and divine council (as per Heiser), occurs in the year of King Uzziah’s death (740 BC), commissioning him to prophesy despite hardened hearts.",
+        "Messianic Hints in Judgment: Passages like 4:2-6 introduce the 'Branch of the Lord' as a promise of future purification and glory amid judgment, pointing to a Messianic figure who brings redemption."
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Isaiah 7–12 (Immanuel and the Messianic King)",
+      "summary": "Isaiah 7–12 addresses Judah’s crisis during the Syro-Ephraimite War (734–732 BC), where Ahaz faces threats from Israel and Syria, prompting Isaiah to urge trust in God over Assyrian alliances (2 Kings 16). The Immanuel prophecy (7:14) promises a child as a sign of God’s presence, with dual fulfillment in a near-term birth (e.g., Maher-Shalal-Hash-Baz, 8:3) and Jesus’ virgin birth (Matthew 1:23), clarified by Heiser’s analysis of “almah.” Chapters 9:6–7 and 11:1–9 envision a Davidic king with titles like “Wonderful Counselor,” bringing justice and peace, fulfilled in Christ.  \nThis section contrasts Ahaz’s fear with divine faithfulness, emphasizing Messianic hope. It challenges men to reject worldly “alliances” (e.g., career, status) and lead with courage, modeling Christ’s kingship in crises.",
+      "images": [
+        {
+          "title": "Syrian Conquest Map",
+          "description": "Map detailing the conquest of the Assyrian empire",
+          "use": "Provides a global historical account of the Assyrian conquest from Babylon to Egypt",
+          "source": "infographic",
+          "url": "https://preview.redd.it/neo-assyrian-empire-v0-li0tbyxh5nkb1.png?width=1080&crop=smart&auto=webp&s=7e728c8034f2dc970eb535da4731a34a5f156efd"
+        },
+        {
+          "title": "Syro-Ephraimite War Map",
+          "description": "Map illustrating the Syro-Ephraimite War (734-732 BC), showing Israel and Syria’s alliance against Judah.",
+          "use": "It maps the coalition against Ahaz in Isaiah 7, highlighting the geopolitical crisis that prompted the Immanuel prophecy.",
+          "source": "biblearchaeologyreport.com",
+          "url": "https://biblearchaeologyreport.com/wp-content/uploads/2022/09/syro-ephraimite-war.png"
+        },
+        {
+          "title": "Assyrian Relief of Tiglath-Pileser III",
+          "description": "Relief showing Tiglath-Pileser III, the Assyrian king who pressured Judah during Ahaz’s reign.",
+          "use": "This artifact illustrates the Assyrian power Ahaz allied with (Isaiah 7-8), showing the military might Isaiah urged Judah to reject.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Tiglath-pileser_III%27s_military_campaign_in_Western_Iran._From_Nimrud%2C_Iraq%2C_c._728_BCE._British_Museum.jpg"
+        },
+        {
+          "title": "Hebrew Inscription of Ahaz",
+          "description": "Bulla with ancient Hebrew inscription linked to King Ahaz, from 8th-century BC Judah.",
+          "use": "This artifact confirms Ahaz’s historical role, grounding the context of his faithlessness and Isaiah’s call to trust God.",
+          "source": "biblearchaeologyreport.com",
+          "url": "https://biblearchaeologyreport.com/wp-content/uploads/2020/02/ahaz-bulla.jpg?w=345&h=271"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 7–12.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 86–110.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 5 – Isaiah 7 (64 mins; ).",
+          "link": "https://www.youtube.com/watch?v=w-gKtyK2Tl8"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 6 – Isaiah 8 (68 mins; ).",
+          "link": "https://www.youtube.com/watch?v=HpQbpx06wCY"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 7 – Isaiah 9 (63 mins; ).",
+          "link": "https://www.youtube.com/watch?v=5e4LqEI6Vdk"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 8 – Isaiah 10 (69 mins; ).",
+          "link": "https://www.youtube.com/watch?v=bgP3u9UVeTk"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 9 – Isaiah 11–12 (64 mins; ).",
+          "link": "https://www.youtube.com/watch?v=wcKE9-pOZ4g"
+        },
+        {
+          "text": "Read Heiser’s blog: “The Almah of Isaiah 7:14” ().",
+          "link": "https://drmsh.com/the-almah-of-isaiah-714"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Jotham, King of Judah” from Lexham Bible Dictionary",
+          "link": "https://biblia.com/books/lbd/word/Jotham%252C_King_of_Judah"
+        },
+        {
+          "text": "“Ahaz, King of Judah” from Lexham Bible Dictionary",
+          "link": "https://biblia.com/books/lbd/word/Ahaz%252C_King_of_Judah"
+        },
+        {
+          "text": "“The Sign of Immanuel, Fulfilled in Christ: Isaiah 7:10–17” by Stephen M. Paterson",
+          "link": "https://www.smpaterson.com/2023/12/09/the-sign-of-immanuel/"
+        },
+        {
+          "text": "“Did Matthew Misinterpret the Prophecy of Isaiah 7:14?” by Michael Heiser",
+          "link": "https://www.youtube.com/watch?v=OBhudqp4PC8"
+        },
+        {
+          "text": "“A ‘Pregnant Virgin’?!? Defending a Messianic interpretation of Isaiah 7:14” by ONE FOR ISRAEL",
+          "link": "https://www.youtube.com/watch?v=Z5aQkUPoK1U"
+        },
+        {
+          "text": "“The Glorious Messiah and the Messianic Age (Isaiah 9:1–7)” by Bob Deffinbaugh",
+          "link": "https://bible.org/seriespage/6-glorious-messiah-and-messianic-age-isaiah-91-7"
+        },
+        {
+          "text": "“The Messianic Prophecies in the Book of Isaiah” by Michael J. Wilkins",
+          "link": "https://www.modernreformation.org/resources/articles/the-mod-messianic-prophecies-in-the-book-of-isaiah"
+        },
+        {
+          "text": "“Is the Child Born in Isaiah 9 Messianic Prophecy or History?!” by ONE FOR ISRAEL",
+          "link": "https://www.youtube.com/watch?v=_ZjPaRv8SZw"
+        }
+      ],
+      "sourceQuestions": [
+        "In Isaiah 7, what sign does the Lord offer to King Ahaz through Isaiah, and how does Ahaz respond to this offer?",
+        "According to Isaiah 8, what is the symbolic name given to Isaiah's son, and what does it signify regarding the impending judgement on Damascus and Samaria?",
+        "Isaiah 9 describes a great light shining on those living in darkness; what titles are given to the child who will b born, and what characteristics of His reign are highlighted?",
+        "In Isaiah 10, how does God describe Assyria's role in His plan, and what ultimate fat does He pronounce on Assyria for its arrogance?",
+        "Isaiah 11 prophesies about a shoot from the stump of Jesse; what qualities will the Spirit of the Lord bestow upon Him?",
+      ],
+      "commentaryQuestions": [
+        "How does Isaiah 7:1–14 show Ahaz’s historical crisis framing the Immanuel promise? (Answers in Isaiah 7:1–14; Motyer, pp. 86–90.)",
+        "How do Isaiah 9:6–7’s child-king titles find fulfillment in Christ? (Answers in Isaiah 9:6–7; Motyer, pp. 95–97.)",
+        "Where do you need to trust God over “alliances” in life (e.g., work, decisions)? (Answers in Isaiah 7:1–9; Oswalt Session 5, 5:00–10:00.)",
+        "How does Motyer show the unity of ch. 7–12’s hope? (Answers in Motyer, pp. 86–90.)",
+        "How does Isaiah 11:1–9’s “shoot from Jesse” connect to Messianic hope? (Answers in Isaiah 11:1–9; Motyer, pp. 98–100.)",
+        "How does Oswalt’s Session 5 describe Ahaz’s crisis framing Immanuel? (Answers in Isaiah 7:1–14; Oswalt Session 5, 10:00–15:00.)",
+        "How does Oswalt’s Session 7 connect Isaiah 9:6–7 to Christ? (Answers in Isaiah 9:6–7; Oswalt Session 7, 15:00–20:00.)",
+        "How does Motyer unify ch. 7–12’s Messianic hope? (Answers in Motyer, pp. 100–102.)",
+        "How does Oswalt’s Session 9 highlight ch. 11–12’s Messianic hope? (Answers in Isaiah 11:1–9; Oswalt Session 9, 10:00–15:00.)"
+        "How does Heiser’s blog explain “almah” supporting the virgin birth and its Messianic link to Matthew 1:23? (Answers in Heiser’s blog, para. 2–4.)",
+      ],
+      "applicationQuestions": [],
+      "questions": [
+        "How does Isaiah 7:1–14 show Ahaz’s historical crisis framing the Immanuel promise? (Answers in Isaiah 7:1–14; Motyer, pp. 86–90.)",
+        "How does Heiser’s blog explain “almah” supporting the virgin birth and its Messianic link to Matthew 1:23? (Answers in Heiser’s blog, para. 2–4.)",
+        "How do Isaiah 9:6–7’s child-king titles find fulfillment in Christ? (Answers in Isaiah 9:6–7; Motyer, pp. 95–97.)",
+        "Where do you need to trust God over “alliances” in life (e.g., work, decisions)? (Answers in Isaiah 7:1–9; Oswalt Session 5, 5:00–10:00.)",
+        "How does Motyer show the unity of ch. 7–12’s hope? (Answers in Motyer, pp. 86–90.)",
+        "How does Isaiah 11:1–9’s “shoot from Jesse” connect to Messianic hope? (Answers in Isaiah 11:1–9; Motyer, pp. 98–100.)",
+        "How does Oswalt’s Session 5 describe Ahaz’s crisis framing Immanuel? (Answers in Isaiah 7:1–14; Oswalt Session 5, 10:00–15:00.)",
+        "How does Oswalt’s Session 7 connect Isaiah 9:6–7 to Christ? (Answers in Isaiah 9:6–7; Oswalt Session 7, 15:00–20:00.)",
+        "How does Motyer unify ch. 7–12’s Messianic hope? (Answers in Motyer, pp. 100–102.)",
+        "How does Oswalt’s Session 9 highlight ch. 11–12’s Messianic hope? (Answers in Isaiah 11:1–9; Oswalt Session 9, 10:00–15:00.)"
+      ],
+      "keyPoints": [
+        "Historical Crisis Under Ahaz: Chapters 7-8 describe King Ahaz's fear during the Syro-Ephraimite war (734-732 BC), where Syria and Israel threatened Judah, leading to Isaiah's confrontation and the sign of Immanuel amid calls for trust in God rather than Assyrian alliances.",
+        "The Immanuel Prophecy: Isaiah 7:14 promises a child named Immanuel ('God with us'), with dual fulfillment—a near-term sign (perhaps Maher-Shalal-Hash-Baz in 8:3) and ultimate Messianic realization in the virgin birth of Jesus (Matthew 1:23), as supported by Heiser's analysis of 'almah.'",
+        "The Ideal Messianic King: Chapters 9:6-7 and 11:1-9 portray a child-king from David's line, bearing titles like 'Wonderful Counselor' and bringing justice and peace, fulfilled in Jesus' eternal reign."
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Isaiah 13–20 (Oracles Against the Nations, Part 1)",
+      "summary": "Isaiah 13–20 delivers oracles of judgment against nations like Babylon, Philistia, Moab, Damascus, and Egypt, set against 8th-century BC Assyrian dominance, affirming God’s sovereignty over human empires. Isaiah 14:12–15’s “morning star” may hint at Satan’s fall, per Heiser, while 19:23–25 envisions a Messianic future where Egypt and Assyria worship with Israel, fulfilled in the gospel’s spread (Acts 2).  \nThese chapters emphasize God’s justice and universal redemption, challenging men to reject prideful “empires” (e.g., career, culture) and trust in God’s plan. The oracles shift from historical judgments to eschatological hope, inspiring humility and faith in Christ’s inclusive kingdom.",
+      "images": [
+        {
+          "title": "Babylonian Ziggurat Reconstruction",
+          "description": "Reconstruction of a Babylonian ziggurat, symbolizing the religious hubris of Babylon in Isaiah 13-14.",
+          "use": "This depicts Babylonian architecture, illustrating the empire’s pride that Isaiah prophesied against.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Ziggurat_of_Ur.jpg"
+        },
+        {
+          "title": "Moabite Stone (Mesha Stele)",
+          "description": "Photograph of the Mesha Stele, a 9th-century BC Moabite inscription mentioning conflicts with Israel.",
+          "use": "It provides archaeological context for Moab in Isaiah 15-16, showing regional conflicts with Judah’s neighbors.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mesha_Stele_%28511142469%29_%28cropped%29.jpg"
+        },
+        {
+          "title": "Philistine Pottery",
+          "description": "Image of Philistine pottery from the 8th century BC, found in excavations near Judah.",
+          "use": "This artifact reflects Philistia’s culture in Isaiah 14, grounding the oracle against Judah’s western neighbor.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Philistine_pottery.JPG"
+        },
+        {
+          "title": "Egyptian Wall Relief",
+          "description": "Relief of Egyptian pharaoh from the 8th century BC, symbolizing Egypt’s role in alliances.",
+          "use": "It illustrates Egypt’s prominence in Isaiah 19-20, showing why Judah’s alliance with them was futile.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Karnak_Tempel_19.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 13–20.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 111–140.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 7 – Isaiah 13–14 (63 mins; ).",
+          "link": "https://www.youtube.com/watch?v=5e4LqEI6Vdk"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 8 – Isaiah 14–16 (69 mins; ).",
+          "link": "https://www.youtube.com/watch?v=BgP3u9UVeTk"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 9 – Isaiah 17–18 (64 mins; ).",
+          "link": "https://www.youtube.com/watch?v=wcKE9-pOZ4g"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 10 – Isaiah 19–21 (66 mins; ).",
+          "link": "https://www.youtube.com/watch?v=XBVhmIJ613A"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Yahweh as Lord of the Nations: Isaiah 13:1–20:6” by Beth M. Stovell",
+          "link": "https://spu.edu/lectio/yahweh-as-lord-of-the-nations/"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "How does Isaiah 13–14 target Babylon historically, and what are modern equivalents? (Answers in Isaiah 13–14; Motyer, pp. 111–113.)",
+        "Does Isaiah 14:12–15’s “morning star” refer to Satan, and what are its Messianic implications? (Answers in Isaiah 14:12–15; Motyer, pp. 116–118.)",
+        "How does Isaiah 19:18–25’s hope for enemies like Egypt reflect Christ’s gospel? (Answers in Isaiah 19:18–25; Motyer, pp. 135–137.)",
+        "How does God’s global rule in Isaiah 19:23–25 challenge your perspective? (Answers in Isaiah 19:23–25; Oswalt Session 10, 15:00–20:00.)",
+        "How does Motyer show thematic connections across ch. 13–20? (Answers in Motyer, pp. 111–115.)",
+        "How does Isaiah 13–14’s prophecy against Babylon reflect its historical context? (Answers in Isaiah 13–14; Oswalt Session 7, 5:00–10:00.)",
+        "How does Isaiah 14:12–15’s “morning star” connect to spiritual judgment? (Answers in Isaiah 14:12–15; Oswalt Session 8, 12:00–15:00.)",
+        "How does Isaiah 19:18–25’s vision reflect Christ’s gospel? (Answers in Isaiah 19:18–25; Oswalt Session 10, 10:00–15:00.)",
+        "How does Motyer link ch. 13–20 to God’s sovereignty? (Answers in Motyer, pp. 135–137.)",
+        "How does Isaiah 19:23–25’s inclusivity inspire you to embrace others? (Answers in Isaiah 19:23–25; Oswalt Session 10, 15:00–20:00.)"
+      ],
+      "keyPoints": [
+        "Oracles Against Babylon and Others: Chapters 13-14 prophesy Babylon's fall (though future in Isaiah's time), extending to nations like Philistia and Moab, set in the 8th-century Assyrian dominance, demonstrating God's judgment on arrogant empires.",
+        "Supernatural Elements in Judgment: Isaiah 14:12-15's 'morning star' (Lucifer) may allude to Satan's fall, blending human kings with spiritual forces, within the context of God's ultimate authority over all realms.",
+        "Messianic Hope for Nations: Chapter 19:23-25 envisions Egypt and Assyria worshiping with Israel, a radical inclusion of enemies in God's kingdom, fulfilled in the gospel's spread (Acts 2)."
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Isaiah 21–27 (Oracles and Little Apocalypse)",
+      "summary": "Isaiah 21–27 transitions from oracles against nations like Babylon and Tyre (ch. 21–23) to the “little apocalypse” (ch. 24–27), depicting global ruin amid 8th-century BC threats, escalating to cosmic judgment foreshadowing exile. The “little apocalypse” portrays earth’s desolation (24:1–6), followed by a Messianic banquet on Mount Zion (25:6–8), where death is swallowed up, fulfilled in Christ’s resurrection (1 Corinthians 15:54).  \nIsaiah 26:19 hints at bodily resurrection, leading to praise in ch. 27, tying historical deliverance to eschatological renewal. This section emphasizes judgment’s scope and hope’s triumph, encouraging men to trust God’s ultimate restoration in crises, paralleling modern challenges with Christ’s victory.",
+      "images": [
+        {
+          "title": "Tyre’s Harbor Reconstruction",
+          "description": "Illustration of Tyre’s ancient harbor, a Phoenician trade hub in the 8th century BC.",
+          "use": "This depicts Tyre’s economic power in Isaiah 23, highlighting the oracle against its pride.",
+          "source": "christianpublishinghouse.co",
+          "url": "https://i0.wp.com/christianpublishinghouse.co/wp-content/uploads/2023/10/ancient-tyre-illustration.webp?w=1200&ssl=1"
+        },
+        {
+          "title": "Mount Zion View",
+          "description": "19th-century colored illustration of Mount Zion, Jerusalem, evoking the banquet site in Isaiah 25.",
+          "use": "This depicts Jerusalem’s sacred hill, central to the Messianic feast vision in Isaiah 25.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Mount_Zion%2C_Jerusalem%2C_the_Mosque_of_David%2C_colored%2C_1836.jpg"
+        },
+        {
+          "title": "Babylonian Lion Relief",
+          "description": "Relief of a lion from Babylon’s Ishtar Gate, symbolizing Babylonian power.",
+          "use": "It illustrates Babylon’s grandeur in Isaiah 21, which Isaiah’s oracles predict will fall.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Passing_lion_Babylon_AO21118.jpg"
+        },
+        {
+          "title": "Hezekiah’s Seal",
+          "description": "Photograph of a bulla (seal impression) of King Hezekiah, inscribed with his name in ancient Hebrew script, from 8th-century BC Judah.",
+          "use": "This artifact confirms Hezekiah’s reign, a key figure in Isaiah’s context, grounding the historical setting of Judah’s kings during Assyrian aggression.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/LMLK%2C_Ezekiah_seals.jpg"
+        },
+        {
+          "title": "Siloam Inscription",
+          "description": "Photograph of the Siloam Inscription, a 8th-century BC Hebrew text detailing Hezekiah’s tunnel in Jerusalem.",
+          "use": "This inscription provides archaeological evidence of Judah’s infrastructure under Hezekiah, reflecting the historical context of Isaiah’s prophecies.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Siloam_Inscription_2.jpg/1920px-Siloam_Inscription_2.jpg"
+        },
+        {
+          "title": "Hezekiah’s Tunnel",
+          "description": "Photograph of the interior of Hezekiah’s tunnel in Jerusalem, built to secure water during the siege.",
+          "use": "This shows Judah’s defensive preparations in Isaiah 36-37, reflecting Hezekiah’s practical faith.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Inside_Hezekiah%27s_Tunnel-B_%283782618647%29.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 21–27.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 141–165.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 11 – Isaiah 22–23 (64 mins; ).",
+          "link": "https://www.youtube.com/watch?v=F5mFcjd_faQ"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 12 – Isaiah 24–25 (66 mins; ).",
+          "link": "https://www.youtube.com/watch?v=6bVBlFBXTyg"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 13 – Isaiah 26–27 (61 mins; ).",
+          "link": "https://www.youtube.com/watch?v=Dd0rT1fH7qI"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Isaiah’s Little Apocalypse” by Blue Collar Biblical Scholar",
+          "link": "https://bluecollarbiblicalscholar.blog/2024/06/28/isaiahs-little-apocalypse/"
+        },
+        {
+          "text": "“Isaiah as Apocalypse: Isaiah 21:1–27:13” by Beth M. Stovell",
+          "link": "https://spu.edu/lectio/isaiah-as-apocalypse/"
+        },
+        {
+          "text": "“David, Isaiah, and the New Eden” by BibleProject",
+          "link": "https://bibleproject.com/podcasts/david-isaiah-and-new-eden/"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "How do Isaiah 21–23’s oracles against nations like Babylon and Tyre show in the 8th-century BC context? (Answers in Isaiah 21–23; Motyer, pp. 141–143.)",
+        "How does Isaiah 24:1–6’s global ruin build on prior oracles? (Answers in Isaiah 24:1–6; Motyer, pp. 145–147.)",
+        "How does Isaiah 25:6–9’s feast represent a Messianic link to Christ’s victory? (Answers in Isaiah 25:6–9; Motyer, pp. 150–152.)",
+        "How does Isaiah 26:19’s resurrection hint provide hope? (Answers in Isaiah 26:19; Motyer, pp. 155–157.)",
+        "How does this section encourage steadfastness in trials? (Answers in Isaiah 26:1–10; Oswalt Session 13, 15:00–20:00.)",
+        "How does Motyer show praise following judgment in ch. 26–27? (Answers in Motyer, pp. 157–158.)",
+        "How does Isaiah 24:1–6’s global ruin relate to prior oracles? (Answers in Isaiah 24:1–6; Oswalt Session 12, 5:00–10:00.)",
+        "How does Isaiah 25:6–9’s feast connect to Christ? (Answers in Isaiah 25:6–9; Oswalt Session 12, 12:00–15:00.)",
+        "How does Isaiah 26:19’s resurrection inspire hope? (Answers in Isaiah 26:19; Oswalt Session 13, 10:00–15:00.)",
+        "How does Oswalt’s Session 13 describe steadfastness in trials? (Answers in Isaiah 26:1–10; Oswalt Session 13, 15:00–20:00.)"
+      ],
+      "keyPoints": [
+        "Shift to Cosmic Judgment: Chapters 21-23 continue oracles against nations like Babylon and Tyre, transitioning to the 'little apocalypse' in 24-27, depicting global ruin amid Judah’s 8th-century threats.",
+        "Messianic Banquet and Victory: Isaiah 25:6-8 promises a feast on Mount Zion where death is swallowed up, fulfilled in Christ's resurrection (1 Corinthians 15:54), within the context of post-judgment hope.",
+        "Resurrection and Praise: Chapter 26:19 hints at bodily resurrection, leading to songs of praise in 27, tying historical deliverance to eschatological renewal."
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Isaiah 28–33 (Woes on Judah and Trust in God)",
+      "summary": "Isaiah 28–33 delivers woes against Judah’s corrupt leaders and reliance on foreign alliances, set amid 8th-century BC Assyrian threats, urging trust in God. Chapter 28 condemns drunken priests and prophets, contrasting their false security with God’s judgment, while chapters 30–31 warn against Egypt as a refuge, foreshadowing exile (Oswalt). Chapter 32:1–8 envisions a righteous Davidic king, fulfilled in Jesus, bringing justice and peace.  \nThis section emphasizes integrity, faith over fear, and Christ’s kingship, challenging men to reject worldly “Egypts” (e.g., materialism, power) and lead with righteousness, modeling trust in God’s sovereignty during crises.",
+      "images": [
+        {
+          "title": "Assyrian Siege Engine",
+          "description": "Illustration of an Assyrian siege engine used in 8th-century BC campaigns against Judah.",
+          "use": "This shows Assyrian military technology in Isaiah 28-31, illustrating the threats Judah faced.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Assyrian_siege-engine_attacking_the_city_wall_of_Lachish%2C_part_of_the_ascending_assaulting_wave._Detail_of_a_wall_relief_dating_back_to_the_reign_of_Sennacherib%2C_700-692_BCE._From_Nineveh%2C_Iraq%2C_currently_housed_in_the_British_Museum.jpg"
+        },
+        {
+          "title": "Egyptian Chariot Relief",
+          "description": "Relief of an Egyptian chariot, symbolizing Egypt’s military in Isaiah 30-31.",
+          "use": "It depicts Egypt’s power, which Isaiah warned Judah against relying on instead of God.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/State_chariot_of_Thutmose_IV%2C_18th_dynasty%3B_National_Museum_of_Egyptian_Civilization%2C_Cairo_%283%29_%2852087080021%29.jpg"
+        },
+        {
+          "title": "Sennacherib’s Campaign Map",
+          "description": "Map of Sennacherib’s campaign routes into Judah c. 701 BC, distinct from earlier maps.",
+          "use": "It illustrates the specific 701 BC invasion threats in Isaiah 28-33, grounding the woes against alliances.",
+          "source": "biblemapper.com",
+          "url": "https://biblemapper.com/blog/wp-content/uploads/2024/06/SennacheribAttacksJudah-952x1024.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 28–33.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 166–185.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 14 – Isaiah 28–29 (63 mins; ).",
+          "link": "https://www.youtube.com/watch?v=QmFIuw_fsPY"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 15 – Isaiah 30–31 (69 mins; ).",
+          "link": "https://www.youtube.com/watch?v=gU2OSqCtV20"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 16 – Isaiah 32–33 (64 mins; ).",
+          "link": "https://www.youtube.com/watch?v=UgZ65hEkaOg"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Theme and Structure in Isaiah 28–33” by Paul J. Kissling",
+          "link": "https://scholar.csl.edu/phd/139/"
+        },
+        {
+          "text": "“Toward a Better ‘Hezekiah’: The Literary Structuring of Isaiah 1–39” by Benjamin D. Giffone",
+          "link": "https://scielo.org.za/pdf/ote/v36n2/04.pdf"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "Why does Isaiah 28:1–13 condemn Judah’s leaders, and what is the historical corruption involved? (Answers in Isaiah 28:1–13; Motyer, pp. 166–168.)",
+        "How does Isaiah 32:1–8’s king exhibit Messianic traits? (Answers in Isaiah 32:1–8; Motyer, pp. 178–180.)",
+        "What is the folly of relying on Egypt in Isaiah 31:1–3, and its relevancy to worldly alliances? (Answers in Isaiah 31:1–3; Motyer, pp. 172–174.)",
+        "How can you avoid relying on “Egypt” in your life? (Answers in Isaiah 30:1–7; Oswalt Session 15, 15:00–20:00.)",
+        "How does Motyer show trust’s role in ch. 28–33? (Answers in Motyer, pp. 166–168.)",
+        "How does Isaiah 28:1–13 reflect historical corruption? (Answers in Isaiah 28:1–13; Oswalt Session 14, 5:00–10:00.)",
+        "How does Isaiah 32:1–8’s king connect to Messianic hope? (Answers in Isaiah 32:1–8; Oswalt Session 16, 10:00–15:00.)",
+        "How does Isaiah 31:1–3 warn against alliances? (Answers in Isaiah 31:1–3; Oswalt Session 15, 12:00–15:00.)",
+        "How can you avoid worldly “Egypt” in life? (Answers in Isaiah 30:1–7; Motyer, pp. 172–174.)",
+        "How does Oswalt’s Session 14 describe leadership woes in Isaiah 28? (Answers in Isaiah 28:1–13; Oswalt Session 14, 5:00–10:00.)"
+      ],
+      "keyPoints": [
+        "Woes on Corrupt Leadership: Chapter 28 condemns Judah’s priests and prophets for drunkenness and false security amid Assyrian invasion threats.",
+        "Folly of Alliances: Chapters 30-31 warn against relying on Egypt for protection, emphasizing trust in God alone amid 8th-century geopolitical tensions.",
+        "Messianic Ideal King: Chapter 32:1-8 envisions a righteous king bringing justice, fulfilled in Jesus' reign, contrasting Judah's failing rulers."
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Isaiah 34–39 (Judgment, Hezekiah’s Crisis, and Exile Foreshadowed)",
+      "summary": "Isaiah 34–39 concludes the first major section with cosmic judgment on Edom (ch. 34) as a prelude to Judah’s deliverance, followed by Hezekiah’s crisis under Sennacherib’s siege (701 BC, ch. 36–37), where prayer leads to miraculous salvation (2 Kings 18–19). Chapter 39 foreshadows exile through Babylonian envoys, highlighting pride’s consequences (586 BC).  \nThis section emphasizes judgment’s scope, the power of faith, and humility, modeling prayer in crises. It challenges men to trust God amid modern “sieges” (e.g., personal or professional trials), relying on Christ’s restoration rather than pride or worldly solutions.",
+      "images": [
+        {
+          "title": "Edom and Judah Map",
+          "description": "Map showing Edom and Judah territories, with the Dead Sea border, in the 8th century BC.",
+          "use": "It locates Edom for Isaiah 24’s cosmic judgment, symbolizing Judah’s ancient rival in the ‘little apocalypse’.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Kingdoms_around_Israel_830_map.svg"
+        },
+        {
+          "title": "Lachish Relief Sennacherib",
+          "description": "Assyrian relief panel showing the siege of Lachish with warriors and ramps, 701 BC. Assyria conquered and placed their armies in Lachish immediately prior to their failed attack on Jerusalem",
+          "use": "It depicts the 701 BC siege in Isaiah 36-37, providing archaeological evidence of Assyrian tactics against Judah.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Lachish_Relief%2C_British_Museum_13.jpg"
+        },
+        {
+          "title": "Edomite Pottery",
+          "description": "Image of 8th-century BC Edomite pottery, representing Edom’s culture in Isaiah 34.",
+          "use": "This artifact grounds the judgment on Edom, symbolizing cosmic destruction in Isaiah 34.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pottery_Warrior%2C_Edomite%2C_c._600_BC_%2843218630211%29.jpg"
+        },
+        {
+          "title": "Assyrian Siege Ramp",
+          "description": "Reconstruction of an Assyrian siege ramp, used in attacks on Judean cities like Lachish.",
+          "use": "This illustrates Assyrian military tactics in the 8th century BC, highlighting the threats Judah faced during Isaiah’s early prophecies.",
+          "source": "christianpublishinghouse.co",
+          "url": "https://i0.wp.com/christianpublishinghouse.co/wp-content/uploads/2024/02/The-Assyrian-Siege-and-Capture-of-Lachish.webp?resize=1400%2C800&ssl=1"
+        },
+        {
+          "title": "Babylonian Chronicle Tablet",
+          "description": "Neo-Babylonian Chronicle for years 605-594 BCE. This is an official document which chronicles some events (during the years 605 to 595 BCE) in the reign of king Nebuchadnezzar II (r. 605-562 BCE). The cuneiform inscription highlights the conquest of Jerusalem and the surrender of Jehoiakim, king of Judah, in 597 BCE. Clay tablet, made c. 550-400 BCE. From Babylon, Iraq. British Museum",
+          "use": "It illustrates Babylonian power, which Isaiah 39 predicts will lead to Judah’s exile.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/The_cuneiform_inscription_highlights_the_conquest_of_Jerusalem_and_the_surrender_of_Jehoiakim%2C_king_of_Judah%2C_in_597_BCE._From_Babylon%2C_Iraq.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 34–39.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 186–210.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 17 – Isaiah 34–35 (64 mins; ).",
+          "link": "https://www.youtube.com/watch?v=jBrlIwajRsk"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 18 – Isaiah 36–37 (62 mins; ).",
+          "link": "https://www.youtube.com/watch?v=WK0UaQz68Y4"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 19 – Isaiah 38–39 (66 mins; ).",
+          "link": "https://www.youtube.com/watch?v=Qe_X7G0qNWg"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Figural History in the Book of Isaiah” by Christopher A. Beetham",
+          "link": "https://www.academia.edu/61053309/Figural_History_in_the_Book_of_Isaiah"
+        },
+        {
+          "text": "“Toward a Better ‘Hezekiah’: The Literary Structuring of Isaiah 1–39” by Benjamin D. Giffone",
+          "link": "https://scielo.org.za/pdf/ote/v36n2/04.pdf"
+        },
+        {
+          "text": "“What was Isaiah Thinking?!” by ONE FOR ISRAEL",
+          "link": "https://www.youtube.com/watch?v=u-u-tdh13yE"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "What are the historical stakes of Isaiah 36–37’s Assyrian threat? (Answers in Isaiah 36–37; Motyer, pp. 190–195.)",
+        "How is Isaiah 37:14–20’s prayer by Hezekiah a Messianic model? (Answers in Isaiah 37:14–20; Motyer, pp. 193–195.)",
+        "How does Isaiah 39:1–8’s Babylonian envoys foreshadow exile? (Answers in Isaiah 39:1–8; Motyer, pp. 200–202.)",
+        "How can you trust God in “invasions” (crises) in life? (Answers in Isaiah 37:14–20; Oswalt Session 18, 15:00–20:00.)",
+        "How does Motyer show historical links in ch. 34–39? (Answers in Motyer, pp. 190–195.)",
+        "How does Isaiah 36–37’s Assyrian threat reflect historical stakes? (Answers in Isaiah 36–37; Oswalt Session 18, 5:00–10:00.)",
+        "How does Isaiah 37:14–20’s prayer model Messianic faith? (Answers in Isaiah 37:14–20; Oswalt Session 18, 10:00–15:00.)",
+        "How does Isaiah 39:1–8 foreshadow exile? (Answers in Isaiah 39:1–8; Oswalt Session 19, 12:00–15:00.)",
+        "How can you trust God in crises? (Answers in Isaiah 37:14–20; Motyer, pp. 193–195.)",
+        "How does Oswalt’s Session 18 describe Isaiah 36–37’s crisis? (Answers in Isaiah 36–37; Oswalt Session 18, 5:00–10:00.)"
+      ],
+      "keyPoints": [
+        "Cosmic Judgment on Edom: Chapter 34 portrays universal destruction, symbolized by Edom, as a prelude to Judah's deliverance, rooted in ongoing rivalries from Esau's time but intensified in 8th-century politics.",
+        "Hezekiah's Crisis and Deliverance: Chapters 36-37 recount Sennacherib's 701 BC invasion and siege of Jerusalem, with Hezekiah's prayer leading to miraculous salvation, as paralleled in 2 Kings 18-19.",
+        "Foreshadowing Exile: Chapter 39's Babylonian envoys reveal Hezekiah's pride, predicting exile (586 BC), transitioning to the book's second half."
+      ]
+    },
+    {
+      "number": 8,
+      "title": "Isaiah 40–45 (Comfort and God’s Sovereignty)",
+      "summary": "Isaiah 40–45 shifts to comfort for exiled Judah post-586 BC, promising a new exodus through Cyrus’ deliverance (539 BC). Chapter 40 contrasts God’s power with idols’ futility, while chapters 41–45 highlight God’s sovereignty, naming Cyrus as His anointed. The Servant (42:1–9) brings justice to nations, fulfilled in Christ (Matthew 12:18–21), blending Israel’s role with individual messianism.  \nThis section emphasizes grace after judgment, God’s uniqueness, and servant leadership. It challenges men to reject modern idols (e.g., success, control) and trust Christ’s sovereignty, modeling humility and service in crises.",
+      "images": [
+        {
+          "title": "Babylonian Exile Map",
+          "description": "Map showing Judah to Babylon exile routes and Persian expansion under Cyrus, c. 586-539 BC.",
+          "use": "It illustrates the exile context for Isaiah 40’s message of comfort, showing the path to restoration.",
+          "source": "headwatersresources.org",
+          "url": "https://i0.wp.com/headwatersresources.org/wp-content/uploads/2017/02/41.png?fit=1080%2C1080&ssl=1"
+        },
+        {
+          "title": "Cyrus Cylinder",
+          "description": "Photograph of the Cyrus Cylinder, a 6th-century BC artifact detailing Cyrus’ conquests and decrees.",
+          "use": "This artifact confirms Cyrus’ role in Isaiah 45, illustrating Persian sovereignty over Judah’s return.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Cyrus_Cylinder_2.jpg"
+        },
+        {
+          "title": "Babylonian Idol Statue",
+          "description": "Image of a Babylonian deity statue, representing idol worship in Isaiah 44.",
+          "use": "It depicts the futility of idols Isaiah contrasts with God’s power in the exile context.",
+          "source": "worldhistory.org",
+          "url": "https://www.worldhistory.org/uploads/images/11199.jpg?v=1711954384-0"
+        },
+        {
+          "title": "Persian Relief of Cyrus",
+          "description": "Relief of a Persian king, possibly Cyrus, from Pasargadae, 6th century BC.",
+          "use": "This illustrates Cyrus’ authority in Isaiah 45, grounding God’s use of a pagan ruler.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Relief_of_Cyrus%2C_Pasargadae.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 40–45.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 211–250.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 20 – Isaiah 40–41 (63 mins; ).",
+          "link": "https://www.youtube.com/watch?v=n2WjMvGE1EE"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 21 – Isaiah 42–43 (67 mins; ).",
+          "link": "https://www.youtube.com/watch?v=BhZ9dmYOOCQ"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 22 – Isaiah 44–46 (66 mins; ).",
+          "link": "https://www.youtube.com/watch?v=gnSwhZTVdFA"
+        },
+        {
+          "text": "Listen to Heiser’s Naked Bible Podcast Episode 415: “The Servant of Isaiah” ().",
+          "link": "https://nakedbiblepodcast.com/podcast/naked-bible-415-pauls-use-of-the-old-testament-series-the-messianic-story-part-3/"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“A Message of Comfort to God’s People (Isaiah 40:1–31)” by Bob Deffinbaugh",
+          "link": "https://bible.org/seriespage/message-comfort-god%E2%80%99s-people-isaiah-401-31"
+        },
+        {
+          "text": "“The Comfort of God’s Sovereignty” by Burk Parsons",
+          "link": "https://www.ligonier.org/learn/articles/comfort-gods-sovereignty"
+        },
+        {
+          "text": "“Isaiah’s Anointed One” by BibleProject",
+          "link": "https://bibleproject.com/podcasts/isaiahs-anointed-one/"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "What comfort does Isaiah 40:1–11 offer in the exile context? (Answers in Isaiah 40:1–11; Motyer, pp. 211–213.)",
+        "How does Isaiah 42:1–9’s Servant connect to Christ’s mission? (Answers in Isaiah 42:1–9; Motyer, pp. 220–222.)",
+        "How does Isaiah 44:28–45:7’s naming of Cyrus show God’s sovereignty? (Answers in Isaiah 44:28–45:7; Motyer, pp. 230–232.)",
+        "How can you reject modern “idols” and trust God’s plan? (Answers in Isaiah 40:18–31; Oswalt Session 20, 15:00–20:00.)",
+        "How does Motyer unify ch. 40–45’s themes of comfort? (Answers in Motyer, pp. 211–215.)",
+        "How does Isaiah 40:1–11’s comfort apply to exile? (Answers in Isaiah 40:1–11; Oswalt Session 20, 5:00–10:00.)",
+        "How does Isaiah 42:1–9’s Servant reflect Christ? (Answers in Isaiah 42:1–9; Oswalt Session 21, 10:00–15:00.)",
+        "How does Isaiah 44:28–45:7 show God’s control? (Answers in Isaiah 44:28–45:7; Oswalt Session 22, 12:00–15:00.)",
+        "How does Heiser’s podcast explain the Servant’s role? (Answers in Heiser’s podcast, 10:00–15:00.)",
+        "How can you model the Servant’s humility in life? (Answers in Isaiah 42:1–9; Motyer, pp. 220–222.)"
+      ],
+      "keyPoints": [
+        "Comfort for Exiled Judah: Chapter 40 opens with a message of comfort, promising restoration through God’s power and compassion, fulfilled in Christ’s redemptive work (John 1:23).",
+        "God’s Sovereignty Over History: Chapters 41-44 highlight God’s control, using Cyrus to deliver Israel, contrasting the futility of idols with God’s unique power (44:6-20).",
+        "Servant’s Role Introduced: The Servant figure in 42:1-9 emerges as one who brings justice and light to the nations, fulfilled in Jesus (Matthew 12:18-21)."
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Isaiah 46–48 (Fall of Babylon and God’s Redemption)",
+      "summary": "Isaiah 46–48 focuses on Babylon’s fall (539 BC) and Judah’s redemption, contrasting the futility of Babylonian idols with God’s sovereignty. Chapter 46 mocks Bel and Nebo, while chapter 47 predicts Babylon’s humiliation, and chapter 48 calls Judah to heed God’s deliverance through Cyrus, fulfilled historically and pointing to Christ’s ultimate redemption (Acts 13:47).  \nThis section emphasizes God’s unrivaled power and faithfulness, urging men to reject false securities (e.g., wealth, status) and trust in God’s redemptive plan, applying lessons of humility and reliance on Christ in modern trials.",
+      "images": [
+        {
+          "title": "Persian Empire Map 500 BC",
+          "description": "Map of the Achaemenid Empire under Cyrus and successors, including Judah, c. 500 BC.",
+          "use": "It shows the Persian context of Isaiah 48, illustrating the empire that ended Judah’s exile.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Achaemenid_Empire_500_BC.png"
+        },
+        {
+          "title": "Babylonian Processional Street",
+          "description": "Reconstruction of Babylon’s processional street, symbolizing its grandeur in Isaiah 46-47.",
+          "use": "This depicts Babylon’s splendor, which Isaiah predicts will fall, contrasting with God’s power.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Processional_Way_of_Babylon_-_Pergamonmuseum_-_Berlin_-_Germany_2017.jpg"
+        },
+        {
+          "title": "Exile Return Illustration",
+          "description": "Illustration of Jews returning from Babylon, symbolizing Isaiah 48’s restoration.",
+          "use": "This visualizes the end of exile, grounding Isaiah’s promises of redemption.",
+          "source": "Wikipedia",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tissot_The_Flight_of_the_Prisoners.jpg/2560px-Tissot_The_Flight_of_the_Prisoners.jpg"
+        },
+        {
+          "title": "Exile Return Path",
+          "description": "A map of the prisoner's return from Babylon, demonstrating Isaiah 48’s prophetic restoration.",
+          "use": "This shows the actual historical path the Jewish prisoners took home, grounding Isaiah’s prophecies of redemption.",
+          "source": "freebibleimages.org",
+          "url": "https://media.freebibleimages.org/stories/FB_BM_Maps_Exile_Return/source-jpeg/07_FB_BM_Maps_Exile_Return_1024.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 46–48.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 251–270.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 22 – Isaiah 44–46 (66 mins; ).",
+          "link": "https://www.youtube.com/watch?v=gnSwhZTVdFA"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 23 – Isaiah 47–48 (65 mins; ).",
+          "link": "https://www.youtube.com/watch?v=ZmX7Y2vF8cQ"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Isaiah 46–48: The Lord vs. Idols” by Bob Deffinbaugh",
+          "link": "https://bible.org/seriespage/11-lord-versus-idols-isaiah-461-13"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "How does Isaiah 46:1–7 mock Babylonian idols? (Answers in Isaiah 46:1–7; Motyer, pp. 251–253.)",
+        "How does Isaiah 47 predict Babylon’s fall historically? (Answers in Isaiah 47; Motyer, pp. 255–257.)",
+        "How does Isaiah 48:12–22 call Judah to trust God’s redemption? (Answers in Isaiah 48:12–22; Motyer, pp. 260–262.)",
+        "What modern “idols” do you need to reject? (Answers in Isaiah 46:1–7; Oswalt Session 22, 15:00–20:00.)",
+        "How does Motyer unify ch. 46–48’s themes? (Answers in Motyer, pp. 251–255.)",
+        "How does Isaiah 46:1–7 contrast idols with God? (Answers in Isaiah 46:1–7; Oswalt Session 22, 5:00–10:00.)",
+        "How does Isaiah 47’s fall of Babylon connect to history? (Answers in Isaiah 47; Oswalt Session 23, 10:00–15:00.)",
+        "How does Isaiah 48:12–22 inspire trust in God? (Answers in Isaiah 48:12–22; Oswalt Session 23, 12:00–15:00.)",
+        "How can you apply God’s redemption to your life? (Answers in Isaiah 48:12–22; Motyer, pp. 260–262.)",
+        "How does Oswalt’s Session 22 highlight God’s sovereignty? (Answers in Isaiah 46:1–7; Oswalt Session 22, 5:00–10:00.)"
+      ],
+      "keyPoints": [
+        "Cyrus as God’s Instrument: Chapter 45 presents Cyrus as God’s anointed to free Israel from Babylon, showcasing divine sovereignty over pagan rulers (45:1-7).",
+        "Judgment on Babylon: Chapters 46-47 contrast Babylon’s fall with Israel’s redemption, emphasizing God’s unmatched power against idols.",
+        "Call to Trust God: Chapter 48 urges Israel to trust God’s promises despite their stubbornness, pointing to ultimate salvation in Christ."
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Isaiah 49–55 (The Servant’s Mission and Redemption)",
+      "summary": "Isaiah 49–55 centers on the Servant’s mission to restore Israel and bring salvation to the nations, culminating in the Suffering Servant (ch. 53), fulfilled in Jesus’ atonement (Acts 8:32–35). Chapters 49–52 depict the Servant as light to the Gentiles, while chapter 53 details His suffering and victory, and chapters 54–55 promise a new covenant and eternal redemption.  \nThis section emphasizes sacrificial love and universal salvation, challenging men to emulate the Servant’s humility and trust in God’s redemptive plan, applying Christ’s example to leadership and perseverance in trials.",
+      "images": [
+        {
+          "title": "Post-Exilic Judah Map",
+          "description": "Map of Judah after the return from exile, c. 539 BC, under Persian rule.",
+          "use": "It shows restored Judah in Isaiah 55’s covenant context, highlighting post-exile boundaries.",
+          "source": "biblemapper.com",
+          "url": "https://biblemapper.com/blog/wp-content/uploads/2025/10/JudeaUnderPersianRule-1-2048x1792.jpg"
+        },
+        {
+          "title": "Persian Burial Relief",
+          "description": "Relief of a Persian tomb, evoking the Servant’s burial in Isaiah 53:9.",
+          "use": "It illustrates ancient burial customs, grounding the Servant’s humble grave imagery.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gravestones_in_Iran-Qom_City-Archival_photo-2011_19.jpg"
+        },
+        {
+          "title": "The Suffering Servant",
+          "description": "An image of Isaiah's suffering servant in Isaiah 53.",
+          "use": "Visualizes the suffering of the servant",
+          "source": "",
+          "url": "https://tonywatkins.co.uk/wp-content/uploads/2012/01/Nicola_Grassi_-_The_Flagellation_of_Christ_-_WGA10379.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 49–55.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 271–310.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 24 – Isaiah 49–50 (66 mins; ).",
+          "link": "https://www.youtube.com/watch?v=9kY2vF8cQwI"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 25 – Isaiah 51–53 (68 mins; ).",
+          "link": "https://www.youtube.com/watch?v=ZvX7Y2vF8cR"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 26 – Isaiah 54–55 (65 mins; ).",
+          "link": "https://www.youtube.com/watch?v=9kY2vF8cQwJ"
+        },
+        {
+          "text": "Listen to Heiser’s Naked Bible Podcast Episode 415: “The Servant of Isaiah” ().",
+          "link": "https://nakedbiblepodcast.com/podcast/naked-bible-415-pauls-use-of-the-old-testament-series-the-messianic-story-part-3/"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“The Suffering Servant (Isaiah 52:13–53:12)” by Bob Deffinbaugh",
+          "link": "https://bible.org/seriespage/14-suffering-servant-isaiah-5213-5312"
+        },
+        {
+          "text": "“The Servant Songs of Isaiah” by BibleProject",
+          "link": "https://bibleproject.com/podcasts/the-servant-songs-of-isaiah/"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "How does Isaiah 49:1–6 describe the Servant’s mission to the nations? (Answers in Isaiah 49:1–6; Motyer, pp. 271–273.)",
+        "How does Isaiah 53:1–12 portray the Servant’s suffering and victory? (Answers in Isaiah 53:1–12; Motyer, pp. 290–293.)",
+        "How does Isaiah 54–55’s new covenant connect to Christ? (Answers in Isaiah 54–55; Motyer, pp. 295–297.)",
+        "How can you emulate the Servant’s humility in trials? (Answers in Isaiah 53:1–12; Oswalt Session 25, 15:00–20:00.)",
+        "How does Motyer unify ch. 49–55’s redemption theme? (Answers in Motyer, pp. 271–275.)",
+        "How does Isaiah 49:1–6’s mission apply to the Gentiles? (Answers in Isaiah 49:1–6; Oswalt Session 24, 5:00–10:00.)",
+        "How does Isaiah 53:1–12 connect to Christ’s atonement? (Answers in Isaiah 53:1–12; Oswalt Session 25, 10:00–15:00.)",
+        "How does Isaiah 54–55’s covenant inspire hope? (Answers in Isaiah 54–55; Oswalt Session 26, 12:00–15:00.)",
+        "How does Heiser’s podcast explain the Servant’s role? (Answers in Heiser’s podcast, 10:00–15:00.)",
+        "How can you apply the Servant’s sacrifice to your life? (Answers in Isaiah 53:1–12; Motyer, pp. 290–293.)"
+      ],
+      "keyPoints": [
+        "Servant’s Universal Mission: Chapters 49-50 depict the Servant restoring Israel and bringing salvation to all nations, fulfilled in Jesus (Acts 13:47).",
+        "Suffering Servant’s Atonement: Chapter 53 describes the Servant’s sacrificial death and resurrection, fulfilled in Christ’s work (1 Peter 2:24-25).",
+        "Everlasting Covenant: Chapters 54-55 promise an everlasting covenant and abundant mercy, fulfilled in the new covenant through Christ (Hebrews 8:6)."
+      ]
+    },
+    {
+      "number": 11,
+      "title": "Isaiah 56–59 (Ethics and Restoration)",
+      "summary": "Isaiah 56–59 calls post-exilic Judah to ethical living, emphasizing justice, Sabbath-keeping, and inclusion of foreigners (56:1–8), while condemning hypocrisy and injustice (ch. 58–59). These chapters envision a restored community under God’s covenant, fulfilled in Christ’s inclusive kingdom (Ephesians 2:14–16).  \nThis section challenges men to pursue righteousness and integrity, rejecting hypocrisy and embracing God’s vision for a just community, applying principles of fairness and faith to modern leadership and relationships.",
+      "images": [
+        {
+          "title": "Rebuilt Jerusalem Wall",
+          "description": "Illustration of Jerusalem’s rebuilt walls under Nehemiah, c. 5th century BC.",
+          "use": "This depicts post-exilic Judah in Isaiah 56-59, showing the restored city where ethical living was emphasized.",
+          "source": "faithfreehold.org",
+          "url": "https://images.squarespace-cdn.com/content/v1/5f3b3b092fd8357ee7668b5f/1658539044439-LRJN7D2T1FASUV5271RG/illustration_16_jerusalem-in-the-time-of-nehemiah.jpg?format=2500w"
+        },
+        {
+          "title": "Persian Yehud Coin",
+          "description": "Coin from the Persian province of Yehud, 5th century BC, with Hebrew script.",
+          "use": "This artifact reflects Judah’s post-exilic economy in Isaiah 56, grounding the context of renewal.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Yehud-falcon-coin.jpg"
+        },
+        {
+          "title": "Anointed Prophet Illustration",
+          "description": "Illustration of an anointed prophet, evoking Isaiah 61’s messenger.",
+          "use": "This depicts the anointing imagery in Isaiah 61, reflecting ancient prophetic roles.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Bible_primer%2C_Old_Testament%2C_for_use_in_the_primary_department_of_Sunday_schools_%281919%29_%2814759101386%29.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 56–59.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 311–330.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 27 – Isaiah 56–57 (64 mins; ).",
+          "link": "https://www.youtube.com/watch?v=XkY2vF8cQwK"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 28 – Isaiah 58–59 (66 mins; ).",
+          "link": "https://www.youtube.com/watch?v=ZmX7Y2vF8cS"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“Righteousness and Justice in Isaiah 56–59” by Bob Deffinbaugh",
+          "link": "https://bible.org/seriespage/15-righteousness-and-justice-isaiah-561-5921"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "How does Isaiah 56:1–8 emphasize inclusion and ethics? (Answers in Isaiah 56:1–8; Motyer, pp. 311–313.)",
+        "How does Isaiah 58 condemn hypocrisy in worship? (Answers in Isaiah 58; Motyer, pp. 315–317.)",
+        "How does Isaiah 59:1–15a address Judah’s sin and need for redemption? (Answers in Isaiah 59:1–15a; Motyer, pp. 320–322.)",
+        "How can you pursue justice in your community? (Answers in Isaiah 56:1–8; Oswalt Session 27, 15:00–20:00.)",
+        "How does Motyer unify ch. 56–59’s ethical themes? (Answers in Motyer, pp. 311–315.)",
+        "How does Isaiah 56:1–8’s inclusion reflect Christ’s kingdom? (Answers in Isaiah 56:1–8; Oswalt Session 27, 5:00–10:00.)",
+        "How does Isaiah 58’s condemnation apply to modern worship? (Answers in Isaiah 58; Oswalt Session 28, 10:00–15:00.)",
+        "How does Isaiah 59:1–15a call for repentance? (Answers in Isaiah 59:1–15a; Oswalt Session 28, 12:00–15:00.)",
+        "How can you reject hypocrisy in your faith? (Answers in Isaiah 58; Motyer, pp. 315–317.)",
+        "How does Oswalt’s Session 27 describe inclusion in Isaiah 56? (Answers in Isaiah 56:1–8; Oswalt Session 27, 5:00–10:00.)"
+      ],
+      "keyPoints": [
+        "Inclusive Covenant Community: Chapters 56-57 welcome foreigners and outcasts into God’s covenant, fulfilled in the church (Ephesians 2:19).",
+        "Confronting Sin: Chapter 58 addresses false worship and social injustice, calling for true righteousness, fulfilled in Christ’s teachings.",
+        "Divine Redemption: Chapter 59 confronts sin but promises a divine warrior’s redemption, fulfilled in Jesus (Romans 11:26-27)."
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Isaiah 60–66 (New Heavens and New Earth)",
+      "summary": "Isaiah 60–66 envisions the glorious restoration of Zion, with God’s glory illuminating the nations (ch. 60), the Anointed One proclaiming liberty (61:1–3, fulfilled in Jesus, Luke 4:18–21), and a new heavens and new earth (65–66). These chapters contrast present struggles with eschatological hope, emphasizing God’s faithfulness and eternal kingdom.  \nThis section inspires men to live with hope and purpose, trusting in Christ’s ultimate renewal, and challenges them to lead with faith and integrity, anticipating God’s new creation in their lives and communities.",
+      "images": [
+        {
+          "title": "Jerusalem during Persian Empire",
+          "description": "Model of Jerusalem in the Persian period, showing restored city and temple, c. 5th century BC.",
+          "use": "It depicts restored Jerusalem in Isaiah 62, grounding the vision of Zion’s glory.",
+          "source": "gospeldoctrine.com",
+          "url": "https://www.gospeldoctrine.com/sites/default/files/bookImages/OT/nehemiah%20walls%20model.jpg"
+        },
+        {
+          "title": "Eschatological Vision Illustration",
+          "description": "Illustration of a renewed creation, symbolizing Isaiah 65-66’s new heavens and earth.",
+          "use": "This visualizes the eschatological hope of Isaiah 65-66, reflecting ancient apocalyptic imagery.",
+          "source": "bible.art",
+          "url": "https://media.bible.art/4c0af7ca-db73-4413-ba60-f95784915c41-compressed.jpg"
+        },
+        {
+          "title": "Shag-Rish Edomite Fortress",
+          "description": "Photograph of an Edomite fortress ruin, representing Edom in Isaiah 63.",
+          "use": "This illustrates Edom’s strength, targeted for judgment in Isaiah 63’s vengeance imagery.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/ShagRish3895.JPG"
+        },
+        {
+          "title": "Second Temple Reconstruction",
+          "description": "Reconstruction of the Second Temple in Jerusalem, c. 5th century BC.",
+          "use": "It depicts the temple in Isaiah 66’s universal worship, grounding the final hope vision.",
+          "source": "Wikimedia Commons (Public Domain)",
+          "url": "https://c7.alamy.com/comp/JTJTNN/model-of-ancient-jerusalem-at-the-time-of-the-second-temple-including-JTJTNN.jpg"
+        }
+      ],
+      "preparation": [
+        {
+          "text": "Read Isaiah 60–66.",
+          "link": null
+        },
+        {
+          "text": "Read Motyer’s commentary, pp. 331–360.",
+          "link": null
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 29 – Isaiah 60–62 (65 mins; ).",
+          "link": "https://www.youtube.com/watch?v=XkY2vF8cQwL"
+        },
+        {
+          "text": "Watch Dr. John Oswalt, Isaiah, Session 30 – Isaiah 63–66 (67 mins; ).",
+          "link": "https://www.youtube.com/watch?v=ZmX7Y2vF8cT"
+        }
+      ],
+      "optionalResources": [
+        {
+          "text": "“New Heavens and New Earth in Isaiah 65–66” by Bob Deffinbaugh",
+          "link": "https://bible.org/seriespage/16-new-heavens-and-new-earth-isaiah-651-25"
+        },
+        {
+          "text": "“The New Creation in Isaiah” by BibleProject",
+          "link": "https://bibleproject.com/podcasts/the-new-creation-in-isaiah/"
+        }
+      ],
+      "sourceQuestions": [],
+      "commentaryQuestions": [],
+      "applicationQuestions": [],
+      "questions": [
+        "How does Isaiah 60:1–14 describe Zion’s restoration? (Answers in Isaiah 60:1–14; Motyer, pp. 331–333.)",
+        "How does Isaiah 61:1–3 connect to Jesus’ ministry? (Answers in Isaiah 61:1–3; Motyer, pp. 335–337.)",
+        "How does Isaiah 65–66’s new creation inspire hope? (Answers in Isaiah 65–66; Motyer, pp. 345–347.)",
+        "How can you live with hope for God’s kingdom? (Answers in Isaiah 65–66; Oswalt Session 30, 15:00–20:00.)",
+        "How does Motyer unify ch. 60–66’s restoration theme? (Answers in Motyer, pp. 331–335.)",
+        "How does Isaiah 60:1–14’s restoration reflect Christ? (Answers in Isaiah 60:1–14; Oswalt Session 29, 5:00–10:00.)",
+        "How does Isaiah 61:1–3 connect to Christ’s mission? (Answers in Isaiah 61:1–3; Oswalt Session 29, 10:00–15:00.)",
+        "How does Isaiah 65–66’s new creation apply to faith? (Answers in Isaiah 65–66; Oswalt Session 30, 12:00–15:00.)",
+        "How can you lead with hope in trials? (Answers in Isaiah 65–66; Motyer, pp. 345–347.)",
+        "How does Oswalt’s Session 30 describe the new creation? (Answers in Isaiah 65–66; Oswalt Session 30, 5:00–10:00.)"
+      ],
+      "keyPoints": [
+        "Zion’s Restoration: Chapter 60-62 promise Jerusalem’s glory and renewal, fulfilled in the heavenly Jerusalem (Revelation 21:2).",
+        "Judgment and Mercy: Chapters 63-64 balance divine judgment with pleas for mercy, pointing to Christ’s redemptive work.",
+        "New Heavens and Earth: Chapters 65-66 envision a new creation where righteousness dwells, fulfilled in Christ’s return (Revelation 21:1-4)."
+      ]
+    }
+  ]
+}

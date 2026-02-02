@@ -151,6 +151,20 @@ function generatePrintHTML(week) {
                 h2 { color: #34495e; margin-top: 30px; }
                 h3 { color: #7f8c8d; }
                 .summary { background: #f8f9fa; padding: 20px; border-left: 4px solid #3498db; margin: 20px 0; }
+                .geopolitical { background: #fff; padding: 20px; border: 1px solid #ddd; margin: 20px 0; }
+                .geopolitical h3 { margin-top: 0; color: #2c3e50; }
+                .geopolitical ul { list-style: none; padding-left: 0; }
+                .geopolitical li { padding: 5px 0; padding-left: 20px; position: relative; }
+                .geopolitical li:before { content: "•"; position: absolute; left: 0; font-weight: bold; }
+                .geo-period { font-weight: bold; color: #555; margin-bottom: 10px; }
+                .geo-babylon { color: #8b4513; }
+                .geo-babylon:before { color: #8b4513 !important; }
+                .geo-persia { color: #4169e1; }
+                .geo-persia:before { color: #4169e1 !important; }
+                .geo-judah { color: #228b22; }
+                .geo-judah:before { color: #228b22 !important; }
+                .geo-players { color: #666; }
+                .geo-players:before { color: #666 !important; }
                 .preparation-item { margin: 15px 0; }
                 .prep-checkbox { width: 15px; height: 15px; margin-right: 10px; }
                 .questions-section { margin-top: 30px; }
@@ -223,6 +237,37 @@ function generatePrintHTML(week) {
                 <h2>Summary</h2>
                 <p>${week.summary}</p>
             </div>
+            
+            ${week.geopolitical ? `
+            <div class="geopolitical">
+                <h3>Historical Context</h3>
+                <div class="geo-period">${week.geopolitical.period}</div>
+                ${week.geopolitical.babylon && week.geopolitical.babylon.length > 0 ? `
+                <strong>Babylon:</strong>
+                <ul>
+                    ${week.geopolitical.babylon.map(item => `<li class="geo-babylon">${item}</li>`).join('')}
+                </ul>
+                ` : ''}
+                ${week.geopolitical.persia && week.geopolitical.persia.length > 0 ? `
+                <strong>Persia:</strong>
+                <ul>
+                    ${week.geopolitical.persia.map(item => `<li class="geo-persia">${item}</li>`).join('')}
+                </ul>
+                ` : ''}
+                ${week.geopolitical.judah && week.geopolitical.judah.length > 0 ? `
+                <strong>Judah:</strong>
+                <ul>
+                    ${week.geopolitical.judah.map(item => `<li class="geo-judah">${item}</li>`).join('')}
+                </ul>
+                ` : ''}
+                ${week.geopolitical.majorPlayers && week.geopolitical.majorPlayers.length > 0 ? `
+                <strong>Major Players:</strong>
+                <ul>
+                    ${week.geopolitical.majorPlayers.map(item => `<li class="geo-players">${item}</li>`).join('')}
+                </ul>
+                ` : ''}
+            </div>
+            ` : ''}
             
             ${week.preparation && week.preparation.length > 0 ? `
                 <div class="preparation-section">
