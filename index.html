@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Refiner's Fire</title>
+    <script>
+        fetch('studies/registry.json')
+            .then(r => r.json())
+            .then(data => {
+                const active = data.studies.find(s => s.status === 'active');
+                window.location.replace(active ? `studies/${active.id}/index.html` : 'studies.html');
+            })
+            .catch(() => window.location.replace('studies.html'));
+    </script>
+</head>
+<body></body>
+</html>
