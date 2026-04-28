@@ -1,3 +1,24 @@
+/* Site Header */
+.site-header {
+    background: #2c3e50;
+    color: white;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.site-header .header-titles h1 { font-size: 1.4rem; margin-bottom: 2px; color: white; }
+.site-header .header-titles h2 { font-size: 1rem; font-weight: 400; color: #bdc3c7; margin-bottom: 0; }
+.header-nav-link {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-size: 0.9rem;
+    padding: 6px 14px;
+    border: 1px solid #ecf0f1;
+    border-radius: 4px;
+}
+.header-nav-link:hover { background: rgba(255,255,255,0.1); text-decoration: none; }
+
 /* Online Classroom Styling */
 * {
     margin: 0;
@@ -13,7 +34,7 @@ body {
 
 .classroom-container {
     display: flex;
-    height: 100vh;
+    height: calc(100vh - 58px);
 }
 
 /* Sidebar Navigation */
