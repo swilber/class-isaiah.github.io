@@ -128,9 +128,13 @@
     <div class="doc-section">
         <h2>Study Guide</h2>
         <div class="doc-container">
-            <iframe src="https://1drv.ms/w/c/f259931602e788bf/IQSOXtR0PowyRKyU6zrDUvtjAX6ywW38wYl4kZHPYvdQ6mQ?em=2"
+            <iframe id="studyGuide"
                     title="Study Guide"></iframe>
         </div>
     </div>
+    <script>
+        document.getElementById('studyGuide').src =
+            'https://1drv.ms/w/c/f259931602e788bf/IQSOXtR0PowyRKyU6zrDUvtjAX6ywW38wYl4kZHPYvdQ6mQ?em=2&t=' + Date.now();
+    </script>
 </body>
 </html>
