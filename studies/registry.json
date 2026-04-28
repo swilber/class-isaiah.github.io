@@ -1,0 +1,24 @@
+{
+  "studies": [
+    {
+      "id": "bringing-heaven-here",
+      "title": "Bringing Heaven Here",
+      "subtitle": "The Lord's Prayer",
+      "authors": "Brad Gray & Brad Nelson",
+      "sessions": 8,
+      "status": "active",
+      "description": "An 8-session men's study through Bringing Heaven Here, exploring the Lord's Prayer.",
+      "image": "https://m.media-amazon.com/images/I/71dMKL2cecL._SY466_.jpg"
+    },
+    {
+      "id": "isaiah",
+      "title": "Book of Isaiah",
+      "subtitle": "Verse-by-Verse Study",
+      "authors": "J. Alec Motyer / Dr. John Oswalt",
+      "sessions": 12,
+      "status": "archived",
+      "description": "A 12-week verse-by-verse study combining exegesis with historical context and Messianic fulfillment.",
+      "image": "../studies/isaiah/resources/flame.png"
+    }
+  ]
+}
