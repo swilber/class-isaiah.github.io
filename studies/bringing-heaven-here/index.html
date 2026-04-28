@@ -97,7 +97,21 @@
             header { flex-direction: column; gap: 10px; text-align: center; }
             .study-info { flex-direction: column; }
             .book-card { width: 100%; }
+            .doc-container iframe { height: 600px; }
         }
+        .doc-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        .doc-header h2 { margin: 0; }
+        .open-link {
+            color: #3498db;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+        .open-link:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -126,7 +140,11 @@
     </div>
 
     <div class="doc-section">
-        <h2>Study Guide</h2>
+        <div class="doc-header">
+            <h2>Study Guide</h2>
+            <a href="https://1drv.ms/w/c/f259931602e788bf/IQCOXtR0PowyRKyU6zrDUvtjAZae_GoWfLsRf51sgZUKGy8"
+               target="_blank" class="open-link">Open in new tab ↗</a>
+        </div>
         <div class="doc-container">
             <iframe id="studyGuide"
                     title="Study Guide"></iframe>
