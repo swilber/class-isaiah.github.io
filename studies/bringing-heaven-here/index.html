@@ -398,15 +398,19 @@
 
         // Scale iframe to fit container on mobile/tablet
         function scaleIframe() {
-            if (window.innerWidth > 768) return;
-            const container = document.querySelector('.doc-container');
             const iframe = document.getElementById('studyGuide');
+            if (window.innerWidth > 768) {
+                iframe.style.transform = '';
+                iframe.style.height = '';
+                return;
+            }
+            const container = document.querySelector('.doc-container');
             const scale = container.offsetWidth / 1000;
             iframe.style.transform = `scale(${scale})`;
             iframe.style.height = (85 / scale) + 'vh';
         }
         window.addEventListener('resize', scaleIframe);
-        scaleIframe();
+        window.addEventListener('load', scaleIframe);
 
         // Init
         loadSession();
