@@ -31,9 +31,11 @@
             border-radius: 4px;
         }
         .nav-link:hover { background: rgba(255,255,255,0.1); }
+
+        /* Study info bar */
         .study-info {
-            max-width: 900px;
-            margin: 25px auto;
+            max-width: 1400px;
+            margin: 20px auto;
             padding: 0 20px;
             display: flex;
             gap: 20px;
@@ -47,11 +49,7 @@
             flex-shrink: 0;
             text-align: center;
         }
-        .book-card img {
-            width: 150px;
-            border-radius: 4px;
-            margin-bottom: 12px;
-        }
+        .book-card img { width: 150px; border-radius: 4px; margin-bottom: 12px; }
         .book-link {
             display: inline-block;
             background: #e47911;
@@ -73,45 +71,158 @@
         }
         .study-description h2 { margin-bottom: 10px; color: #2c3e50; }
         .study-description p { margin-bottom: 10px; color: #555; }
-        .doc-section {
-            max-width: 900px;
-            margin: 20px auto;
+
+        /* Mobile tabs */
+        .mobile-tabs {
+            display: none;
+            max-width: 1400px;
+            margin: 15px auto 0;
+            padding: 0 20px;
+        }
+        .mobile-tabs button {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            background: #ddd;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            color: #555;
+            transition: background 0.2s, color 0.2s;
+        }
+        .mobile-tabs button.active {
+            background: #2c3e50;
+            color: white;
+        }
+        .mobile-tabs button:first-child { border-radius: 8px 0 0 8px; }
+        .mobile-tabs button:last-child { border-radius: 0 8px 8px 0; }
+
+        /* Split layout */
+        .split-container {
+            max-width: 1400px;
+            margin: 15px auto;
             padding: 0 20px 30px;
+            display: flex;
+            gap: 20px;
+            align-items: stretch;
         }
-        .doc-section h2 {
-            margin-bottom: 15px;
-            color: #2c3e50;
+        .doc-panel {
+            flex: 1;
+            min-width: 0;
         }
+        .doc-panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .doc-panel-header h2 { font-size: 1.2rem; color: #2c3e50; }
+        .open-link { color: #3498db; text-decoration: none; font-size: 0.9rem; }
+        .open-link:hover { text-decoration: underline; }
         .doc-container {
             background: white;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             overflow: hidden;
         }
-        .doc-container iframe {
-            width: 100%;
-            height: 1200px;
-            border: none;
+        .doc-container iframe { width: 100%; height: 85vh; border: none; }
+
+        .notes-panel {
+            width: 420px;
+            flex-shrink: 0;
+            display: flex;
+            flex-direction: column;
         }
+        .notes-panel h2 {
+            font-size: 1.2rem;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        /* Session selector */
+        .session-select {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 0.95rem;
+            background: white;
+            color: #2c3e50;
+            margin-bottom: 12px;
+            cursor: pointer;
+        }
+
+        /* Notes area */
+        .notes-body {
+            flex: 1;
+            overflow-y: auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+        }
+        .note-section { margin-bottom: 24px; flex: 1; display: flex; flex-direction: column; }
+        .note-section:last-child { margin-bottom: 0; }
+        .note-section h3 {
+            font-size: 1rem;
+            color: #2c3e50;
+            margin-bottom: 8px;
+            padding-bottom: 6px;
+            border-bottom: 2px solid #3498db;
+        }
+        .note-section.journal h3 {
+            border-bottom-color: #27ae60;
+        }
+        .note-section textarea {
+            width: 100%;
+            flex: 1;
+            min-height: 100px;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            font-family: inherit;
+            font-size: 0.9rem;
+            line-height: 1.6;
+            resize: vertical;
+            color: #2c3e50;
+            transition: border-color 0.2s;
+        }
+        .note-section textarea:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+        .note-section.journal textarea:focus {
+            border-color: #27ae60;
+        }
+        .save-indicator {
+            text-align: right;
+            font-size: 0.8rem;
+            color: #27ae60;
+            min-height: 1.2em;
+            margin-top: 4px;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+        .save-indicator.visible { opacity: 1; }
+
+        /* Responsive */
         @media (max-width: 768px) {
             header { flex-direction: column; gap: 10px; text-align: center; }
             .study-info { flex-direction: column; }
             .book-card { width: 100%; }
-            .doc-container iframe { height: 600px; }
+            .mobile-tabs { display: flex; }
+            .split-container { flex-direction: column; }
+            .doc-panel, .notes-panel {
+                width: 100%;
+                position: static;
+                max-height: none;
+            }
+            .doc-container iframe { height: 70vh; }
+            .split-container .hidden-mobile { display: none; }
+            .notes-panel { min-height: 60vh; }
         }
-        .doc-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 15px;
-        }
-        .doc-header h2 { margin: 0; }
-        .open-link {
-            color: #3498db;
-            text-decoration: none;
-            font-size: 0.9rem;
-        }
-        .open-link:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -129,8 +240,7 @@
                  alt="Bringing Heaven Here book cover"
                  onerror="this.style.display='none'">
             <br>
-            <a href="https://a.co/d/07qiAxAB"
-               target="_blank" class="book-link">Purchase on Amazon</a>
+            <a href="https://a.co/d/07qiAxAB" target="_blank" class="book-link">Purchase on Amazon</a>
         </div>
         <div class="study-description">
             <h2>Bringing Heaven Here</h2>
@@ -140,18 +250,147 @@
         </div>
     </div>
 
-    <div class="doc-section">
-        <div class="doc-header">
-            <h2>Study Guide</h2>
-            <a href="https://1drv.ms/w/c/f259931602e788bf/IQCOXtR0PowyRKyU6zrDUvtjAZae_GoWfLsRf51sgZUKGy8"
-               target="_blank" class="open-link">Open in new tab ↗</a>
+    <div class="mobile-tabs">
+        <button id="tabGuide" class="active" onclick="showTab('guide')">Study Guide</button>
+        <button id="tabNotes" onclick="showTab('notes')">My Notes</button>
+    </div>
+
+    <div class="split-container">
+        <div class="doc-panel" id="guidePanel">
+            <div class="doc-panel-header">
+                <h2>Study Guide</h2>
+                <a href="https://1drv.ms/w/c/f259931602e788bf/IQCOXtR0PowyRKyU6zrDUvtjAZae_GoWfLsRf51sgZUKGy8"
+                   target="_blank" class="open-link">Open in new tab ↗</a>
+            </div>
+            <div class="doc-container">
+                <iframe id="studyGuide" title="Study Guide"></iframe>
+            </div>
         </div>
-        <div class="doc-container">
-            <iframe id="studyGuide"
-                    title="Study Guide"></iframe>
+
+        <div class="notes-panel" id="notesPanel">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+                <h2 style="margin:0;">My Notes</h2>
+                <button onclick="printNotes()" style="background:none; border:1px solid #3498db; color:#3498db; padding:5px 12px; border-radius:4px; cursor:pointer; font-size:0.85rem;">Print</button>
+            </div>
+            <select class="session-select" id="sessionSelect" onchange="loadSession()"></select>
+            <div class="notes-body" id="notesBody"></div>
         </div>
     </div>
+
     <script>
+        // Session metadata — titles/chapters only, questions live in the Word doc
+        const sessions = [
+            { num: 1, title: 'Our Father', chapters: 'Ch 2 & 3', subtitle: 'Identity Before Everything' },
+            { num: 2, title: 'In the Heavens', chapters: 'Ch 4 & 5', subtitle: 'God Is Not Far Away' },
+            { num: 3, title: 'Holy Be Your Name', chapters: 'Ch 6 & 7', subtitle: 'You Carry His Name' },
+            { num: 4, title: 'Your Kingdom Come', chapters: 'Ch 8 & 9', subtitle: 'Kingdom as a Main Theme' },
+            { num: 5, title: 'Daily Bread', chapters: 'Ch 10 & 11', subtitle: 'Trust vs. Control' },
+            { num: 6, title: 'Forgiveness', chapters: 'Ch 12 & 13', subtitle: 'Flow or Decay' },
+            { num: 7, title: 'Temptation & Evil', chapters: 'Ch 14 & 15', subtitle: 'The Real Battle' },
+            { num: 8, title: 'Living the Prayer', chapters: 'Ch 16', subtitle: 'If Nothing Changes' },
+        ];
+
+        const STORAGE_PREFIX = 'bhh-';
+        let saveTimers = {};
+
+        // Populate session dropdown
+        const select = document.getElementById('sessionSelect');
+        sessions.forEach(s => {
+            const opt = document.createElement('option');
+            opt.value = s.num;
+            opt.textContent = `Session ${s.num}: ${s.title} (${s.chapters})`;
+            select.appendChild(opt);
+        });
+
+        function storageKey(sessionNum, field) {
+            return `${STORAGE_PREFIX}s${sessionNum}-${field}`;
+        }
+
+        function loadSession() {
+            const num = parseInt(select.value);
+            const session = sessions[num - 1];
+            const body = document.getElementById('notesBody');
+
+            body.innerHTML = `
+                <div class="note-section">
+                    <h3>Discussion Notes</h3>
+                    <p style="color:#7f8c8d; font-size:0.85rem; margin-bottom:8px;">
+                        Capture your thoughts on the discussion questions from the study guide.
+                    </p>
+                    <textarea id="field-discussion"
+                        placeholder="Type your discussion notes here...">${localStorage.getItem(storageKey(num, 'discussion')) || ''}</textarea>
+                    <div class="save-indicator" id="save-discussion"></div>
+                </div>
+                <div class="note-section journal">
+                    <h3>Journal</h3>
+                    <p style="color:#7f8c8d; font-size:0.85rem; margin-bottom:8px;">
+                        Personal reflection — respond to the journal prompts in the study guide.
+                    </p>
+                    <textarea id="field-journal"
+                        placeholder="Type your journal reflections here...">${localStorage.getItem(storageKey(num, 'journal')) || ''}</textarea>
+                    <div class="save-indicator" id="save-journal"></div>
+                </div>
+            `;
+
+            // Attach auto-save listeners
+            ['discussion', 'journal'].forEach(field => {
+                document.getElementById(`field-${field}`).addEventListener('input', () => autoSave(num, field));
+            });
+        }
+
+        function autoSave(sessionNum, field) {
+            const key = storageKey(sessionNum, field);
+            const value = document.getElementById(`field-${field}`).value;
+            clearTimeout(saveTimers[key]);
+            saveTimers[key] = setTimeout(() => {
+                localStorage.setItem(key, value);
+                const indicator = document.getElementById(`save-${field}`);
+                indicator.textContent = '✓ Saved';
+                indicator.classList.add('visible');
+                setTimeout(() => indicator.classList.remove('visible'), 1500);
+            }, 400);
+        }
+
+        // Mobile tab switching
+        function showTab(tab) {
+            const guide = document.getElementById('guidePanel');
+            const notes = document.getElementById('notesPanel');
+            document.getElementById('tabGuide').classList.toggle('active', tab === 'guide');
+            document.getElementById('tabNotes').classList.toggle('active', tab === 'notes');
+            guide.classList.toggle('hidden-mobile', tab !== 'guide');
+            notes.classList.toggle('hidden-mobile', tab !== 'notes');
+        }
+
+        function printNotes() {
+            const num = parseInt(select.value);
+            const s = sessions[num - 1];
+            const discussion = localStorage.getItem(storageKey(num, 'discussion')) || '';
+            const journal = localStorage.getItem(storageKey(num, 'journal')) || '';
+            const w = window.open('', '_blank');
+            w.document.write(`<!DOCTYPE html><html><head><title>Session ${s.num} Notes</title>
+                <style>
+                    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 700px; margin: 40px auto; color: #2c3e50; }
+                    h1 { font-size: 1.4rem; margin-bottom: 4px; }
+                    h2 { font-size: 1rem; color: #7f8c8d; font-weight: 400; margin-bottom: 24px; }
+                    h3 { font-size: 1.1rem; margin-bottom: 8px; padding-bottom: 4px; border-bottom: 2px solid #3498db; }
+                    h3.journal { border-bottom-color: #27ae60; }
+                    pre { white-space: pre-wrap; font-family: inherit; line-height: 1.7; margin-bottom: 30px; }
+                    .empty { color: #aaa; font-style: italic; }
+                    @media print { body { margin: 20px; } }
+                </style></head><body>
+                <h1>Session ${s.num}: ${s.title}</h1>
+                <h2>${s.subtitle} — ${s.chapters}</h2>
+                <h3>Discussion Notes</h3>
+                <pre>${discussion || '<span class="empty">No notes entered.</span>'}</pre>
+                <h3 class="journal">Journal</h3>
+                <pre>${journal || '<span class="empty">No notes entered.</span>'}</pre>
+            </body></html>`);
+            w.document.close();
+            w.print();
+        }
+
+        // Init
+        loadSession();
         document.getElementById('studyGuide').src =
             'https://1drv.ms/w/c/f259931602e788bf/IQSOXtR0PowyRKyU6zrDUvtjAX6ywW38wYl4kZHPYvdQ6mQ?em=2&t=' + Date.now();
     </script>
