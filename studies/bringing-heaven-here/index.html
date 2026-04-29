@@ -428,15 +428,17 @@
         // Scale iframe to fit container on mobile/tablet
         function scaleIframe() {
             const iframe = document.getElementById('studyGuide');
+            const container = document.querySelector('.doc-container');
             if (window.innerWidth > 768) {
                 iframe.style.transform = '';
                 iframe.style.height = '';
+                container.style.height = '';
                 return;
             }
-            const container = document.querySelector('.doc-container');
             const scale = container.offsetWidth / 700;
             iframe.style.transform = `scale(${scale})`;
             iframe.style.height = (85 / scale) + 'vh';
+            container.style.height = 85 + 'vh';
         }
         window.addEventListener('resize', scaleIframe);
         window.addEventListener('load', scaleIframe);
