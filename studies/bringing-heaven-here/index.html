@@ -219,7 +219,15 @@
                 position: static;
                 max-height: none;
             }
-            .doc-container iframe { height: 70vh; }
+            .doc-container {
+                overflow: hidden;
+            }
+            .doc-container iframe {
+                width: 166.67%;
+                height: 116.67vh;
+                transform: scale(0.6);
+                transform-origin: top left;
+            }
             .split-container .hidden-mobile { display: none; }
             .notes-panel { min-height: 60vh; }
         }
