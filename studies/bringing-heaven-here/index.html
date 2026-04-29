@@ -223,9 +223,8 @@
                 overflow: hidden;
             }
             .doc-container iframe {
-                width: 166.67%;
-                height: 116.67vh;
-                transform: scale(0.6);
+                width: 1000px;
+                height: 85vh;
                 transform-origin: top left;
             }
             .split-container .hidden-mobile { display: none; }
@@ -396,6 +395,18 @@
             w.document.close();
             w.print();
         }
+
+        // Scale iframe to fit container on mobile/tablet
+        function scaleIframe() {
+            if (window.innerWidth > 768) return;
+            const container = document.querySelector('.doc-container');
+            const iframe = document.getElementById('studyGuide');
+            const scale = container.offsetWidth / 1000;
+            iframe.style.transform = `scale(${scale})`;
+            iframe.style.height = (85 / scale) + 'vh';
+        }
+        window.addEventListener('resize', scaleIframe);
+        scaleIframe();
 
         // Init
         loadSession();
