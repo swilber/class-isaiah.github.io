@@ -139,7 +139,7 @@
             margin-bottom: 10px;
         }
 
-        /* Session selector */
+        .session-pills { display: none; }
         .session-select {
             width: 100%;
             padding: 10px 12px;
@@ -228,7 +228,21 @@
                 transform-origin: top left;
             }
             .split-container .hidden-mobile { display: none; }
-            .session-select { font-size: 16px; }
+            .session-select { display: none; }
+            .session-pills { display: flex; overflow-x: auto; gap: 8px; padding: 2px 0 10px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+            .session-pills::-webkit-scrollbar { display: none; }
+            .session-pill {
+                flex-shrink: 0;
+                padding: 8px 14px;
+                border-radius: 20px;
+                border: 1px solid #ccc;
+                background: white;
+                font-size: 0.85rem;
+                color: #555;
+                cursor: pointer;
+                white-space: nowrap;
+            }
+            .session-pill.active { background: #2c3e50; color: white; border-color: #2c3e50; }
         }
     </style>
 </head>
@@ -280,6 +294,7 @@
                 <button onclick="printNotes()" style="background:none; border:1px solid #3498db; color:#3498db; padding:5px 12px; border-radius:4px; cursor:pointer; font-size:0.85rem;">Print</button>
             </div>
             <select class="session-select" id="sessionSelect" onchange="loadSession()"></select>
+            <div class="session-pills" id="sessionPills"></div>
             <div class="notes-body" id="notesBody"></div>
         </div>
     </div>
@@ -300,13 +315,25 @@
         const STORAGE_PREFIX = 'bhh-';
         let saveTimers = {};
 
-        // Populate session dropdown
+        // Populate session selectors
         const select = document.getElementById('sessionSelect');
+        const pillsContainer = document.getElementById('sessionPills');
         sessions.forEach(s => {
             const opt = document.createElement('option');
             opt.value = s.num;
             opt.textContent = `Session ${s.num}: ${s.title} (${s.chapters})`;
             select.appendChild(opt);
+
+            const pill = document.createElement('button');
+            pill.className = 'session-pill' + (s.num === 1 ? ' active' : '');
+            pill.textContent = `${s.num}. ${s.title}`;
+            pill.onclick = () => {
+                select.value = s.num;
+                pillsContainer.querySelectorAll('.session-pill').forEach(p => p.classList.remove('active'));
+                pill.classList.add('active');
+                loadSession();
+            };
+            pillsContainer.appendChild(pill);
         });
 
         function storageKey(sessionNum, field) {
