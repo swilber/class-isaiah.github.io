@@ -391,6 +391,8 @@
 
         // Init
         loadSession();
+        // On mobile, default to showing only the study guide
+        if (window.innerWidth <= 768) showTab('guide');
         document.getElementById('studyGuide').src =
             'https://1drv.ms/w/c/f259931602e788bf/IQSOXtR0PowyRKyU6zrDUvtjAX6ywW38wYl4kZHPYvdQ6mQ?em=2&t=' + Date.now();
     </script>
