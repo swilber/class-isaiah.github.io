@@ -223,7 +223,7 @@
                 overflow: hidden;
             }
             .doc-container iframe {
-                width: 1000px;
+                width: 700px;
                 height: 85vh;
                 transform-origin: top left;
             }
@@ -405,7 +405,7 @@
                 return;
             }
             const container = document.querySelector('.doc-container');
-            const scale = container.offsetWidth / 1000;
+            const scale = container.offsetWidth / 700;
             iframe.style.transform = `scale(${scale})`;
             iframe.style.height = (85 / scale) + 'vh';
         }
